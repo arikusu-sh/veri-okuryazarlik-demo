@@ -1,0 +1,14 @@
+# Instructor handbook (keep local only)
+egitmen_handbook.html
+**/egitmen_handbook.html
+
+# Python virtual environments & cache
+.venv/
+**/.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# OS files
+.DS_Store
+**/.DS_Store

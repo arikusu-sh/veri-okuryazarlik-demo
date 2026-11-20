@@ -1,0 +1,1201 @@
+kampanya_id,tarih,servis_adi,kanal,kreatif_varyant,hedef_kitle,cihaz_tipi,gonderim_saati,gosterim,tiklama,abonelik_donusumu,harcanan_butce,kullanici_degeri_ltv
+TKC-1001,2026-10-21,TV+ Süper Paket,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),Android,Sabah (08-12),23674,329,1,3163,459.5
+TKC-1002,2026-10-03,TV+ Süper Paket,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),Android,Sabah (08-12),24481,302,0,3270,692.8
+TKC-1003,2026-10-01,Game+ GeForce NOW,BiP,B - İlk Ay +10GB Hediye,Profesyonel (27-40),iOS,Öğle (12-17),13949,668,45,442,1543.9
+TKC-1004,2026-10-24,BiP Yıldızlar,SMS,A - %40 İndirim Fırsatı,GNÇ (18-26),iOS,Gece (22-03),22099,704,26,1250,946.6
+TKC-1005,2026-10-02,Lifebox 500GB,BiP,D - Son 24 Saat (FOMO),Gamer Pro,iOS,Akşam (17-22),22330,1563,54,618,1468.6
+TKC-1006,2026-10-23,Fizy Premium,Push Bildirim,B - İlk Ay +10GB Hediye,GNÇ (18-26),Android,Öğle (12-17),10345,535,21,230,1158.1
+TKC-1007,2026-10-27,BiP Yıldızlar,bip,A - %40 İndirim Fırsatı,Aile & Ev (41+),Android,Öğle (12-17),11811,606,24,427,1453.6
+TKC-1008,2026-10-05,Lifebox 500GB,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),Android,Sabah (08-12),15538,235,0,1845,749.3
+TKC-1009,2026-10-17,Fizy Premium,SMS,B - İlk Ay +10GB Hediye,GNÇ (18-26),Android,Sabah (08-12),15333,483,14,873,863.8
+TKC-1010,2026-10-09,Game+ GeForce NOW,Push Bildirim,C - Gamer & E-Spor Özel,GNÇ (18-26),iOS,Sabah (08-12),15746,527,14,384,1173.9
+TKC-1011,2026-10-17,BiP Yıldızlar,BiP,C - Gamer & E-Spor Özel,GNÇ (18-26),Android,Akşam (17-22),6508,365,12,242.46 TL,1607.3
+TKC-1012,2026-10-30,Lifebox 500GB,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),Android,Sabah (08-12),11576,114,0,1536,473.6
+TKC-1013,2026-10-24,Lifebox 500GB,SMS,B - İlk Ay +10GB Hediye,GNÇ (18-26),Android,Öğle (12-17),6910,181,6,369,774.1
+TKC-1014,2026-10-18,Game+ GeForce NOW,BiP,C - Gamer & E-Spor Özel,Aile & Ev (41+),Android,Öğle (12-17),18459,1080,39,425,1111.6
+TKC-1015,2026-10-18,TV+ Süper Paket,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),iOS,Sabah (08-12),2529,37,0,302,650.7
+TKC-1016,2026-10-07,Lifebox 500GB,SMS,D - Son 24 Saat (FOMO),Gamer Pro,iOS,Öğle (12-17),4676,152,4,249,1002.3
+TKC-1017,2026-10-02,TV+ Süper Paket,BiP,B - İlk Ay +10GB Hediye,GNÇ (18-26),iOS,Öğle (12-17),7732,472,24,193,1354.4
+TKC-1018,2026-10-28,BiP Yıldızlar,Push Bildirim,A - %40 İndirim Fırsatı,Gamer Pro,Android,Sabah (08-12),4556,229,10,78,1068.5
+TKC-1019,2026-10-07,TV+ Süper Paket,Push Bildirim,D - Son 24 Saat (FOMO),GNÇ (18-26),Android,Öğle (12-17),10190,513,22,₺191,1163.5
+TKC-1020,2026-10-24,Game+ GeForce NOW,Push Bildirim,B - İlk Ay +10GB Hediye,Gamer Pro,iOS,Öğle (12-17),3416,146,5,84,875.7
+TKC-1021,2026-10-19,Fizy Premium,SMS,A - %40 İndirim Fırsatı,Profesyonel (27-40),iOS,Sabah (08-12),3726,122,3,177,1011.6
+TKC-1022,2026-10-08,BiP Yıldızlar,SMS,D - Son 24 Saat (FOMO),GNÇ (18-26),Android,Sabah (08-12),11866,438,12,703.94 TL,783.5
+TKC-1023,2026-10-13,TV+ Süper Paket,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),iOS,Sabah (08-12),21854,349,2,2468,513.9
+TKC-1024,2026-10-09,TV+ Süper Paket,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),iOS,Sabah (08-12),6669,76,0,814,745.2
+TKC-1025,2026-10-26,Game+ GeForce NOW,BiP ,D - Son 24 Saat (FOMO),Gamer Pro,iOS,Sabah (08-12),5007,336,11,133,1215.8
+TKC-1026,2026-10-11,Lifebox 500GB,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),iOS,Sabah (08-12),3164,27,0,383,451.1
+TKC-1027,2026-10-25,Lifebox 500GB,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),Android,Sabah (08-12),15514,193,0,2293,657.3
+TKC-1028,2026-10-05,Fizy Premium,SMS,D - Son 24 Saat (FOMO),Aile & Ev (41+),iOS,Öğle (12-17),13448,489,18,837,1014.6
+TKC-1029,2026-10-07,BiP Yıldızlar,BiP,D - Son 24 Saat (FOMO),Profesyonel (27-40),Android,Akşam (17-22),9257,656,32,324,1584.8
+TKC-1030,2026-10-01,Fizy Premium,Instagram,C - Gamer & E-Spor Özel,GNÇ (18-26),iOS,Akşam (17-22),24479,1670,168,2711,1594.6
+TKC-1031,2026-10-27,Fizy Premium,Push Bildirim,B - İlk Ay +10GB Hediye,Aile & Ev (41+),iOS,Akşam (17-22),7828,303,10,124,1198.0
+TKC-1032,2026-10-12,TV+ Süper Paket,BiP,D - Son 24 Saat (FOMO),Gamer Pro,Android,Akşam (17-22),10059,506,24,264,1159.6
+TKC-1033,2026-10-14,TV+ Süper Paket,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),iOS,Sabah (08-12),20393,194,0,2598.93 TL,606.0
+TKC-1034,2026-10-26,TV+ Süper Paket,SMS,D - Son 24 Saat (FOMO),Profesyonel (27-40),Android,Akşam (17-22),12319,393,13,585,1015.0
+TKC-1035,2026-10-17,Lifebox 500GB,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),Android,Sabah (08-12),7786,88,0,1067,720.8
+TKC-1036,2026-10-20,Game+ GeForce NOW,SMS,C - Gamer & E-Spor Özel,Gamer Pro,iOS,Sabah (08-12),20504,650,19,1104,936.5
+TKC-1037,2026-10-17,BiP Yıldızlar,SMS,C - Gamer & E-Spor Özel,,Android,Sabah (08-12),21791,596,22,1308,935.5
+TKC-1038,2026-10-08,TV+ Süper Paket,BiP,B - İlk Ay +10GB Hediye,GNÇ (18-26),Android,Gece (22-03),22136,1378,89,₺623,1319.8
+TKC-1039,2026-10-05,BiP Yıldızlar,bip,C - Gamer & E-Spor Özel,Aile & Ev (41+),Android,Öğle (12-17),19765,1037,49,579,1540.8
+TKC-1040,2026-10-22,BiP Yıldızlar,SMS,D - Son 24 Saat (FOMO),Aile & Ev (41+),Android,Gece (22-03),6715,227,7,337,786.5
+TKC-1041,2026-10-21,TV+ Süper Paket,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),iOS,Sabah (08-12),4038,55,0,498,717.9
+TKC-1042,2026-10-03,TV+ Süper Paket,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),iOS,Sabah (08-12),14856,158,0,1671,699.9
+TKC-1043,2026-10-13,TV+ Süper Paket,Push Bildirim,D - Son 24 Saat (FOMO),GNÇ (18-26),Android,Gece (22-03),11284,525,23,309,1038.6
+TKC-1044,2026-10-24,Lifebox 500GB,BiP,B - İlk Ay +10GB Hediye,Gamer Pro,iOS,Akşam (17-22),12514,814,54,420.31 TL,1562.3
+TKC-1045,2026-10-30,Lifebox 500GB,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),Android,Sabah (08-12),23225,190,0,2681,588.5
+TKC-1046,2026-10-02,Lifebox 500GB,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),Android,Sabah (08-12),13923,142,0,1766,700.5
+TKC-1047,2026-10-16,Game+ GeForce NOW,Instagram,C - Gamer & E-Spor Özel,GNÇ (18-26),Android,Akşam (17-22),22856,1513,114,$60,1995.5
+TKC-1048,2026-10-20,TV+ Süper Paket,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),Android,Sabah (08-12),9896,139,0,1329,674.4
+TKC-1049,2026-10-04,BiP Yıldızlar,BiP,D - Son 24 Saat (FOMO),GNÇ (18-26),Android,Akşam (17-22),13798,785,35,320,1479.8
+TKC-1050,2026-10-21,TV+ Süper Paket,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),Android,Sabah (08-12),20044,285,0,2548,561.2
+TKC-1051,2026-10-17,Lifebox 500GB,BiP ,D - Son 24 Saat (FOMO),Aile & Ev (41+),Android,Sabah (08-12),15770,792,32,511,1438.8
+TKC-1052,2026-10-30,BiP Yıldızlar,SMS,D - Son 24 Saat (FOMO),Gamer Pro,iOS,Gece (22-03),9544,336,8,598,785.4
+TKC-1053,2026-10-15,Lifebox 500GB,SMS,A - %40 İndirim Fırsatı,Gamer Pro,Android,Akşam (17-22),7458,222,6,374,
+TKC-1054,2026-10-20,Lifebox 500GB,BiP,A - %40 İndirim Fırsatı,GNÇ (18-26),Android,Gece (22-03),9374,11216,0,700,1536.1
+TKC-1055,2026-10-08,Lifebox 500GB,SMS,C - Gamer & E-Spor Özel,Profesyonel (27-40),Android,Akşam (17-22),12764,367,13,658.82 TL,946.0
+TKC-1056,2026-10-09,Lifebox 500GB,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),iOS,Sabah (08-12),19059,297,1,2243,671.6
+TKC-1057,2026-10-09,Fizy Premium,BiP,A - %40 İndirim Fırsatı,Profesyonel (27-40),iOS,Öğle (12-17),13325,671,21,₺407,1250.9
+TKC-1058,2026-10-02,TV+ Süper Paket,SMS,A - %40 İndirim Fırsatı,Profesyonel (27-40),Android,Gece (22-03),16881,500,15,1086,788.4
+TKC-1059,2026-10-28,TV+ Süper Paket,SMS,D - Son 24 Saat (FOMO),GNÇ (18-26),Android,Gece (22-03),23993,548,14,1350,806.3
+TKC-1060,2026-10-08,TV+ Süper Paket,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),Android,Sabah (08-12),13964,162,0,2016,747.0
+TKC-1061,2026-10-10,Fizy Premium,SMS,B - İlk Ay +10GB Hediye,GNÇ (18-26),iOS,Sabah (08-12),4160,101,2,193,700.9
+TKC-1062,2026-10-15,Lifebox 500GB,BiP,B - İlk Ay +10GB Hediye,GNÇ (18-26),iOS,Öğle (12-17),9148,665,44,293,1463.7
+TKC-1063,2026-10-30,TV+ Süper Paket,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),Android,Sabah (08-12),6160,52,0,753,674.7
+TKC-1064,2026-10-19,Game+ GeForce NOW,Push Bildirim,D - Son 24 Saat (FOMO),Gamer Pro,Android,Sabah (08-12),10420,427,16,167,867.9
+TKC-1065,2026-10-14,BiP Yıldızlar,BiP,C - Gamer & E-Spor Özel,GNÇ (18-26),Android,Öğle (12-17),2179,163,7,57,1122.1
+TKC-1066,2026-10-25,Lifebox 500GB,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),iOS,Sabah (08-12),20680,237,1,3076.40 TL,591.0
+TKC-1067,2026-10-14,Fizy Premium,Instagram,B - İlk Ay +10GB Hediye,GNÇ (18-26),iOS,Akşam (17-22),14622,1307,89,1442,1654.4
+TKC-1068,2026-10-11,Fizy Premium,Instagram,B - İlk Ay +10GB Hediye,Gamer Pro,iOS,Akşam (17-22),18488,1402,103,1918,1944.0
+TKC-1069,2026-10-07,Lifebox 500GB,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),iOS,Sabah (08-12),22144,285,0,2576,615.3
+TKC-1070,2026-10-18,TV+ Süper Paket,SMS,D - Son 24 Saat (FOMO),Profesyonel (27-40),Android,Sabah (08-12),6545,196,7,361,795.7
+TKC-1071,2026-10-27,BiP Yıldızlar,SMS,D - Son 24 Saat (FOMO),Gamer Pro,iOS,Öğle (12-17),7745,284,9,485,1002.4
+TKC-1072,2026-10-09,TV+ Süper Paket,BiP,B - İlk Ay +10GB Hediye,GNÇ (18-26),iOS,Akşam (17-22),11283,791,48,367,1575.9
+TKC-1073,2026-10-15,Lifebox 500GB,SMS,D - Son 24 Saat (FOMO),Aile & Ev (41+),Android,Akşam (17-22),7681,289,8,404,999.6
+TKC-1074,2026-10-14,Lifebox 500GB,Instagram,A - %40 İndirim Fırsatı,,iOS,Sabah (08-12),23247,333,1,2699,739.4
+TKC-1075,2026-10-05,TV+ Süper Paket,SMS,D - Son 24 Saat (FOMO),Aile & Ev (41+),Android,Sabah (08-12),16472,366,9,1028,1039.5
+TKC-1076,2026-10-03,TV+ Süper Paket,SMS,D - Son 24 Saat (FOMO),Aile & Ev (41+),Android,Akşam (17-22),23597,843,25,"₺1,211",951.6
+TKC-1077,2026-10-25,Game+ GeForce NOW,SMS,B - İlk Ay +10GB Hediye,GNÇ (18-26),Android,Sabah (08-12),4461,129,3,257.29 TL,1005.4
+TKC-1078,2026-10-15,Lifebox 500GB,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),Android,Sabah (08-12),11113,120,0,1331,573.6
+TKC-1079,2026-10-22,Fizy Premium,BiP,B - İlk Ay +10GB Hediye,GNÇ (18-26),Android,Akşam (17-22),20608,1015,59,537,1240.4
+TKC-1080,2026-10-01,TV+ Süper Paket,Push Bildirim,B - İlk Ay +10GB Hediye,Gamer Pro,Android,Akşam (17-22),12823,663,22,353,1160.6
+TKC-1081,2026-10-15,TV+ Süper Paket,Push Bildirim,D - Son 24 Saat (FOMO),Profesyonel (27-40),iOS,Gece (22-03),20240,31675,0,1219,859.9
+TKC-1082,2026-10-13,TV+ Süper Paket,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),Android,Sabah (08-12),17776,260,1,2507,519.0
+TKC-1083,2026-10-26,TV+ Süper Paket,SMS,B - İlk Ay +10GB Hediye,Profesyonel (27-40),Android,Akşam (17-22),22679,513,18,1036,827.7
+TKC-1084,2026-10-05,Game+ GeForce NOW,Instagram,C - Gamer & E-Spor Özel,Gamer Pro,Android,Akşam (17-22),13488,1091,111,1483,1617.0
+TKC-1085,2026-10-27,Lifebox 500GB,Push Bildirim,A - %40 İndirim Fırsatı,Aile & Ev (41+),Android,Akşam (17-22),6112,284,9,-145 TL,1153.5
+TKC-1086,2026-10-13,TV+ Süper Paket,Push Bildirim,D - Son 24 Saat (FOMO),Aile & Ev (41+),iOS,Sabah (08-12),5549,221,9,132,1113.1
+TKC-1087,2026-10-27,BiP Yıldızlar,BiP,B - İlk Ay +10GB Hediye,Aile & Ev (41+),iOS,Akşam (17-22),21491,1109,54,756,1600.2
+TKC-1088,2026-10-10,TV+ Süper Paket,BiP,D - Son 24 Saat (FOMO),GNÇ (18-26),iOS,Sabah (08-12),19114,937,37,625.56 TL,1508.7
+TKC-1089,2026-10-18,Lifebox 500GB,SMS,A - %40 İndirim Fırsatı,Profesyonel (27-40),Android,Gece (22-03),10666,240,7,575,1032.7
+TKC-1090,2026-10-28,Lifebox 500GB,SMS,A - %40 İndirim Fırsatı,Aile & Ev (41+),iOS,Akşam (17-22),5502,204,7,258,774.2
+TKC-1091,2026-10-21,Fizy Premium,SMS,C - Gamer & E-Spor Özel,GNÇ (18-26),Android,Sabah (08-12),20000,505,18,1122,905.2
+TKC-1092,2026-10-27,Game+ GeForce NOW,Push Bildirim,A - %40 İndirim Fırsatı,Aile & Ev (41+),Android,Öğle (12-17),6241,322,12,158,899.5
+TKC-1093,2026-10-28,TV+ Süper Paket,IG,A - %40 İndirim Fırsatı,Aile & Ev (41+),iOS,Sabah (08-12),3217,28,0,368,469.1
+TKC-1094,2026-10-15,TV+ Süper Paket,BiP,D - Son 24 Saat (FOMO),GNÇ (18-26),Android,Akşam (17-22),23090,1400,56,$25,1133.5
+TKC-1095,2026-10-16,Lifebox 500GB,Push Bildirim,D - Son 24 Saat (FOMO),Gamer Pro,iOS,Sabah (08-12),4147,153,4,₺69,1130.9
+TKC-1096,2026-10-19,Lifebox 500GB,SMS,C - Gamer & E-Spor Özel,Aile & Ev (41+),Android,Gece (22-03),15596,367,13,968,927.8
+TKC-1097,2026-10-25,Fizy Premium,SMS,D - Son 24 Saat (FOMO),Profesyonel (27-40),iOS,Gece (22-03),16360,464,16,838,809.4
+TKC-1098,2026-10-09,TV+ Süper Paket,SMS,A - %40 İndirim Fırsatı,Profesyonel (27-40),Android,Gece (22-03),4554,131,4,239,745.5
+TKC-1099,2026-10-02,Game+ GeForce NOW,SMS,D - Son 24 Saat (FOMO),Aile & Ev (41+),Android,Sabah (08-12),15358,551,19,988.56 TL,910.1
+TKC-1100,2026-10-12,Lifebox 500GB,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),iOS,Sabah (08-12),5046,54,0,578,533.6
+TKC-1101,2026-10-08,BiP Yıldızlar,BiP,B - İlk Ay +10GB Hediye,Gamer Pro,iOS,Akşam (17-22),23055,1611,87,574,1486.5
+TKC-1102,2026-10-10,Fizy Premium,Push Bildirim,B - İlk Ay +10GB Hediye,Aile & Ev (41+),Android,Sabah (08-12),14632,461,19,404,891.3
+TKC-1103,2026-10-17,Lifebox 500GB,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),iOS,Sabah (08-12),12129,172,0,1375,465.8
+TKC-1104,2026-10-06,Lifebox 500GB,bip,B - İlk Ay +10GB Hediye,GNÇ (18-26),iOS,Akşam (17-22),8563,579,29,247,1255.8
+TKC-1105,2026-10-22,Lifebox 500GB,SMS,B - İlk Ay +10GB Hediye,Aile & Ev (41+),Android,Sabah (08-12),3295,72,2,162,748.0
+TKC-1106,2026-10-09,Lifebox 500GB,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),iOS,Sabah (08-12),13958,171,0,1847,
+TKC-1107,2026-10-12,TV+ Süper Paket,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),Android,Sabah (08-12),4051,60,0,539,662.8
+TKC-1108,2026-10-14,Fizy Premium,Instagram,B - İlk Ay +10GB Hediye,Gamer Pro,iOS,Akşam (17-22),4968,359,25,500,1707.2
+TKC-1109,2026-10-10,BiP Yıldızlar,BiP,B - İlk Ay +10GB Hediye,Aile & Ev (41+),Android,Sabah (08-12),12948,719,51,419,1181.2
+TKC-1110,2026-10-04,TV+ Süper Paket,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),iOS,Sabah (08-12),22076,263,1,3099.36 TL,584.7
+TKC-1111,2026-10-30,Lifebox 500GB,Push Bildirim,B - İlk Ay +10GB Hediye,,iOS,Akşam (17-22),15990,701,30,363,1008.4
+TKC-1112,2026-10-03,Lifebox 500GB,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),iOS,Sabah (08-12),4458,57,0,573,616.3
+TKC-1113,2026-10-26,TV+ Süper Paket,bip,A - %40 İndirim Fırsatı,GNÇ (18-26),Android,Akşam (17-22),12753,949,31,412,1121.5
+TKC-1114,2026-10-23,Game+ GeForce NOW,SMS,C - Gamer & E-Spor Özel,Gamer Pro,Android,Öğle (12-17),14194,405,12,₺808,976.2
+TKC-1115,2026-10-21,Lifebox 500GB,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),iOS,Sabah (08-12),23014,361,1,2670,474.5
+TKC-1116,2026-10-22,Game+ GeForce NOW,Instagram,C - Gamer & E-Spor Özel,GNÇ (18-26),iOS,Akşam (17-22),13843,1167,99,1230,1906.8
+TKC-1117,2026-10-24,TV+ Süper Paket,Push Bildirim,C - Gamer & E-Spor Özel,GNÇ (18-26),iOS,Gece (22-03),7406,12219,0,462,936.4
+TKC-1118,2026-10-05,TV+ Süper Paket,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),Android,Sabah (08-12),21751,196,0,2534,699.4
+TKC-1119,2026-10-25,Fizy Premium,BiP,B - İlk Ay +10GB Hediye,Aile & Ev (41+),Android,Sabah (08-12),21507,1151,75,628,1393.7
+TKC-1120,2026-10-10,BiP Yıldızlar,Push Bildirim,C - Gamer & E-Spor Özel,Gamer Pro,Android,Öğle (12-17),16628,780,33,358,1038.4
+TKC-1121,2026-10-06,Game+ GeForce NOW,BiP,B - İlk Ay +10GB Hediye,GNÇ (18-26),Android,Öğle (12-17),4861,322,19,116.64 TL,1146.1
+TKC-1122,2026-10-06,Lifebox 500GB,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),iOS,Sabah (08-12),8775,127,0,1292,574.5
+TKC-1123,2026-10-13,Game+ GeForce NOW,SMS,A - %40 İndirim Fırsatı,Profesyonel (27-40),iOS,Gece (22-03),11942,440,16,693,977.0
+TKC-1124,2026-10-05,TV+ Süper Paket,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),Android,Sabah (08-12),16871,195,0,1909,526.8
+TKC-1125,2026-10-27,Lifebox 500GB,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),iOS,Sabah (08-12),10940,108,0,1308,641.7
+TKC-1126,2026-10-20,BiP Yıldızlar,SMS,A - %40 İndirim Fırsatı,GNÇ (18-26),Android,Gece (22-03),6204,7715,0,807,899.7
+TKC-1127,2026-10-22,TV+ Süper Paket,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),iOS,Sabah (08-12),16905,141,0,2112,674.2
+TKC-1128,2026-10-12,Game+ GeForce NOW,BiP,C - Gamer & E-Spor Özel,Aile & Ev (41+),iOS,Akşam (17-22),13044,800,37,324,1528.5
+TKC-1129,2026-10-15,TV+ Süper Paket,Push Bildirim,B - İlk Ay +10GB Hediye,Gamer Pro,Android,Öğle (12-17),16497,508,16,417,1248.6
+TKC-1130,2026-10-11,TV+ Süper Paket,Push Bildirim,C - Gamer & E-Spor Özel,Gamer Pro,Android,Gece (22-03),7762,281,12,121,1145.1
+TKC-1131,2026-10-09,Fizy Premium,Instagram,B - İlk Ay +10GB Hediye,GNÇ (18-26),Android,Akşam (17-22),17759,1523,97,1934,1623.4
+TKC-1132,2026-10-03,Game+ GeForce NOW,bip,A - %40 İndirim Fırsatı,Profesyonel (27-40),iOS,Öğle (12-17),21246,1413,49,618.31 TL,1345.9
+TKC-1133,2026-10-24,TV+ Süper Paket,Push Bildirim,C - Gamer & E-Spor Özel,Aile & Ev (41+),iOS,Gece (22-03),22390,871,33,₺554,922.0
+TKC-1134,2026-10-01,Game+ GeForce NOW,Instagram,C - Gamer & E-Spor Özel,Gamer Pro,iOS,Akşam (17-22),22640,1720,148,2310,1843.3
+TKC-1135,2026-10-22,TV+ Süper Paket,SMS,D - Son 24 Saat (FOMO),Aile & Ev (41+),Android,Akşam (17-22),18849,525,15,953,1036.2
+TKC-1136,2026-10-01,Game+ GeForce NOW,BiP,B - İlk Ay +10GB Hediye,Profesyonel (27-40),Android,Akşam (17-22),8531,638,34,313,1370.2
+TKC-1137,2026-10-04,Fizy Premium,IG,C - Gamer & E-Spor Özel,GNÇ (18-26),Android,Akşam (17-22),24750,1656,151,2766,2003.4
+TKC-1138,2026-10-23,Fizy Premium,BiP,B - İlk Ay +10GB Hediye,GNÇ (18-26),Android,Öğle (12-17),9257,636,30,286,1302.9
+TKC-1139,2026-10-26,Game+ GeForce NOW,Push Bildirim,A - %40 İndirim Fırsatı,Profesyonel (27-40),iOS,Sabah (08-12),24992,1145,44,625,1220.5
+TKC-1140,2026-10-03,Lifebox 500GB,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),Android,Sabah (08-12),12789,115,0,1689,626.3
+TKC-1141,2026-10-25,BiP Yıldızlar,Push Bildirim,A - %40 İndirim Fırsatı,Gamer Pro,iOS,Sabah (08-12),6895,231,10,$10,1276.4
+TKC-1142,2026-10-17,BiP Yıldızlar,Push Bildirim,B - İlk Ay +10GB Hediye,GNÇ (18-26),iOS,Akşam (17-22),21980,805,31,473,925.9
+TKC-1143,2026-10-19,Lifebox 500GB,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),Android,Sabah (08-12),19968,166,0,2261.35 TL,734.6
+TKC-1144,2026-10-25,Lifebox 500GB,SMS,A - %40 İndirim Fırsatı,Profesyonel (27-40),Android,Gece (22-03),19377,28920,0,2648,981.6
+TKC-1145,2026-10-10,Lifebox 500GB,SMS,D - Son 24 Saat (FOMO),GNÇ (18-26),Android,Öğle (12-17),8185,224,6,509,811.8
+TKC-1146,2026-10-28,Game+ GeForce NOW,Instagram,B - İlk Ay +10GB Hediye,Gamer Pro,Android,Akşam (17-22),10264,805,47,888,2064.5
+TKC-1147,2026-10-28,BiP Yıldızlar,BiP,B - İlk Ay +10GB Hediye,Gamer Pro,Android,Sabah (08-12),7720,524,31,233,1374.3
+TKC-1148,2026-10-10,Fizy Premium,SMS,D - Son 24 Saat (FOMO),,iOS,Gece (22-03),13063,297,8,744,995.0
+TKC-1149,2026-10-22,Fizy Premium,SMS,D - Son 24 Saat (FOMO),GNÇ (18-26),Android,Sabah (08-12),13485,461,14,715,899.6
+TKC-1150,2026-10-07,BiP Yıldızlar,SMS,D - Son 24 Saat (FOMO),Aile & Ev (41+),Android,Sabah (08-12),19517,516,20,1144,741.6
+TKC-1151,2026-10-04,Fizy Premium,SMS,B - İlk Ay +10GB Hediye,Aile & Ev (41+),Android,Akşam (17-22),14652,439,11,699,816.6
+TKC-1152,2026-10-16,BiP Yıldızlar,SMS,C - Gamer & E-Spor Özel,Profesyonel (27-40),iOS,Öğle (12-17),14376,544,19,₺733,817.7
+TKC-1153,2026-10-27,TV+ Süper Paket,SMS,D - Son 24 Saat (FOMO),Gamer Pro,iOS,Akşam (17-22),23579,560,17,1206,1014.6
+TKC-1154,2026-10-28,BiP Yıldızlar,BiP ,D - Son 24 Saat (FOMO),GNÇ (18-26),Android,Akşam (17-22),3182,198,6,102.03 TL,1440.9
+TKC-1155,2026-10-27,Fizy Premium,SMS,A - %40 İndirim Fırsatı,Profesyonel (27-40),iOS,Sabah (08-12),11779,338,10,578,875.6
+TKC-1156,2026-10-20,BiP Yıldızlar,Push Bildirim,B - İlk Ay +10GB Hediye,GNÇ (18-26),iOS,Öğle (12-17),23199,940,33,637,1056.8
+TKC-1157,2026-10-18,Game+ GeForce NOW,Instagram,B - İlk Ay +10GB Hediye,GNÇ (18-26),Android,Akşam (17-22),10642,869,52,1215,1643.4
+TKC-1158,2026-10-10,Game+ GeForce NOW,BiP,B - İlk Ay +10GB Hediye,Profesyonel (27-40),iOS,Akşam (17-22),20291,1324,75,765,1550.1
+TKC-1159,2026-10-25,Lifebox 500GB,BiP,B - İlk Ay +10GB Hediye,GNÇ (18-26),Android,Akşam (17-22),17198,884,59,453,
+TKC-1160,2026-10-09,TV+ Süper Paket,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),iOS,Sabah (08-12),18901,185,0,2155,549.1
+TKC-1161,2026-10-16,TV+ Süper Paket,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),iOS,Sabah (08-12),17087,201,0,2538,546.4
+TKC-1162,2026-10-21,TV+ Süper Paket,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),Android,Sabah (08-12),2722,41,0,395,502.7
+TKC-1163,2026-10-30,Game+ GeForce NOW,Instagram,B - İlk Ay +10GB Hediye,Gamer Pro,iOS,Akşam (17-22),20110,1670,130,1911,1745.3
+TKC-1164,2026-10-21,Game+ GeForce NOW,SMS,D - Son 24 Saat (FOMO),Gamer Pro,iOS,Öğle (12-17),5191,141,5,301,951.5
+TKC-1165,2026-10-01,Lifebox 500GB,BiP,A - %40 İndirim Fırsatı,Profesyonel (27-40),Android,Akşam (17-22),18384,1008,39,432.50 TL,1639.9
+TKC-1166,2026-10-16,TV+ Süper Paket,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),Android,Sabah (08-12),10248,160,0,1424,453.4
+TKC-1167,2026-10-21,Lifebox 500GB,SMS,A - %40 İndirim Fırsatı,Profesyonel (27-40),iOS,Sabah (08-12),14784,487,18,928,969.4
+TKC-1168,2026-10-23,TV+ Süper Paket,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),iOS,Sabah (08-12),5876,69,0,879,562.1
+TKC-1169,2026-10-23,BiP Yıldızlar,SMS,B - İlk Ay +10GB Hediye,Gamer Pro,Android,Öğle (12-17),4182,127,4,218,1021.0
+TKC-1170,2026-10-04,TV+ Süper Paket,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),iOS,Sabah (08-12),18550,213,1,-2572 TL,596.6
+TKC-1171,2026-10-29,BiP Yıldızlar,SMS,B - İlk Ay +10GB Hediye,GNÇ (18-26),iOS,Gece (22-03),19978,26929,0,"₺3,054",953.1
+TKC-1172,2026-10-27,Lifebox 500GB,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),iOS,Sabah (08-12),3589,44,0,523,745.8
+TKC-1173,2026-10-16,Fizy Premium,Instagram,B - İlk Ay +10GB Hediye,GNÇ (18-26),Android,Akşam (17-22),13869,1057,76,1454,1800.5
+TKC-1174,2026-10-21,BiP Yıldızlar,Push Bildirim,D - Son 24 Saat (FOMO),GNÇ (18-26),iOS,Öğle (12-17),8797,425,18,244,1058.4
+TKC-1175,2026-10-24,Lifebox 500GB,SMS,B - İlk Ay +10GB Hediye,Gamer Pro,iOS,Öğle (12-17),10532,263,10,635,711.3
+TKC-1176,2026-10-22,TV+ Süper Paket,SMS,B - İlk Ay +10GB Hediye,GNÇ (18-26),iOS,Öğle (12-17),2600,75,2,162.36 TL,785.7
+TKC-1177,2026-10-02,Fizy Premium,SMS,A - %40 İndirim Fırsatı,Profesyonel (27-40),Android,Öğle (12-17),10978,282,10,621,902.1
+TKC-1178,2026-10-25,Fizy Premium,BiP,C - Gamer & E-Spor Özel,GNÇ (18-26),iOS,Sabah (08-12),10516,492,24,379,1601.4
+TKC-1179,2026-10-21,Lifebox 500GB,BiP,B - İlk Ay +10GB Hediye,GNÇ (18-26),Android,Öğle (12-17),11944,786,45,320,1201.1
+TKC-1180,2026-10-18,Lifebox 500GB,SMS,B - İlk Ay +10GB Hediye,Profesyonel (27-40),Android,Akşam (17-22),19928,569,17,1108,835.9
+TKC-1181,2026-10-09,Game+ GeForce NOW,Instagram,C - Gamer & E-Spor Özel,GNÇ (18-26),iOS,Akşam (17-22),13859,1180,109,1541,1572.3
+TKC-1182,2026-10-25,Game+ GeForce NOW,SMS,B - İlk Ay +10GB Hediye,Profesyonel (27-40),iOS,Gece (22-03),2002,50,1,120,961.4
+TKC-1183,2026-10-25,Fizy Premium,SMS,D - Son 24 Saat (FOMO),Profesyonel (27-40),Android,Öğle (12-17),10775,302,9,562,791.5
+TKC-1184,2026-10-17,Game+ GeForce NOW,Push Bildirim,D - Son 24 Saat (FOMO),Gamer Pro,Android,Sabah (08-12),13647,503,14,358,1183.6
+TKC-1185,2026-10-01,Lifebox 500GB,Instagram,A - %40 İndirim Fırsatı,,iOS,Sabah (08-12),7928,84,0,1136,599.8
+TKC-1186,2026-10-21,Lifebox 500GB,Push Bildirim,D - Son 24 Saat (FOMO),Aile & Ev (41+),Android,Akşam (17-22),13040,439,18,278,1262.6
+TKC-1187,2026-10-18,TV+ Süper Paket,Push Bildirim,A - %40 İndirim Fırsatı,GNÇ (18-26),Android,Sabah (08-12),15013,495,20,238.46 TL,918.0
+TKC-1188,2026-10-07,Lifebox 500GB,SMS,D - Son 24 Saat (FOMO),Aile & Ev (41+),iOS,Sabah (08-12),18939,583,14,$30,796.2
+TKC-1189,2026-10-10,TV+ Süper Paket,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),iOS,Sabah (08-12),4656,56,0,628,525.7
+TKC-1190,2026-10-12,Lifebox 500GB,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),Android,Sabah (08-12),9469,150,0,"₺1,301",704.4
+TKC-1191,2026-10-21,Lifebox 500GB,Push Bildirim,D - Son 24 Saat (FOMO),GNÇ (18-26),iOS,Sabah (08-12),17097,534,15,295,1074.9
+TKC-1192,2026-10-14,TV+ Süper Paket,BiP,D - Son 24 Saat (FOMO),Gamer Pro,iOS,Gece (22-03),24184,1732,70,550,1140.9
+TKC-1193,2026-10-30,TV+ Süper Paket,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),Android,Sabah (08-12),11805,95,0,1367,696.2
+TKC-1194,2026-10-27,BiP Yıldızlar,SMS,B - İlk Ay +10GB Hediye,GNÇ (18-26),iOS,Akşam (17-22),14251,467,15,751,958.9
+TKC-1195,2026-10-26,TV+ Süper Paket,Push Bildirim,A - %40 İndirim Fırsatı,GNÇ (18-26),Android,Akşam (17-22),3990,149,6,109,1028.5
+TKC-1196,2026-10-25,Game+ GeForce NOW,Instagram,B - İlk Ay +10GB Hediye,GNÇ (18-26),iOS,Akşam (17-22),13801,1075,77,1447,1505.7
+TKC-1197,2026-10-20,Lifebox 500GB,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),iOS,Sabah (08-12),24820,354,0,3117,558.2
+TKC-1198,2026-10-03,Lifebox 500GB,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),iOS,Sabah (08-12),4360,41,0,576.35 TL,572.4
+TKC-1199,2026-10-01,Lifebox 500GB,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),Android,Sabah (08-12),1904,19,0,216,720.3
+TKC-1200,2026-10-29,Fizy Premium,Push Bildirim,D - Son 24 Saat (FOMO),Profesyonel (27-40),iOS,Öğle (12-17),11367,408,12,195,974.2
+TKC-1201,2026-10-10,Fizy Premium,SMS,C - Gamer & E-Spor Özel,GNÇ (18-26),Android,Akşam (17-22),17746,559,15,837,806.6
+TKC-1202,2026-10-13,Fizy Premium,Instagram,B - İlk Ay +10GB Hediye,GNÇ (18-26),Android,Akşam (17-22),22833,2151,125,2160,2065.7
+TKC-1203,2026-10-07,Game+ GeForce NOW,SMS,C - Gamer & E-Spor Özel,Profesyonel (27-40),Android,Gece (22-03),22238,663,22,1109,831.6
+TKC-1204,2026-10-27,Fizy Premium,BiP,D - Son 24 Saat (FOMO),Gamer Pro,Android,Sabah (08-12),19525,894,40,724,1215.3
+TKC-1205,2026-10-26,Game+ GeForce NOW,Instagram,B - İlk Ay +10GB Hediye,GNÇ (18-26),Android,Akşam (17-22),9430,684,40,921,1695.0
+TKC-1206,2026-10-15,BiP Yıldızlar,Push Bildirim,D - Son 24 Saat (FOMO),Gamer Pro,iOS,Gece (22-03),13281,603,26,302,1261.5
+TKC-1207,2026-10-04,Lifebox 500GB,BiP,A - %40 İndirim Fırsatı,Profesyonel (27-40),Android,Akşam (17-22),12365,914,36,274,1242.3
+TKC-1208,2026-10-17,Lifebox 500GB,BiP,B - İlk Ay +10GB Hediye,Aile & Ev (41+),Android,Öğle (12-17),20786,1365,70,789,1365.5
+TKC-1209,2026-10-10,Game+ GeForce NOW,SMS,B - İlk Ay +10GB Hediye,GNÇ (18-26),iOS,Sabah (08-12),16420,567,18,₺853,734.2
+TKC-1210,2026-10-24,Game+ GeForce NOW,BiP,A - %40 İndirim Fırsatı,GNÇ (18-26),Android,Akşam (17-22),23688,1634,79,802,1383.8
+TKC-1211,2026-10-18,Game+ GeForce NOW,Instagram,B - İlk Ay +10GB Hediye,Gamer Pro,iOS,Akşam (17-22),23038,1796,100,2383,1578.3
+TKC-1212,2026-10-19,Game+ GeForce NOW,SMS,B - İlk Ay +10GB Hediye,GNÇ (18-26),Android,Öğle (12-17),3550,110,4,198,
+TKC-1213,2026-10-07,BiP Yıldızlar,SMS,C - Gamer & E-Spor Özel,Aile & Ev (41+),iOS,Gece (22-03),14362,450,13,889,916.1
+TKC-1214,2026-10-27,Game+ GeForce NOW,BiP,C - Gamer & E-Spor Özel,Gamer Pro,iOS,Akşam (17-22),11506,558,21,279,1313.7
+TKC-1215,2026-10-20,TV+ Süper Paket,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),Android,Sabah (08-12),17544,180,0,2521,635.8
+TKC-1216,2026-10-28,Fizy Premium,SMS,B - İlk Ay +10GB Hediye,GNÇ (18-26),Android,Gece (22-03),19901,31243,0,2920,845.5
+TKC-1217,2026-10-16,Game+ GeForce NOW,Instagram,B - İlk Ay +10GB Hediye,Gamer Pro,iOS,Akşam (17-22),19116,1408,104,1949,1952.2
+TKC-1218,2026-10-16,BiP Yıldızlar,SMS,C - Gamer & E-Spor Özel,GNÇ (18-26),Android,Sabah (08-12),13521,414,15,814,854.5
+TKC-1219,2026-10-07,TV+ Süper Paket,Push Bildirim,C - Gamer & E-Spor Özel,GNÇ (18-26),Android,Öğle (12-17),12922,632,18,339,902.8
+TKC-1220,2026-10-26,Lifebox 500GB,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),Android,Sabah (08-12),21497,280,0,2484.40 TL,512.0
+TKC-1221,2026-10-07,Game+ GeForce NOW,BiP,A - %40 İndirim Fırsatı,Profesyonel (27-40),iOS,Akşam (17-22),10260,754,31,373,1548.3
+TKC-1222,2026-10-05,Fizy Premium,Push Bildirim,C - Gamer & E-Spor Özel,,Android,Sabah (08-12),5848,207,8,151,1192.7
+TKC-1223,2026-10-22,Lifebox 500GB,SMS,D - Son 24 Saat (FOMO),Profesyonel (27-40),Android,Akşam (17-22),22262,772,28,1181,962.4
+TKC-1224,2026-10-23,Game+ GeForce NOW,Push Bildirim,D - Son 24 Saat (FOMO),Aile & Ev (41+),Android,Gece (22-03),4552,209,7,108,1011.2
+TKC-1225,2026-10-03,Game+ GeForce NOW,BiP,B - İlk Ay +10GB Hediye,Gamer Pro,Android,Akşam (17-22),12567,771,39,448,1533.6
+TKC-1226,2026-10-29,Fizy Premium,bip,A - %40 İndirim Fırsatı,Profesyonel (27-40),Android,Akşam (17-22),1522,113,4,58,1600.2
+TKC-1227,2026-10-29,Game+ GeForce NOW,BiP,C - Gamer & E-Spor Özel,Gamer Pro,iOS,Öğle (12-17),23274,1678,58,660,1268.0
+TKC-1228,2026-10-23,TV+ Süper Paket,BiP,B - İlk Ay +10GB Hediye,GNÇ (18-26),iOS,Sabah (08-12),8911,539,31,₺197,1289.0
+TKC-1229,2026-10-04,TV+ Süper Paket,Push Bildirim,D - Son 24 Saat (FOMO),Gamer Pro,iOS,Öğle (12-17),4427,203,6,84,1246.4
+TKC-1230,2026-10-05,BiP Yıldızlar,SMS,A - %40 İndirim Fırsatı,Profesyonel (27-40),Android,Öğle (12-17),21498,696,21,1278,919.8
+TKC-1231,2026-10-05,TV+ Süper Paket,Push Bildirim,A - %40 İndirim Fırsatı,Gamer Pro,iOS,Öğle (12-17),5535,237,8,152.34 TL,991.5
+TKC-1232,2026-10-05,Lifebox 500GB,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),Android,Sabah (08-12),24125,198,1,3499,511.6
+TKC-1233,2026-10-20,Fizy Premium,SMS,A - %40 İndirim Fırsatı,Gamer Pro,Android,Akşam (17-22),5194,134,4,241,1011.1
+TKC-1234,2026-10-01,BiP Yıldızlar,Push Bildirim,D - Son 24 Saat (FOMO),Aile & Ev (41+),Android,Öğle (12-17),19403,873,37,532,1196.7
+TKC-1235,2026-10-01,TV+ Süper Paket,SMS,B - İlk Ay +10GB Hediye,GNÇ (18-26),Android,Akşam (17-22),14540,437,15,$23,845.4
+TKC-1236,2026-10-23,Game+ GeForce NOW,SMS,A - %40 İndirim Fırsatı,Profesyonel (27-40),iOS,Akşam (17-22),8158,306,8,420,905.3
+TKC-1237,2026-10-25,Fizy Premium,Push Bildirim,D - Son 24 Saat (FOMO),GNÇ (18-26),iOS,Akşam (17-22),4325,217,6,99,874.8
+TKC-1238,2026-10-22,Fizy Premium,BiP,C - Gamer & E-Spor Özel,GNÇ (18-26),Android,Akşam (17-22),12860,780,35,431,1191.8
+TKC-1239,2026-10-05,Game+ GeForce NOW,BiP,D - Son 24 Saat (FOMO),Aile & Ev (41+),Android,Sabah (08-12),10412,632,23,391,1445.1
+TKC-1240,2026-10-16,BiP Yıldızlar,SMS,D - Son 24 Saat (FOMO),Aile & Ev (41+),iOS,Sabah (08-12),6654,173,4,376,953.0
+TKC-1241,2026-10-08,Fizy Premium,bip,B - İlk Ay +10GB Hediye,GNÇ (18-26),iOS,Akşam (17-22),2658,163,11,90,1330.7
+TKC-1242,2026-10-11,TV+ Süper Paket,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),Android,Sabah (08-12),5412,65,0,634.14 TL,691.3
+TKC-1243,2026-10-02,Game+ GeForce NOW,Push Bildirim,C - Gamer & E-Spor Özel,GNÇ (18-26),iOS,Gece (22-03),19623,29822,0,922,1203.0
+TKC-1244,2026-10-08,Fizy Premium,SMS,B - İlk Ay +10GB Hediye,Gamer Pro,iOS,Öğle (12-17),14936,334,11,862,942.7
+TKC-1245,2026-10-01,TV+ Süper Paket,Push Bildirim,C - Gamer & E-Spor Özel,GNÇ (18-26),iOS,Gece (22-03),9304,365,17,257,914.1
+TKC-1246,2026-10-09,Fizy Premium,Instagram,B - İlk Ay +10GB Hediye,GNÇ (18-26),Android,Akşam (17-22),4282,352,23,446,1706.3
+TKC-1247,2026-10-19,Game+ GeForce NOW,SMS,B - İlk Ay +10GB Hediye,Gamer Pro,iOS,Öğle (12-17),11822,435,13,₺729,814.2
+TKC-1248,2026-10-15,TV+ Süper Paket,IG,A - %40 İndirim Fırsatı,Aile & Ev (41+),iOS,Sabah (08-12),6886,79,0,791,557.5
+TKC-1249,2026-10-25,TV+ Süper Paket,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),iOS,Sabah (08-12),23980,250,1,3216,514.5
+TKC-1250,2026-10-28,Lifebox 500GB,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),iOS,Sabah (08-12),3104,41,0,464,459.3
+TKC-1251,2026-10-13,TV+ Süper Paket,Push Bildirim,D - Son 24 Saat (FOMO),Profesyonel (27-40),Android,Sabah (08-12),6080,198,5,153,950.0
+TKC-1252,2026-10-07,TV+ Süper Paket,Push Bildirim,C - Gamer & E-Spor Özel,Aile & Ev (41+),iOS,Sabah (08-12),3612,124,5,92,891.4
+TKC-1253,2026-10-28,Lifebox 500GB,Push Bildirim,A - %40 İndirim Fırsatı,Aile & Ev (41+),iOS,Sabah (08-12),20305,802,34,435.54 TL,1022.2
+TKC-1254,2026-10-14,Lifebox 500GB,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),Android,Sabah (08-12),6370,52,0,763,538.5
+TKC-1255,2026-10-14,Game+ GeForce NOW,Push Bildirim,A - %40 İndirim Fırsatı,Gamer Pro,iOS,Sabah (08-12),15237,523,23,-333 TL,1133.8
+TKC-1256,2026-10-26,Lifebox 500GB,SMS,C - Gamer & E-Spor Özel,GNÇ (18-26),Android,Gece (22-03),17381,478,16,894,794.7
+TKC-1257,2026-10-01,Fizy Premium,Instagram,C - Gamer & E-Spor Özel,GNÇ (18-26),Android,Akşam (17-22),20636,1960,204,1816,1877.0
+TKC-1258,2026-10-09,Game+ GeForce NOW,SMS,D - Son 24 Saat (FOMO),GNÇ (18-26),Android,Öğle (12-17),7192,178,6,440,944.2
+TKC-1259,2026-10-30,Lifebox 500GB,SMS,B - İlk Ay +10GB Hediye,,Android,Öğle (12-17),7252,216,5,360,776.6
+TKC-1260,2026-10-17,Game+ GeForce NOW,SMS,B - İlk Ay +10GB Hediye,Aile & Ev (41+),Android,Öğle (12-17),12103,277,7,715,749.6
+TKC-1261,2026-10-04,Lifebox 500GB,Push Bildirim,C - Gamer & E-Spor Özel,Aile & Ev (41+),Android,Sabah (08-12),12528,459,14,214,1276.9
+TKC-1262,2026-10-26,BiP Yıldızlar,BiP,B - İlk Ay +10GB Hediye,GNÇ (18-26),Android,Akşam (17-22),8815,572,38,247,1503.7
+TKC-1263,2026-10-10,Game+ GeForce NOW,Instagram,C - Gamer & E-Spor Özel,GNÇ (18-26),Android,Akşam (17-22),21533,1542,141,2435,1541.4
+TKC-1264,2026-10-24,TV+ Süper Paket,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),Android,Sabah (08-12),23455,307,1,2999.08 TL,529.6
+TKC-1265,2026-10-08,Lifebox 500GB,BiP,A - %40 İndirim Fırsatı,Aile & Ev (41+),Android,Akşam (17-22),6950,497,20,195,
+TKC-1266,2026-10-04,TV+ Süper Paket,Push Bildirim,D - Son 24 Saat (FOMO),Profesyonel (27-40),Android,Öğle (12-17),2594,94,3,₺71,883.4
+TKC-1267,2026-10-06,Game+ GeForce NOW,Push Bildirim,A - %40 İndirim Fırsatı,Profesyonel (27-40),Android,Sabah (08-12),21607,1072,45,445,1144.1
+TKC-1268,2026-10-20,Game+ GeForce NOW,Push Bildirim,A - %40 İndirim Fırsatı,Profesyonel (27-40),iOS,Sabah (08-12),7725,301,11,209,1093.1
+TKC-1269,2026-10-22,Lifebox 500GB,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),iOS,Sabah (08-12),13323,106,0,1905,637.5
+TKC-1270,2026-10-16,TV+ Süper Paket,IG,A - %40 İndirim Fırsatı,Aile & Ev (41+),Android,Sabah (08-12),5284,55,0,685,648.3
+TKC-1271,2026-10-03,TV+ Süper Paket,BiP,A - %40 İndirim Fırsatı,Profesyonel (27-40),iOS,Öğle (12-17),16739,885,41,519,1183.1
+TKC-1272,2026-10-23,Fizy Premium,BiP ,C - Gamer & E-Spor Özel,Aile & Ev (41+),Android,Öğle (12-17),14184,986,38,434,1576.8
+TKC-1273,2026-10-16,TV+ Süper Paket,SMS,C - Gamer & E-Spor Özel,Profesyonel (27-40),iOS,Gece (22-03),24906,561,18,1378,900.0
+TKC-1274,2026-10-20,TV+ Süper Paket,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),Android,Sabah (08-12),7815,70,0,1169,580.6
+TKC-1275,2026-10-27,TV+ Süper Paket,BiP,D - Son 24 Saat (FOMO),GNÇ (18-26),iOS,Gece (22-03),19730,1123,42,521.25 TL,1352.0
+TKC-1276,2026-10-28,Lifebox 500GB,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),iOS,Sabah (08-12),6403,58,0,899,731.9
+TKC-1277,2026-10-30,Fizy Premium,Instagram,B - İlk Ay +10GB Hediye,GNÇ (18-26),iOS,Akşam (17-22),17411,1430,95,1570,1711.9
+TKC-1278,2026-10-20,Fizy Premium,BiP,B - İlk Ay +10GB Hediye,GNÇ (18-26),iOS,Akşam (17-22),17071,1239,86,381,1549.6
+TKC-1279,2026-10-10,Game+ GeForce NOW,Instagram,C - Gamer & E-Spor Özel,Gamer Pro,iOS,Akşam (17-22),16019,1413,119,1712,1843.2
+TKC-1280,2026-10-03,Game+ GeForce NOW,Instagram,B - İlk Ay +10GB Hediye,GNÇ (18-26),Android,Akşam (17-22),6709,449,32,651,1957.3
+TKC-1281,2026-10-17,Fizy Premium,Push Bildirim,B - İlk Ay +10GB Hediye,GNÇ (18-26),Android,Öğle (12-17),9675,297,8,190,939.6
+TKC-1282,2026-10-12,Fizy Premium,Push Bildirim,A - %40 İndirim Fırsatı,Gamer Pro,iOS,Sabah (08-12),20965,834,39,$13,1098.1
+TKC-1283,2026-10-12,Game+ GeForce NOW,Instagram,B - İlk Ay +10GB Hediye,Gamer Pro,iOS,Akşam (17-22),6838,619,46,625,1593.9
+TKC-1284,2026-10-08,TV+ Süper Paket,BiP,C - Gamer & E-Spor Özel,Profesyonel (27-40),Android,Sabah (08-12),5835,375,16,129,1238.8
+TKC-1285,2026-10-26,Game+ GeForce NOW,Push Bildirim,D - Son 24 Saat (FOMO),Aile & Ev (41+),Android,Gece (22-03),8650,348,14,₺222,1028.7
+TKC-1286,2026-10-04,Fizy Premium,Instagram,B - İlk Ay +10GB Hediye,GNÇ (18-26),Android,Akşam (17-22),17285,1156,92,1801.41 TL,2010.0
+TKC-1287,2026-10-09,Fizy Premium,BiP,B - İlk Ay +10GB Hediye,Aile & Ev (41+),Android,Sabah (08-12),21161,1208,67,513,1114.0
+TKC-1288,2026-10-16,Lifebox 500GB,Push Bildirim,D - Son 24 Saat (FOMO),Aile & Ev (41+),Android,Gece (22-03),20604,25985,0,900,1176.9
+TKC-1289,2026-10-18,Fizy Premium,BiP,B - İlk Ay +10GB Hediye,Gamer Pro,Android,Öğle (12-17),19792,998,50,476,1242.3
+TKC-1290,2026-10-26,Fizy Premium,SMS,A - %40 İndirim Fırsatı,Profesyonel (27-40),iOS,Akşam (17-22),11562,332,12,606,904.9
+TKC-1291,2026-10-15,Lifebox 500GB,Push Bildirim,A - %40 İndirim Fırsatı,Gamer Pro,Android,Sabah (08-12),17899,584,24,392,1035.9
+TKC-1292,2026-10-28,Lifebox 500GB,Push Bildirim,C - Gamer & E-Spor Özel,Profesyonel (27-40),Android,Öğle (12-17),16493,546,24,286,886.4
+TKC-1293,2026-10-11,Fizy Premium,BiP,B - İlk Ay +10GB Hediye,Profesyonel (27-40),Android,Sabah (08-12),6691,399,26,157,1438.0
+TKC-1294,2026-10-21,TV+ Süper Paket,SMS,D - Son 24 Saat (FOMO),Gamer Pro,iOS,Gece (22-03),8034,270,10,505,964.9
+TKC-1295,2026-10-17,TV+ Süper Paket,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),iOS,Sabah (08-12),12783,134,0,1663,541.8
+TKC-1296,2026-10-03,BiP Yıldızlar,Push Bildirim,D - Son 24 Saat (FOMO),,Android,Akşam (17-22),12570,497,20,210,1298.3
+TKC-1297,2026-10-16,TV+ Süper Paket,SMS,D - Son 24 Saat (FOMO),Profesyonel (27-40),iOS,Öğle (12-17),5799,147,3,319.48 TL,743.1
+TKC-1298,2026-10-23,TV+ Süper Paket,BiP ,B - İlk Ay +10GB Hediye,Aile & Ev (41+),Android,Akşam (17-22),22916,1606,78,547,1344.4
+TKC-1299,2026-10-04,TV+ Süper Paket,SMS,B - İlk Ay +10GB Hediye,Gamer Pro,iOS,Öğle (12-17),23181,547,17,1332,945.3
+TKC-1300,2026-10-14,TV+ Süper Paket,Push Bildirim,C - Gamer & E-Spor Özel,GNÇ (18-26),Android,Sabah (08-12),17809,612,19,328,1085.4
+TKC-1301,2026-10-07,TV+ Süper Paket,SMS,B - İlk Ay +10GB Hediye,Gamer Pro,Android,Akşam (17-22),8305,274,8,413,704.5
+TKC-1302,2026-10-03,BiP Yıldızlar,Push Bildirim,A - %40 İndirim Fırsatı,Gamer Pro,iOS,Öğle (12-17),4819,240,9,101,1289.8
+TKC-1303,2026-10-09,Game+ GeForce NOW,SMS,A - %40 İndirim Fırsatı,GNÇ (18-26),iOS,Öğle (12-17),23676,639,23,1110,965.4
+TKC-1304,2026-10-02,Lifebox 500GB,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),iOS,Sabah (08-12),15843,247,0,"₺2,207",561.8
+TKC-1305,2026-10-11,Fizy Premium,Instagram,B - İlk Ay +10GB Hediye,GNÇ (18-26),Android,Akşam (17-22),22761,2084,123,2025,1922.2
+TKC-1306,2026-10-28,Lifebox 500GB,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),iOS,Sabah (08-12),13943,198,0,2015,714.0
+TKC-1307,2026-10-24,TV+ Süper Paket,Push Bildirim,D - Son 24 Saat (FOMO),Profesyonel (27-40),Android,Gece (22-03),15940,494,16,304,1167.1
+TKC-1308,2026-10-22,Lifebox 500GB,SMS,A - %40 İndirim Fırsatı,Profesyonel (27-40),Android,Akşam (17-22),9645,286,9,557.75 TL,752.0
+TKC-1309,2026-10-27,BiP Yıldızlar,SMS,B - İlk Ay +10GB Hediye,GNÇ (18-26),Android,Sabah (08-12),17747,637,16,973,784.3
+TKC-1310,2026-10-09,Lifebox 500GB,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),Android,Sabah (08-12),4083,47,0,522,707.0
+TKC-1311,2026-10-15,Fizy Premium,Instagram,C - Gamer & E-Spor Özel,Gamer Pro,iOS,Akşam (17-22),19756,1609,160,2149,2076.1
+TKC-1312,2026-10-21,Lifebox 500GB,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),Android,Sabah (08-12),13406,195,1,1927,549.6
+TKC-1313,2026-10-25,Fizy Premium,BiP,A - %40 İndirim Fırsatı,Aile & Ev (41+),iOS,Akşam (17-22),13137,918,45,350,1387.1
+TKC-1314,2026-10-23,Lifebox 500GB,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),iOS,Sabah (08-12),21516,205,0,3100,514.7
+TKC-1315,2026-10-27,BiP Yıldızlar,BiP,D - Son 24 Saat (FOMO),GNÇ (18-26),iOS,Öğle (12-17),16262,954,40,489,1630.1
+TKC-1316,2026-10-01,BiP Yıldızlar,SMS,D - Son 24 Saat (FOMO),GNÇ (18-26),Android,Gece (22-03),7306,241,6,448,736.2
+TKC-1317,2026-10-22,Fizy Premium,BiP,D - Son 24 Saat (FOMO),Profesyonel (27-40),iOS,Öğle (12-17),12734,943,37,307,1327.0
+TKC-1318,2026-10-23,Fizy Premium,Push Bildirim,B - İlk Ay +10GB Hediye,Aile & Ev (41+),iOS,Akşam (17-22),24908,906,31,591,
+TKC-1319,2026-10-21,Game+ GeForce NOW,Push Bildirim,A - %40 İndirim Fırsatı,Profesyonel (27-40),Android,Akşam (17-22),20597,876,36,420.74 TL,1186.5
+TKC-1320,2026-10-27,TV+ Süper Paket,SMS,A - %40 İndirim Fırsatı,Gamer Pro,iOS,Sabah (08-12),3238,105,2,194,756.3
+TKC-1321,2026-10-10,BiP Yıldızlar,BiP,B - İlk Ay +10GB Hediye,GNÇ (18-26),iOS,Akşam (17-22),16330,785,54,552,1575.7
+TKC-1322,2026-10-24,TV+ Süper Paket,BiP,C - Gamer & E-Spor Özel,Profesyonel (27-40),Android,Akşam (17-22),14199,816,37,468,1631.2
+TKC-1323,2026-10-02,Lifebox 500GB,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),Android,Sabah (08-12),22267,303,1,"₺3,122",614.0
+TKC-1324,2026-10-20,Lifebox 500GB,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),iOS,Sabah (08-12),23869,205,1,3327,485.8
+TKC-1325,2026-10-02,BiP Yıldızlar,SMS,B - İlk Ay +10GB Hediye,Aile & Ev (41+),Android,Öğle (12-17),1684,45,1,81,753.8
+TKC-1326,2026-10-11,TV+ Süper Paket,SMS,C - Gamer & E-Spor Özel,Aile & Ev (41+),Android,Gece (22-03),11915,362,14,660,975.2
+TKC-1327,2026-10-06,Fizy Premium,SMS,C - Gamer & E-Spor Özel,Gamer Pro,Android,Sabah (08-12),23236,634,19,1147,963.4
+TKC-1328,2026-10-17,Lifebox 500GB,SMS,C - Gamer & E-Spor Özel,GNÇ (18-26),iOS,Sabah (08-12),22545,717,24,1447,938.9
+TKC-1329,2026-10-11,BiP Yıldızlar,SMS,C - Gamer & E-Spor Özel,GNÇ (18-26),Android,Gece (22-03),2309,84,3,$10,981.0
+TKC-1330,2026-10-15,BiP Yıldızlar,SMS,C - Gamer & E-Spor Özel,Aile & Ev (41+),iOS,Öğle (12-17),4644,114,4,258.95 TL,702.6
+TKC-1331,2026-10-03,Lifebox 500GB,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),Android,Sabah (08-12),8236,101,0,1228,682.6
+TKC-1332,2026-10-21,TV+ Süper Paket,bip,A - %40 İndirim Fırsatı,GNÇ (18-26),iOS,Akşam (17-22),9754,602,25,250,1242.3
+TKC-1333,2026-10-13,TV+ Süper Paket,SMS,C - Gamer & E-Spor Özel,,iOS,Gece (22-03),5376,7756,0,771,964.6
+TKC-1334,2026-10-23,Game+ GeForce NOW,Push Bildirim,C - Gamer & E-Spor Özel,Aile & Ev (41+),Android,Sabah (08-12),10724,502,18,216,1147.3
+TKC-1335,2026-10-16,Fizy Premium,Instagram,C - Gamer & E-Spor Özel,GNÇ (18-26),Android,Akşam (17-22),22731,1731,179,2310,1810.8
+TKC-1336,2026-10-04,TV+ Süper Paket,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),iOS,Sabah (08-12),12767,123,0,1839,492.7
+TKC-1337,2026-10-06,TV+ Süper Paket,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),Android,Sabah (08-12),20089,297,1,2959,748.3
+TKC-1338,2026-10-15,Game+ GeForce NOW,bip,B - İlk Ay +10GB Hediye,GNÇ (18-26),iOS,Sabah (08-12),23497,1519,76,750,1595.1
+TKC-1339,2026-10-11,BiP Yıldızlar,SMS,B - İlk Ay +10GB Hediye,Aile & Ev (41+),Android,Akşam (17-22),11865,443,12,608,975.0
+TKC-1340,2026-10-23,Lifebox 500GB,BiP,C - Gamer & E-Spor Özel,Aile & Ev (41+),Android,Sabah (08-12),13255,904,36,-315 TL,1455.1
+TKC-1341,2026-10-03,TV+ Süper Paket,Push Bildirim,C - Gamer & E-Spor Özel,Profesyonel (27-40),Android,Öğle (12-17),2110,102,4,53.94 TL,1110.5
+TKC-1342,2026-10-25,Fizy Premium,SMS,D - Son 24 Saat (FOMO),GNÇ (18-26),iOS,Akşam (17-22),8817,319,10,₺548,746.9
+TKC-1343,2026-10-17,Fizy Premium,SMS,A - %40 İndirim Fırsatı,Gamer Pro,Android,Akşam (17-22),21620,712,25,1034,755.7
+TKC-1344,2026-10-19,TV+ Süper Paket,Push Bildirim,C - Gamer & E-Spor Özel,Profesyonel (27-40),iOS,Gece (22-03),17479,613,20,315,1150.9
+TKC-1345,2026-10-17,Lifebox 500GB,Push Bildirim,D - Son 24 Saat (FOMO),Aile & Ev (41+),Android,Gece (22-03),2807,144,4,68,1084.6
+TKC-1346,2026-10-27,TV+ Süper Paket,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),iOS,Sabah (08-12),13903,151,0,1994,605.0
+TKC-1347,2026-10-13,Game+ GeForce NOW,Push Bildirim,C - Gamer & E-Spor Özel,Profesyonel (27-40),Android,Gece (22-03),17297,856,24,458,1048.0
+TKC-1348,2026-10-08,TV+ Süper Paket,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),iOS,Sabah (08-12),21227,291,0,2531,693.4
+TKC-1349,2026-10-24,TV+ Süper Paket,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),Android,Sabah (08-12),14964,122,0,1989,498.3
+TKC-1350,2026-10-21,Game+ GeForce NOW,SMS,B - İlk Ay +10GB Hediye,Profesyonel (27-40),Android,Sabah (08-12),18429,687,23,1037,706.5
+TKC-1351,2026-10-24,Lifebox 500GB,BiP,B - İlk Ay +10GB Hediye,Gamer Pro,Android,Öğle (12-17),7089,365,21,172,1420.5
+TKC-1352,2026-10-25,Lifebox 500GB,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),Android,Sabah (08-12),21047,267,0,2639.68 TL,482.6
+TKC-1353,2026-10-07,Fizy Premium,SMS,A - %40 İndirim Fırsatı,Gamer Pro,Android,Öğle (12-17),21644,683,26,1204,963.3
+TKC-1354,2026-10-03,BiP Yıldızlar,SMS,D - Son 24 Saat (FOMO),Profesyonel (27-40),Android,Sabah (08-12),2923,96,3,186,868.7
+TKC-1355,2026-10-25,Game+ GeForce NOW,SMS,B - İlk Ay +10GB Hediye,GNÇ (18-26),Android,Gece (22-03),9118,333,8,519,890.3
+TKC-1356,2026-10-09,Fizy Premium,Instagram,C - Gamer & E-Spor Özel,Gamer Pro,Android,Akşam (17-22),24036,2142,186,2120,1726.9
+TKC-1357,2026-10-19,Lifebox 500GB,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),Android,Sabah (08-12),23802,266,0,3144,617.3
+TKC-1358,2026-10-06,BiP Yıldızlar,SMS,C - Gamer & E-Spor Özel,Gamer Pro,iOS,Akşam (17-22),24617,698,18,1533,741.7
+TKC-1359,2026-10-08,BiP Yıldızlar,SMS,B - İlk Ay +10GB Hediye,Profesyonel (27-40),iOS,Sabah (08-12),12589,438,14,739,718.2
+TKC-1360,2026-10-13,Lifebox 500GB,Push Bildirim,B - İlk Ay +10GB Hediye,GNÇ (18-26),Android,Sabah (08-12),15766,503,16,312,1124.1
+TKC-1361,2026-10-24,Fizy Premium,SMS,A - %40 İndirim Fırsatı,Gamer Pro,Android,Akşam (17-22),15884,352,13,"₺1,010",881.4
+TKC-1362,2026-10-07,TV+ Süper Paket,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),Android,Sabah (08-12),23586,195,0,2595,497.2
+TKC-1363,2026-10-09,TV+ Süper Paket,BiP,B - İlk Ay +10GB Hediye,Profesyonel (27-40),Android,Akşam (17-22),19509,1044,70,714.81 TL,1291.5
+TKC-1364,2026-10-27,Lifebox 500GB,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),Android,Sabah (08-12),10055,94,0,1331,601.0
+TKC-1365,2026-10-11,Lifebox 500GB,Push Bildirim,D - Son 24 Saat (FOMO),Aile & Ev (41+),Android,Akşam (17-22),9471,441,20,199,1057.3
+TKC-1366,2026-10-19,TV+ Süper Paket,Push Bildirim,C - Gamer & E-Spor Özel,Gamer Pro,iOS,Sabah (08-12),8721,391,12,167,1280.0
+TKC-1367,2026-10-17,TV+ Süper Paket,SMS,C - Gamer & E-Spor Özel,Aile & Ev (41+),iOS,Öğle (12-17),12706,294,11,693,823.7
+TKC-1368,2026-10-29,Fizy Premium,SMS,D - Son 24 Saat (FOMO),Profesyonel (27-40),iOS,Öğle (12-17),9431,339,9,463,787.4
+TKC-1369,2026-10-20,Lifebox 500GB,SMS,A - %40 İndirim Fırsatı,GNÇ (18-26),Android,Sabah (08-12),19243,718,27,1009,810.4
+TKC-1370,2026-10-29,BiP Yıldızlar,Push Bildirim,B - İlk Ay +10GB Hediye,,iOS,Gece (22-03),8777,408,12,192,1040.4
+TKC-1371,2026-10-18,Game+ GeForce NOW,Instagram,B - İlk Ay +10GB Hediye,Gamer Pro,Android,Akşam (17-22),16575,1234,68,1744,
+TKC-1372,2026-10-04,Lifebox 500GB,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),iOS,Sabah (08-12),16945,265,0,1989,577.2
+TKC-1373,2026-10-14,Fizy Premium,BiP,A - %40 İndirim Fırsatı,Gamer Pro,Android,Öğle (12-17),23979,1243,42,631,1229.7
+TKC-1374,2026-10-14,Lifebox 500GB,Push Bildirim,B - İlk Ay +10GB Hediye,Profesyonel (27-40),Android,Öğle (12-17),7287,286,8,193.93 TL,1133.8
+TKC-1375,2026-10-18,Lifebox 500GB,BiP,B - İlk Ay +10GB Hediye,GNÇ (18-26),iOS,Akşam (17-22),6852,320,21,203,1446.4
+TKC-1376,2026-10-15,Game+ GeForce NOW,BiP,C - Gamer & E-Spor Özel,Profesyonel (27-40),iOS,Akşam (17-22),5472,303,13,$10,1417.3
+TKC-1377,2026-10-21,Lifebox 500GB,BiP,C - Gamer & E-Spor Özel,Aile & Ev (41+),Android,Öğle (12-17),16145,1157,44,429,1447.4
+TKC-1378,2026-10-05,TV+ Süper Paket,Push Bildirim,D - Son 24 Saat (FOMO),Aile & Ev (41+),iOS,Gece (22-03),12759,18785,0,599,970.4
+TKC-1379,2026-10-09,Fizy Premium,Push Bildirim,D - Son 24 Saat (FOMO),Aile & Ev (41+),iOS,Gece (22-03),2256,73,2,41,1184.7
+TKC-1380,2026-10-24,TV+ Süper Paket,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),Android,Sabah (08-12),17005,210,0,"₺2,141",679.5
+TKC-1381,2026-10-03,Lifebox 500GB,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),iOS,Sabah (08-12),9606,133,0,1105,608.0
+TKC-1382,2026-10-06,Fizy Premium,Instagram,B - İlk Ay +10GB Hediye,GNÇ (18-26),Android,Akşam (17-22),19213,1787,122,1711,2066.5
+TKC-1383,2026-10-18,Lifebox 500GB,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),Android,Sabah (08-12),22456,275,1,2903,518.1
+TKC-1384,2026-10-03,Fizy Premium,SMS,C - Gamer & E-Spor Özel,Aile & Ev (41+),iOS,Gece (22-03),1503,45,1,72,800.4
+TKC-1385,2026-10-18,Game+ GeForce NOW,Instagram,B - İlk Ay +10GB Hediye,GNÇ (18-26),Android,Akşam (17-22),11098,920,68,1125.85 TL,1572.6
+TKC-1386,2026-10-29,Lifebox 500GB,SMS,B - İlk Ay +10GB Hediye,Gamer Pro,Android,Öğle (12-17),8728,228,7,435,967.6
+TKC-1387,2026-10-30,Game+ GeForce NOW,BiP,B - İlk Ay +10GB Hediye,GNÇ (18-26),iOS,Akşam (17-22),3743,188,10,120,1439.8
+TKC-1388,2026-10-09,TV+ Süper Paket,BiP,D - Son 24 Saat (FOMO),GNÇ (18-26),iOS,Sabah (08-12),4851,259,8,141,1104.5
+TKC-1389,2026-10-03,Lifebox 500GB,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),Android,Sabah (08-12),17831,285,1,2526,549.1
+TKC-1390,2026-10-27,Fizy Premium,BiP,B - İlk Ay +10GB Hediye,GNÇ (18-26),iOS,Öğle (12-17),9694,673,45,232,1522.5
+TKC-1391,2026-10-08,Fizy Premium,SMS,A - %40 İndirim Fırsatı,Gamer Pro,Android,Öğle (12-17),4578,138,5,249,938.5
+TKC-1392,2026-10-10,Game+ GeForce NOW,Push Bildirim,A - %40 İndirim Fırsatı,Profesyonel (27-40),Android,Sabah (08-12),11291,388,17,296,948.0
+TKC-1393,2026-10-04,Lifebox 500GB,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),Android,Sabah (08-12),14469,207,0,1616,685.0
+TKC-1394,2026-10-16,BiP Yıldızlar,BiP,B - İlk Ay +10GB Hediye,Aile & Ev (41+),iOS,Öğle (12-17),21984,1028,58,538,1395.0
+TKC-1395,2026-10-04,Game+ GeForce NOW,Instagram,B - İlk Ay +10GB Hediye,GNÇ (18-26),iOS,Akşam (17-22),13878,1051,61,1554,1765.4
+TKC-1396,2026-10-15,BiP Yıldızlar,SMS,B - İlk Ay +10GB Hediye,Gamer Pro,iOS,Öğle (12-17),16848,444,16,1066.30 TL,894.1
+TKC-1397,2026-10-03,BiP Yıldızlar,SMS,C - Gamer & E-Spor Özel,Gamer Pro,iOS,Akşam (17-22),1523,52,1,91,1009.0
+TKC-1398,2026-10-20,BiP Yıldızlar,Push Bildirim,A - %40 İndirim Fırsatı,Profesyonel (27-40),Android,Akşam (17-22),7721,320,12,171,1125.9
+TKC-1399,2026-10-11,BiP Yıldızlar,SMS,A - %40 İndirim Fırsatı,Aile & Ev (41+),Android,Sabah (08-12),2934,103,2,₺183,770.7
+TKC-1400,2026-10-16,Game+ GeForce NOW,Instagram ,B - İlk Ay +10GB Hediye,GNÇ (18-26),iOS,Akşam (17-22),21355,1847,102,2405,1876.2
+TKC-1401,2026-10-30,Game+ GeForce NOW,Push Bildirim,A - %40 İndirim Fırsatı,GNÇ (18-26),Android,Gece (22-03),15129,727,31,238,1127.6
+TKC-1402,2026-10-17,TV+ Süper Paket,instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),Android,Sabah (08-12),4682,41,0,587,507.9
+TKC-1403,2026-10-22,Lifebox 500GB,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),Android,Sabah (08-12),22426,282,1,3097,578.1
+TKC-1404,2026-10-04,Lifebox 500GB,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),Android,Sabah (08-12),18994,303,1,2357,544.5
+TKC-1405,2026-10-11,BiP Yıldızlar,Push Bildirim,C - Gamer & E-Spor Özel,Gamer Pro,iOS,Gece (22-03),19379,31603,0,1310,964.3
+TKC-1406,2026-10-15,BiP Yıldızlar,Push Bildirim,C - Gamer & E-Spor Özel,GNÇ (18-26),iOS,Sabah (08-12),5926,307,10,112,949.8
+TKC-1407,2026-10-28,Game+ GeForce NOW,Instagram,C - Gamer & E-Spor Özel,,iOS,Akşam (17-22),13154,916,75,1469.15 TL,1612.4
+TKC-1408,2026-10-09,Game+ GeForce NOW,BiP,C - Gamer & E-Spor Özel,Profesyonel (27-40),Android,Gece (22-03),7165,427,20,238,1550.7
+TKC-1409,2026-10-04,TV+ Süper Paket,SMS,D - Son 24 Saat (FOMO),Aile & Ev (41+),Android,Sabah (08-12),12457,343,12,664,1003.7
+TKC-1410,2026-10-28,Lifebox 500GB,BiP,B - İlk Ay +10GB Hediye,Aile & Ev (41+),iOS,Gece (22-03),18682,863,52,456,1376.3
+TKC-1411,2026-10-08,Game+ GeForce NOW,Instagram,C - Gamer & E-Spor Özel,GNÇ (18-26),Android,Akşam (17-22),14421,1001,85,1432,1934.5
+TKC-1412,2026-10-18,Fizy Premium,SMS,D - Son 24 Saat (FOMO),GNÇ (18-26),Android,Gece (22-03),17258,534,17,1002,768.6
+TKC-1413,2026-10-20,Game+ GeForce NOW,Push Bildirim,A - %40 İndirim Fırsatı,Profesyonel (27-40),Android,Öğle (12-17),12097,545,21,199,1036.1
+TKC-1414,2026-10-12,TV+ Süper Paket,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),Android,Sabah (08-12),7046,112,0,1054,582.7
+TKC-1415,2026-10-05,Fizy Premium,SMS,C - Gamer & E-Spor Özel,Profesyonel (27-40),Android,Öğle (12-17),4311,102,2,276,1024.4
+TKC-1416,2026-10-28,TV+ Süper Paket,Push Bildirim,C - Gamer & E-Spor Özel,Aile & Ev (41+),iOS,Sabah (08-12),16939,516,16,373,941.7
+TKC-1417,2026-10-17,TV+ Süper Paket,BiP,C - Gamer & E-Spor Özel,Profesyonel (27-40),iOS,Gece (22-03),23242,1413,51,534,1210.4
+TKC-1418,2026-10-23,Game+ GeForce NOW,bip,C - Gamer & E-Spor Özel,GNÇ (18-26),Android,Akşam (17-22),2125,114,5,₺60,1638.9
+TKC-1419,2026-10-17,BiP Yıldızlar,Push Bildirim,D - Son 24 Saat (FOMO),GNÇ (18-26),Android,Akşam (17-22),7608,261,12,170,1170.6
+TKC-1420,2026-10-02,Lifebox 500GB,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),Android,Sabah (08-12),2102,22,0,284,520.9
+TKC-1421,2026-10-17,Game+ GeForce NOW,instagram,B - İlk Ay +10GB Hediye,Gamer Pro,iOS,Akşam (17-22),14372,1217,69,1386,2074.4
+TKC-1422,2026-10-20,BiP Yıldızlar,Push Bildirim,B - İlk Ay +10GB Hediye,Profesyonel (27-40),iOS,Gece (22-03),11736,586,20,259,943.0
+TKC-1423,2026-10-05,BiP Yıldızlar,SMS,C - Gamer & E-Spor Özel,Profesyonel (27-40),Android,Öğle (12-17),15592,591,23,$21,1026.6
+TKC-1424,2026-10-30,Fizy Premium,Instagram ,C - Gamer & E-Spor Özel,Gamer Pro,Android,Akşam (17-22),6268,544,53,698,
+TKC-1425,2026-10-14,Game+ GeForce NOW,Instagram,C - Gamer & E-Spor Özel,GNÇ (18-26),iOS,Akşam (17-22),7553,496,51,-782 TL,1843.6
+TKC-1426,2026-10-20,Lifebox 500GB,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),iOS,Sabah (08-12),17117,155,0,2204,644.9
+TKC-1427,2026-10-06,Fizy Premium,Push Bildirim,B - İlk Ay +10GB Hediye,Gamer Pro,iOS,Gece (22-03),2556,99,4,69,1277.6
+TKC-1428,2026-10-08,Lifebox 500GB,BiP,D - Son 24 Saat (FOMO),Aile & Ev (41+),Android,Sabah (08-12),17554,1152,54,635,1335.2
+TKC-1429,2026-10-25,Lifebox 500GB,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),iOS,Sabah (08-12),20241,258,1,2935.58 TL,686.1
+TKC-1430,2026-10-17,Game+ GeForce NOW,Instagram,B - İlk Ay +10GB Hediye,Gamer Pro,Android,Akşam (17-22),18412,1619,128,1670,1735.7
+TKC-1431,2026-10-29,Lifebox 500GB,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),iOS,Sabah (08-12),3287,44,0,423,643.8
+TKC-1432,2026-10-03,Fizy Premium,BiP,C - Gamer & E-Spor Özel,Aile & Ev (41+),iOS,Gece (22-03),12099,15135,0,951,1491.9
+TKC-1433,2026-10-15,TV+ Süper Paket,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),Android,Sabah (08-12),5548,48,0,751,475.6
+TKC-1434,2026-10-23,TV+ Süper Paket,SMS,D - Son 24 Saat (FOMO),Profesyonel (27-40),Android,Gece (22-03),12483,387,13,599,1004.1
+TKC-1435,2026-10-06,Fizy Premium,BiP ,B - İlk Ay +10GB Hediye,GNÇ (18-26),iOS,Akşam (17-22),5811,428,20,199,1106.7
+TKC-1436,2026-10-16,Fizy Premium,Push Bildirim,B - İlk Ay +10GB Hediye,GNÇ (18-26),Android,Gece (22-03),17088,683,25,390,853.0
+TKC-1437,2026-10-29,Fizy Premium,SMS,B - İlk Ay +10GB Hediye,Profesyonel (27-40),iOS,Sabah (08-12),12936,292,11,₺755,993.3
+TKC-1438,2026-10-10,TV+ Süper Paket,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),iOS,Sabah (08-12),10818,139,0,1447,686.2
+TKC-1439,2026-10-06,Game+ GeForce NOW,Push Bildirim,A - %40 İndirim Fırsatı,Aile & Ev (41+),iOS,Sabah (08-12),13917,668,28,361,879.2
+TKC-1440,2026-10-16,Lifebox 500GB,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),Android,Sabah (08-12),24300,235,0,3228.37 TL,743.8
+TKC-1441,2026-10-17,BiP Yıldızlar,Push Bildirim,D - Son 24 Saat (FOMO),Gamer Pro,Android,Akşam (17-22),10008,415,19,196,908.4
+TKC-1442,2026-10-19,BiP Yıldızlar,SMS,B - İlk Ay +10GB Hediye,Gamer Pro,iOS,Gece (22-03),11018,415,10,501,918.9
+TKC-1443,2026-10-04,Game+ GeForce NOW,BiP,A - %40 İndirim Fırsatı,Profesyonel (27-40),Android,Öğle (12-17),22389,1150,50,740,1239.9
+TKC-1444,2026-10-03,TV+ Süper Paket,Instagram,A - %40 İndirim Fırsatı,,iOS,Sabah (08-12),12421,133,0,1672,458.7
+TKC-1445,2026-10-06,Game+ GeForce NOW,Instagram,B - İlk Ay +10GB Hediye,GNÇ (18-26),Android,Akşam (17-22),17277,1203,80,1917,2032.4
+TKC-1446,2026-10-15,Game+ GeForce NOW,BiP,B - İlk Ay +10GB Hediye,Aile & Ev (41+),Android,Akşam (17-22),2113,108,6,74,1588.4
+TKC-1447,2026-10-12,Game+ GeForce NOW,Instagram,B - İlk Ay +10GB Hediye,GNÇ (18-26),Android,Akşam (17-22),14265,1007,58,1547,1650.4
+TKC-1448,2026-10-28,TV+ Süper Paket,instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),iOS,Sabah (08-12),11416,111,0,1307,685.5
+TKC-1449,2026-10-25,Lifebox 500GB,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),Android,Sabah (08-12),6548,62,0,912,607.1
+TKC-1450,2026-10-25,TV+ Süper Paket,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),iOS,Sabah (08-12),2697,31,0,353,451.2
+TKC-1451,2026-10-30,Game+ GeForce NOW,Instagram,B - İlk Ay +10GB Hediye,GNÇ (18-26),iOS,Akşam (17-22),23093,2017,112,2488.38 TL,1865.3
+TKC-1452,2026-10-07,Lifebox 500GB,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),Android,Sabah (08-12),23491,210,0,2841,454.6
+TKC-1453,2026-10-20,BiP Yıldızlar,SMS,C - Gamer & E-Spor Özel,GNÇ (18-26),iOS,Öğle (12-17),6138,227,8,347,759.9
+TKC-1454,2026-10-10,TV+ Süper Paket,BiP,B - İlk Ay +10GB Hediye,Profesyonel (27-40),iOS,Sabah (08-12),3262,155,8,109,1590.2
+TKC-1455,2026-10-21,Game+ GeForce NOW,Push Bildirim,C - Gamer & E-Spor Özel,Gamer Pro,Android,Akşam (17-22),24860,1160,51,398,1265.3
+TKC-1456,2026-10-25,TV+ Süper Paket,SMS,D - Son 24 Saat (FOMO),Profesyonel (27-40),Android,Sabah (08-12),23928,773,28,"₺1,302",1031.6
+TKC-1457,2026-10-05,Fizy Premium,Push Bildirim,D - Son 24 Saat (FOMO),Aile & Ev (41+),Android,Akşam (17-22),23296,868,39,448,1069.4
+TKC-1458,2026-10-03,Fizy Premium,SMS,D - Son 24 Saat (FOMO),Aile & Ev (41+),iOS,Gece (22-03),12923,409,11,608,986.1
+TKC-1459,2026-10-26,Lifebox 500GB,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),Android,Sabah (08-12),14633,186,0,1752,497.7
+TKC-1460,2026-10-16,Lifebox 500GB,SMS,D - Son 24 Saat (FOMO),Aile & Ev (41+),Android,Öğle (12-17),12713,390,11,741,727.3
+TKC-1461,2026-10-30,TV+ Süper Paket,BiP,B - İlk Ay +10GB Hediye,GNÇ (18-26),Android,Akşam (17-22),7272,394,22,230,1477.0
+TKC-1462,2026-10-20,Fizy Premium,BiP,A - %40 İndirim Fırsatı,Profesyonel (27-40),Android,Akşam (17-22),22344,1548,70,727.84 TL,1349.1
+TKC-1463,2026-10-10,Game+ GeForce NOW,SMS,B - İlk Ay +10GB Hediye,Gamer Pro,iOS,Öğle (12-17),23767,638,24,1276,1043.9
+TKC-1464,2026-10-12,Game+ GeForce NOW,Push Bildirim,B - İlk Ay +10GB Hediye,GNÇ (18-26),iOS,Gece (22-03),19485,999,27,434,1290.4
+TKC-1465,2026-10-04,BiP Yıldızlar,Push Bildirim,D - Son 24 Saat (FOMO),GNÇ (18-26),iOS,Öğle (12-17),11924,544,19,246,945.0
+TKC-1466,2026-10-06,Lifebox 500GB,SMS,C - Gamer & E-Spor Özel,Profesyonel (27-40),iOS,Gece (22-03),23456,563,14,1360,750.4
+TKC-1467,2026-10-29,Fizy Premium,SMS,A - %40 İndirim Fırsatı,Gamer Pro,Android,Öğle (12-17),15126,540,20,891,1025.6
+TKC-1468,2026-10-20,Lifebox 500GB,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),iOS,Sabah (08-12),8897,84,0,1184,704.0
+TKC-1469,2026-10-08,TV+ Süper Paket,BiP,A - %40 İndirim Fırsatı,Gamer Pro,Android,Akşam (17-22),24597,1378,58,920,1144.0
+TKC-1470,2026-10-24,TV+ Süper Paket,BiP,B - İlk Ay +10GB Hediye,Gamer Pro,Android,Akşam (17-22),21490,1024,60,$21,1628.2
+TKC-1471,2026-10-03,BiP Yıldızlar,BiP,D - Son 24 Saat (FOMO),Profesyonel (27-40),Android,Akşam (17-22),16863,988,47,526,1282.3
+TKC-1472,2026-10-12,TV+ Süper Paket,Push Bildirim,B - İlk Ay +10GB Hediye,Aile & Ev (41+),Android,Akşam (17-22),21083,980,41,471,877.6
+TKC-1473,2026-10-16,Game+ GeForce NOW,SMS,A - %40 İndirim Fırsatı,GNÇ (18-26),Android,Akşam (17-22),5655,170,6,285.90 TL,746.4
+TKC-1474,2026-10-09,Fizy Premium,Instagram,C - Gamer & E-Spor Özel,Gamer Pro,iOS,Akşam (17-22),7247,527,50,721,1969.6
+TKC-1475,2026-10-28,Fizy Premium,Instagram,B - İlk Ay +10GB Hediye,Gamer Pro,Android,Akşam (17-22),9297,788,57,₺837,1825.5
+TKC-1476,2026-10-27,Game+ GeForce NOW,Instagram,C - Gamer & E-Spor Özel,Gamer Pro,Android,Akşam (17-22),17105,1266,123,1840,1796.1
+TKC-1477,2026-10-13,Game+ GeForce NOW,BiP,B - İlk Ay +10GB Hediye,GNÇ (18-26),Android,Akşam (17-22),16206,914,50,494,
+TKC-1478,2026-10-04,Game+ GeForce NOW,Push Bildirim,C - Gamer & E-Spor Özel,Aile & Ev (41+),iOS,Gece (22-03),4720,168,6,99,1153.9
+TKC-1479,2026-10-08,Fizy Premium,BiP,C - Gamer & E-Spor Özel,GNÇ (18-26),iOS,Öğle (12-17),1846,120,5,41,1153.7
+TKC-1480,2026-10-04,BiP Yıldızlar,BiP,A - %40 İndirim Fırsatı,Aile & Ev (41+),iOS,Öğle (12-17),20968,1356,63,780,1450.9
+TKC-1481,2026-10-23,BiP Yıldızlar,Push Bildirim,D - Son 24 Saat (FOMO),,Android,Öğle (12-17),7554,375,15,138,1060.1
+TKC-1482,2026-10-30,Fizy Premium,Instagram,B - İlk Ay +10GB Hediye,GNÇ (18-26),iOS,Akşam (17-22),3924,287,16,379,2097.4
+TKC-1483,2026-10-09,TV+ Süper Paket,Push Bildirim,D - Son 24 Saat (FOMO),Aile & Ev (41+),Android,Öğle (12-17),8075,350,11,173,914.7
+TKC-1484,2026-10-25,TV+ Süper Paket,SMS,C - Gamer & E-Spor Özel,GNÇ (18-26),iOS,Gece (22-03),3807,118,3,205.26 TL,1013.8
+TKC-1485,2026-10-05,Lifebox 500GB,bip,C - Gamer & E-Spor Özel,Aile & Ev (41+),Android,Öğle (12-17),18388,1217,55,545,1322.2
+TKC-1486,2026-10-24,Lifebox 500GB,BiP,D - Son 24 Saat (FOMO),Profesyonel (27-40),iOS,Sabah (08-12),19040,1390,53,627,1320.3
+TKC-1487,2026-10-21,TV+ Süper Paket,Push Bildirim,C - Gamer & E-Spor Özel,GNÇ (18-26),Android,Akşam (17-22),11001,486,15,171,1022.9
+TKC-1488,2026-10-07,Lifebox 500GB,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),Android,Sabah (08-12),22235,255,0,2478,457.6
+TKC-1489,2026-10-19,Fizy Premium,Instagram,B - İlk Ay +10GB Hediye,GNÇ (18-26),Android,Akşam (17-22),2037,134,7,221,1477.8
+TKC-1490,2026-10-04,TV+ Süper Paket,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),Android,Sabah (08-12),9134,140,0,1056,646.1
+TKC-1491,2026-10-16,TV+ Süper Paket,Push Bildirim,B - İlk Ay +10GB Hediye,GNÇ (18-26),iOS,Öğle (12-17),3137,156,6,51,1125.1
+TKC-1492,2026-10-27,BiP Yıldızlar,SMS,D - Son 24 Saat (FOMO),GNÇ (18-26),Android,Sabah (08-12),8727,200,5,452,992.6
+TKC-1493,2026-10-24,Fizy Premium,BiP,A - %40 İndirim Fırsatı,Gamer Pro,Android,Akşam (17-22),20934,1050,34,552,1516.7
+TKC-1494,2026-10-06,TV+ Süper Paket,BiP,A - %40 İndirim Fırsatı,Profesyonel (27-40),Android,Gece (22-03),22215,1407,64,₺494,1367.8
+TKC-1495,2026-10-01,Lifebox 500GB,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),iOS,Sabah (08-12),17097,231,0,2318.23 TL,606.9
+TKC-1496,2026-10-14,TV+ Süper Paket,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),Android,Sabah (08-12),21555,336,1,3046,554.4
+TKC-1497,2026-10-01,BiP Yıldızlar,SMS,A - %40 İndirim Fırsatı,Profesyonel (27-40),iOS,Sabah (08-12),19185,577,18,1104,772.8
+TKC-1498,2026-10-02,Lifebox 500GB,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),Android,Sabah (08-12),6735,89,0,915,535.5
+TKC-1499,2026-10-14,Game+ GeForce NOW,Instagram,C - Gamer & E-Spor Özel,GNÇ (18-26),Android,Akşam (17-22),19108,1342,132,1902,1525.4
+TKC-1500,2026-10-29,Lifebox 500GB,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),iOS,Sabah (08-12),23679,359,1,2709,518.3
+TKC-1501,2026-10-08,Lifebox 500GB,BiP,B - İlk Ay +10GB Hediye,Profesyonel (27-40),iOS,Öğle (12-17),15782,778,54,462,1313.0
+TKC-1502,2026-10-05,Fizy Premium,SMS,C - Gamer & E-Spor Özel,Profesyonel (27-40),iOS,Akşam (17-22),2551,84,2,122,998.1
+TKC-1503,2026-10-15,BiP Yıldızlar,SMS,C - Gamer & E-Spor Özel,Aile & Ev (41+),iOS,Öğle (12-17),22405,834,32,1267,893.5
+TKC-1504,2026-10-08,TV+ Süper Paket,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),Android,Sabah (08-12),16663,170,0,2324,524.0
+TKC-1505,2026-10-11,Lifebox 500GB,SMS,A - %40 İndirim Fırsatı,Profesyonel (27-40),Android,Öğle (12-17),2812,106,3,155,849.0
+TKC-1506,2026-10-13,Fizy Premium,SMS,D - Son 24 Saat (FOMO),GNÇ (18-26),iOS,Gece (22-03),1907,63,1,94.13 TL,825.4
+TKC-1507,2026-10-08,BiP Yıldızlar,BiP,C - Gamer & E-Spor Özel,Profesyonel (27-40),Android,Öğle (12-17),2299,170,6,56,1486.7
+TKC-1508,2026-10-06,TV+ Süper Paket,BiP,D - Son 24 Saat (FOMO),Profesyonel (27-40),iOS,Akşam (17-22),24134,1327,43,695,1248.4
+TKC-1509,2026-10-20,TV+ Süper Paket,SMS,C - Gamer & E-Spor Özel,Profesyonel (27-40),Android,Sabah (08-12),23607,656,16,1243,862.9
+TKC-1510,2026-10-02,Fizy Premium,SMS,B - İlk Ay +10GB Hediye,Profesyonel (27-40),Android,Sabah (08-12),9319,285,9,-557 TL,963.3
+TKC-1511,2026-10-28,Game+ GeForce NOW,Push Bildirim,C - Gamer & E-Spor Özel,Profesyonel (27-40),Android,Öğle (12-17),18000,809,27,285,1005.4
+TKC-1512,2026-10-16,Lifebox 500GB,SMS,C - Gamer & E-Spor Özel,GNÇ (18-26),Android,Gece (22-03),23562,874,32,1504,723.0
+TKC-1513,2026-10-29,Fizy Premium,Push Bildirim,D - Son 24 Saat (FOMO),GNÇ (18-26),iOS,Sabah (08-12),4021,130,4,₺97,1073.3
+TKC-1514,2026-10-28,Lifebox 500GB,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),Android,Sabah (08-12),19241,297,1,2440,671.3
+TKC-1515,2026-10-01,Fizy Premium,IG,B - İlk Ay +10GB Hediye,GNÇ (18-26),Android,Akşam (17-22),12192,970,69,1230,1806.5
+TKC-1516,2026-10-15,Game+ GeForce NOW,Instagram,B - İlk Ay +10GB Hediye,Gamer Pro,Android,Akşam (17-22),10941,963,54,1046,1746.4
+TKC-1517,2026-10-06,Fizy Premium,BiP,A - %40 İndirim Fırsatı,Profesyonel (27-40),iOS,Sabah (08-12),5331,246,9,$10,1243.2
+TKC-1518,2026-10-06,Lifebox 500GB,Instagram,A - %40 İndirim Fırsatı,,iOS,Sabah (08-12),16194,199,0,1977,726.1
+TKC-1519,2026-10-13,Fizy Premium,Push Bildirim,C - Gamer & E-Spor Özel,Profesyonel (27-40),iOS,Gece (22-03),19396,998,34,469,1063.3
+TKC-1520,2026-10-10,TV+ Süper Paket,Push Bildirim,C - Gamer & E-Spor Özel,Profesyonel (27-40),Android,Gece (22-03),2813,93,3,53,1030.7
+TKC-1521,2026-10-27,TV+ Süper Paket,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),Android,Sabah (08-12),8779,125,0,1034,475.1
+TKC-1522,2026-10-28,Lifebox 500GB,SMS,B - İlk Ay +10GB Hediye,GNÇ (18-26),iOS,Gece (22-03),21327,32160,0,3110,839.1
+TKC-1523,2026-10-14,Game+ GeForce NOW,SMS,C - Gamer & E-Spor Özel,Aile & Ev (41+),iOS,Sabah (08-12),16100,579,15,959,855.5
+TKC-1524,2026-10-14,Lifebox 500GB,BiP,B - İlk Ay +10GB Hediye,Aile & Ev (41+),iOS,Gece (22-03),20740,1305,67,557,1643.6
+TKC-1525,2026-10-17,TV+ Süper Paket,Push Bildirim,A - %40 İndirim Fırsatı,GNÇ (18-26),iOS,Gece (22-03),10456,409,15,253,1189.9
+TKC-1526,2026-10-05,Lifebox 500GB,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),iOS,Sabah (08-12),11395,167,0,1508,589.0
+TKC-1527,2026-10-01,TV+ Süper Paket,BiP,B - İlk Ay +10GB Hediye,GNÇ (18-26),Android,Akşam (17-22),10926,628,37,361,1234.6
+TKC-1528,2026-10-04,Lifebox 500GB,BiP,B - İlk Ay +10GB Hediye,Gamer Pro,Android,Akşam (17-22),9951,635,37,329.46 TL,1165.8
+TKC-1529,2026-10-17,Fizy Premium,BiP ,B - İlk Ay +10GB Hediye,GNÇ (18-26),iOS,Sabah (08-12),3233,171,9,118,1295.8
+TKC-1530,2026-10-10,TV+ Süper Paket,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),Android,Sabah (08-12),7504,105,0,876,
+TKC-1531,2026-10-11,TV+ Süper Paket,Push Bildirim,C - Gamer & E-Spor Özel,Aile & Ev (41+),Android,Akşam (17-22),13022,626,17,283,1017.9
+TKC-1532,2026-10-16,Fizy Premium,SMS,B - İlk Ay +10GB Hediye,Profesyonel (27-40),Android,Sabah (08-12),7674,266,8,₺451,1033.4
+TKC-1533,2026-10-28,TV+ Süper Paket,SMS,D - Son 24 Saat (FOMO),GNÇ (18-26),iOS,Gece (22-03),5800,213,6,297,826.9
+TKC-1534,2026-10-27,TV+ Süper Paket,SMS,C - Gamer & E-Spor Özel,Aile & Ev (41+),Android,Öğle (12-17),5386,137,5,258,779.3
+TKC-1535,2026-10-05,TV+ Süper Paket,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),iOS,Sabah (08-12),17368,244,0,1985,687.9
+TKC-1536,2026-10-17,TV+ Süper Paket,SMS,C - Gamer & E-Spor Özel,Gamer Pro,iOS,Sabah (08-12),23375,518,13,1110,910.6
+TKC-1537,2026-10-19,TV+ Süper Paket,Push Bildirim,A - %40 İndirim Fırsatı,Profesyonel (27-40),iOS,Akşam (17-22),10589,538,18,181,1075.3
+TKC-1538,2026-10-24,BiP Yıldızlar,BiP,C - Gamer & E-Spor Özel,GNÇ (18-26),iOS,Akşam (17-22),7776,574,20,265,1102.4
+TKC-1539,2026-10-24,Lifebox 500GB,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),iOS,Sabah (08-12),20812,197,0,2378.67 TL,700.4
+TKC-1540,2026-10-13,Game+ GeForce NOW,SMS,A - %40 İndirim Fırsatı,Profesyonel (27-40),iOS,Gece (22-03),5114,7727,0,668,800.9
+TKC-1541,2026-10-03,Lifebox 500GB,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),Android,Sabah (08-12),16047,157,0,2397,578.4
+TKC-1542,2026-10-28,Lifebox 500GB,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),iOS,Sabah (08-12),23590,281,0,3008,647.6
+TKC-1543,2026-10-03,TV+ Süper Paket,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),Android,Sabah (08-12),7028,59,0,868,628.5
+TKC-1544,2026-10-13,Lifebox 500GB,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),Android,Sabah (08-12),20568,262,1,2921,733.0
+TKC-1545,2026-10-12,Fizy Premium,SMS,C - Gamer & E-Spor Özel,Gamer Pro,Android,Gece (22-03),5040,120,3,250,1029.8
+TKC-1546,2026-10-01,TV+ Süper Paket,IG,A - %40 İndirim Fırsatı,Aile & Ev (41+),Android,Sabah (08-12),14038,180,0,1714,637.0
+TKC-1547,2026-10-25,Fizy Premium,Instagram,C - Gamer & E-Spor Özel,GNÇ (18-26),Android,Akşam (17-22),17564,1407,128,1919,1801.3
+TKC-1548,2026-10-01,Lifebox 500GB,Push Bildirim,A - %40 İndirim Fırsatı,GNÇ (18-26),Android,Gece (22-03),13831,549,15,239,1146.7
+TKC-1549,2026-10-25,TV+ Süper Paket,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),iOS,Sabah (08-12),14249,169,0,1952,648.0
+TKC-1550,2026-10-22,BiP Yıldızlar,SMS,B - İlk Ay +10GB Hediye,Gamer Pro,iOS,Gece (22-03),10130,303,11,580.84 TL,823.5
+TKC-1551,2026-10-10,Lifebox 500GB,IG,A - %40 İndirim Fırsatı,Aile & Ev (41+),iOS,Sabah (08-12),20635,169,0,"₺2,552",479.2
+TKC-1552,2026-10-12,Fizy Premium,Push Bildirim,A - %40 İndirim Fırsatı,Gamer Pro,iOS,Akşam (17-22),22736,838,24,544,1241.0
+TKC-1553,2026-10-04,Lifebox 500GB,instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),Android,Sabah (08-12),15300,155,0,2043,745.7
+TKC-1554,2026-10-13,TV+ Süper Paket,SMS,D - Son 24 Saat (FOMO),Aile & Ev (41+),Android,Sabah (08-12),8247,225,7,497,818.8
+TKC-1555,2026-10-20,TV+ Süper Paket,Instagram,A - %40 İndirim Fırsatı,,Android,Sabah (08-12),19058,185,0,2323,622.1
+TKC-1556,2026-10-26,TV+ Süper Paket,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),Android,Sabah (08-12),10457,89,0,1349,512.9
+TKC-1557,2026-10-26,Lifebox 500GB,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),Android,Sabah (08-12),19193,201,0,2304,604.6
+TKC-1558,2026-10-22,BiP Yıldızlar,BiP,D - Son 24 Saat (FOMO),GNÇ (18-26),Android,Akşam (17-22),23153,1710,77,682,1615.4
+TKC-1559,2026-10-18,TV+ Süper Paket,BiP,C - Gamer & E-Spor Özel,Gamer Pro,Android,Gece (22-03),13436,791,28,456,1521.0
+TKC-1560,2026-10-28,Lifebox 500GB,SMS,B - İlk Ay +10GB Hediye,Aile & Ev (41+),iOS,Sabah (08-12),10905,352,10,622,842.1
+TKC-1561,2026-10-04,Lifebox 500GB,instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),Android,Sabah (08-12),2712,26,0,301.48 TL,686.9
+TKC-1562,2026-10-09,TV+ Süper Paket,BiP,B - İlk Ay +10GB Hediye,Gamer Pro,iOS,Gece (22-03),4250,231,12,98,1625.3
+TKC-1563,2026-10-29,Fizy Premium,SMS,B - İlk Ay +10GB Hediye,GNÇ (18-26),iOS,Gece (22-03),17892,660,21,1102,1032.4
+TKC-1564,2026-10-30,BiP Yıldızlar,SMS,B - İlk Ay +10GB Hediye,Gamer Pro,iOS,Sabah (08-12),11769,320,10,$18,961.9
+TKC-1565,2026-10-08,Fizy Premium,Push Bildirim,A - %40 İndirim Fırsatı,Profesyonel (27-40),iOS,Öğle (12-17),10496,416,13,238,1070.7
+TKC-1566,2026-10-12,Game+ GeForce NOW,BiP,B - İlk Ay +10GB Hediye,Profesyonel (27-40),Android,Akşam (17-22),6248,349,22,220,1111.6
+TKC-1567,2026-10-29,Fizy Premium,BiP,C - Gamer & E-Spor Özel,Aile & Ev (41+),iOS,Gece (22-03),14105,17081,0,980,1546.7
+TKC-1568,2026-10-28,Lifebox 500GB,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),Android,Sabah (08-12),9873,102,0,1385,539.2
+TKC-1569,2026-10-28,TV+ Süper Paket,Push Bildirim,D - Son 24 Saat (FOMO),Gamer Pro,iOS,Akşam (17-22),4124,198,9,87,1035.8
+TKC-1570,2026-10-27,Fizy Premium,Instagram,C - Gamer & E-Spor Özel,Gamer Pro,Android,Akşam (17-22),13029,1011,97,"₺1,322",1662.4
+TKC-1571,2026-10-23,Lifebox 500GB,Instagram ,A - %40 İndirim Fırsatı,Aile & Ev (41+),Android,Sabah (08-12),5959,47,0,728,622.7
+TKC-1572,2026-10-04,Fizy Premium,Instagram,B - İlk Ay +10GB Hediye,Gamer Pro,Android,Akşam (17-22),5874,427,30,644.98 TL,1969.7
+TKC-1573,2026-10-07,Lifebox 500GB,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),Android,Sabah (08-12),20190,197,1,2966,644.1
+TKC-1574,2026-10-21,Lifebox 500GB,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),Android,Sabah (08-12),7029,59,0,942,494.8
+TKC-1575,2026-10-12,Lifebox 500GB,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),Android,Sabah (08-12),16367,239,0,1947,510.9
+TKC-1576,2026-10-28,Fizy Premium,BiP,B - İlk Ay +10GB Hediye,Aile & Ev (41+),Android,Öğle (12-17),10772,719,37,268,1535.9
+TKC-1577,2026-10-01,TV+ Süper Paket,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),iOS,Sabah (08-12),23922,315,0,3080,711.4
+TKC-1578,2026-10-23,BiP Yıldızlar,SMS,D - Son 24 Saat (FOMO),Profesyonel (27-40),iOS,Gece (22-03),4622,142,3,294,864.8
+TKC-1579,2026-10-12,BiP Yıldızlar,Push Bildirim,C - Gamer & E-Spor Özel,GNÇ (18-26),Android,Sabah (08-12),11412,587,24,191,1251.5
+TKC-1580,2026-10-02,Game+ GeForce NOW,SMS,D - Son 24 Saat (FOMO),Aile & Ev (41+),Android,Öğle (12-17),5822,136,4,312,791.1
+TKC-1581,2026-10-11,Fizy Premium,Instagram,B - İlk Ay +10GB Hediye,GNÇ (18-26),iOS,Akşam (17-22),10125,844,62,941,1653.5
+TKC-1582,2026-10-29,TV+ Süper Paket,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),Android,Sabah (08-12),23042,301,1,2709,466.4
+TKC-1583,2026-10-06,Lifebox 500GB,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),iOS,Sabah (08-12),17717,147,0,2451.34 TL,
+TKC-1584,2026-10-16,Lifebox 500GB,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),iOS,Sabah (08-12),10809,102,0,1409,531.8
+TKC-1585,2026-10-29,Fizy Premium,BiP,C - Gamer & E-Spor Özel,Gamer Pro,iOS,Sabah (08-12),4017,210,8,94,1280.8
+TKC-1586,2026-10-10,Game+ GeForce NOW,BiP,D - Son 24 Saat (FOMO),Profesyonel (27-40),iOS,Akşam (17-22),4156,244,10,123,1445.6
+TKC-1587,2026-10-09,BiP Yıldızlar,SMS,A - %40 İndirim Fırsatı,GNÇ (18-26),Android,Akşam (17-22),12146,451,18,767,979.0
+TKC-1588,2026-10-05,TV+ Süper Paket,Instagram ,A - %40 İndirim Fırsatı,Aile & Ev (41+),Android,Sabah (08-12),19429,303,1,2447,503.4
+TKC-1589,2026-10-25,Fizy Premium,Push Bildirim,B - İlk Ay +10GB Hediye,GNÇ (18-26),iOS,Sabah (08-12),14685,532,22,₺345,904.3
+TKC-1590,2026-10-16,Game+ GeForce NOW,BiP,B - İlk Ay +10GB Hediye,Gamer Pro,Android,Gece (22-03),13540,817,48,490,1362.0
+TKC-1591,2026-10-19,Lifebox 500GB,BiP,A - %40 İndirim Fırsatı,Profesyonel (27-40),iOS,Öğle (12-17),18321,1012,40,469,1477.4
+TKC-1592,2026-10-05,Lifebox 500GB,Push Bildirim,D - Son 24 Saat (FOMO),,iOS,Akşam (17-22),17150,627,29,410,985.2
+TKC-1593,2026-10-08,TV+ Süper Paket,SMS,A - %40 İndirim Fırsatı,Aile & Ev (41+),Android,Sabah (08-12),18233,525,13,1061,899.0
+TKC-1594,2026-10-09,Lifebox 500GB,SMS,A - %40 İndirim Fırsatı,GNÇ (18-26),iOS,Sabah (08-12),7470,265,6,398.34 TL,946.5
+TKC-1595,2026-10-11,Game+ GeForce NOW,SMS,C - Gamer & E-Spor Özel,Gamer Pro,Android,Gece (22-03),7633,193,5,-493 TL,790.8
+TKC-1596,2026-10-22,TV+ Süper Paket,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),iOS,Sabah (08-12),22989,271,1,3328,739.7
+TKC-1597,2026-10-20,Lifebox 500GB,BiP,C - Gamer & E-Spor Özel,Aile & Ev (41+),Android,Akşam (17-22),4371,213,6,104,1108.7
+TKC-1598,2026-10-07,Fizy Premium,Push Bildirim,B - İlk Ay +10GB Hediye,Profesyonel (27-40),Android,Gece (22-03),22014,1076,41,355,1196.4
+TKC-1599,2026-10-05,Fizy Premium,SMS,B - İlk Ay +10GB Hediye,GNÇ (18-26),Android,Sabah (08-12),16090,602,19,1001,904.8
+TKC-1600,2026-10-07,Lifebox 500GB,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),iOS,Sabah (08-12),22157,327,1,2806,598.7
+TKC-1601,2026-10-19,Lifebox 500GB,SMS,D - Son 24 Saat (FOMO),Aile & Ev (41+),Android,Sabah (08-12),20867,701,27,1317,1003.7
+TKC-1602,2026-10-08,Lifebox 500GB,BiP,A - %40 İndirim Fırsatı,Profesyonel (27-40),Android,Öğle (12-17),5331,319,15,147,1483.6
+TKC-1603,2026-10-01,Lifebox 500GB,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),iOS,Sabah (08-12),8699,110,0,1278,706.0
+TKC-1604,2026-10-23,Game+ GeForce NOW,BiP,D - Son 24 Saat (FOMO),GNÇ (18-26),Android,Akşam (17-22),6809,433,16,231,1466.9
+TKC-1605,2026-10-05,Lifebox 500GB,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),Android,Sabah (08-12),17678,184,0,1977.85 TL,455.4
+TKC-1606,2026-10-29,TV+ Süper Paket,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),Android,Sabah (08-12),12566,143,0,1443,517.2
+TKC-1607,2026-10-09,Fizy Premium,Push Bildirim,C - Gamer & E-Spor Özel,Aile & Ev (41+),Android,Sabah (08-12),18388,796,23,288,1275.8
+TKC-1608,2026-10-26,BiP Yıldızlar,SMS,A - %40 İndirim Fırsatı,GNÇ (18-26),iOS,Sabah (08-12),4954,122,3,₺243,826.6
+TKC-1609,2026-10-24,TV+ Süper Paket,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),iOS,Sabah (08-12),13418,143,0,1931,581.7
+TKC-1610,2026-10-14,Game+ GeForce NOW,BiP ,A - %40 İndirim Fırsatı,GNÇ (18-26),Android,Akşam (17-22),15099,842,37,369,1514.4
+TKC-1611,2026-10-14,BiP Yıldızlar,BiP,D - Son 24 Saat (FOMO),Profesyonel (27-40),Android,Gece (22-03),13354,979,39,$13,1494.7
+TKC-1612,2026-10-17,Lifebox 500GB,Push Bildirim,C - Gamer & E-Spor Özel,GNÇ (18-26),Android,Akşam (17-22),6884,272,9,107,1265.1
+TKC-1613,2026-10-05,Lifebox 500GB,Push Bildirim,D - Son 24 Saat (FOMO),GNÇ (18-26),Android,Akşam (17-22),24463,1031,35,603,1259.2
+TKC-1614,2026-10-01,Fizy Premium,Push Bildirim,D - Son 24 Saat (FOMO),Profesyonel (27-40),Android,Gece (22-03),21959,1039,42,528,1249.5
+TKC-1615,2026-10-26,Lifebox 500GB,BiP,B - İlk Ay +10GB Hediye,Gamer Pro,Android,Sabah (08-12),5628,341,20,143,1381.4
+TKC-1616,2026-10-10,BiP Yıldızlar,SMS,A - %40 İndirim Fırsatı,Profesyonel (27-40),Android,Sabah (08-12),9408,332,9,502.90 TL,876.8
+TKC-1617,2026-10-24,Lifebox 500GB,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),iOS,Sabah (08-12),22830,354,1,3034,451.6
+TKC-1618,2026-10-11,Game+ GeForce NOW,Push Bildirim,C - Gamer & E-Spor Özel,Profesyonel (27-40),Android,Akşam (17-22),24924,1061,32,496,1181.9
+TKC-1619,2026-10-04,Game+ GeForce NOW,Instagram,B - İlk Ay +10GB Hediye,GNÇ (18-26),iOS,Akşam (17-22),15449,1388,79,1342,2027.5
+TKC-1620,2026-10-16,Lifebox 500GB,Instagram ,A - %40 İndirim Fırsatı,Aile & Ev (41+),Android,Sabah (08-12),20646,247,0,2634,729.3
+TKC-1621,2026-10-16,Lifebox 500GB,BiP,B - İlk Ay +10GB Hediye,GNÇ (18-26),iOS,Akşam (17-22),24585,1484,90,814,1350.5
+TKC-1622,2026-10-02,Lifebox 500GB,BiP,B - İlk Ay +10GB Hediye,Profesyonel (27-40),iOS,Gece (22-03),13610,845,41,333,1304.3
+TKC-1623,2026-10-12,Game+ GeForce NOW,Instagram,B - İlk Ay +10GB Hediye,Gamer Pro,Android,Akşam (17-22),11499,1054,63,1260,1767.7
+TKC-1624,2026-10-04,Lifebox 500GB,SMS,D - Son 24 Saat (FOMO),GNÇ (18-26),Android,Sabah (08-12),20038,585,17,1053,992.1
+TKC-1625,2026-10-27,Lifebox 500GB,BiP,B - İlk Ay +10GB Hediye,Profesyonel (27-40),iOS,Akşam (17-22),12156,579,36,389,1313.0
+TKC-1626,2026-10-29,TV+ Süper Paket,SMS,C - Gamer & E-Spor Özel,GNÇ (18-26),Android,Gece (22-03),24673,552,19,1491,808.1
+TKC-1627,2026-10-21,TV+ Süper Paket,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),Android,Sabah (08-12),18596,176,0,"₺2,713",486.1
+TKC-1628,2026-10-30,Fizy Premium,SMS,B - İlk Ay +10GB Hediye,GNÇ (18-26),Android,Akşam (17-22),20490,596,22,1171,840.6
+TKC-1629,2026-10-02,Fizy Premium,SMS,D - Son 24 Saat (FOMO),,iOS,Akşam (17-22),18798,509,14,889,734.8
+TKC-1630,2026-10-06,Fizy Premium,Instagram,B - İlk Ay +10GB Hediye,Gamer Pro,Android,Akşam (17-22),3430,286,18,294,1488.0
+TKC-1631,2026-10-13,Game+ GeForce NOW,Instagram,B - İlk Ay +10GB Hediye,GNÇ (18-26),iOS,Akşam (17-22),9351,818,56,933,1939.1
+TKC-1632,2026-10-13,Lifebox 500GB,Push Bildirim,C - Gamer & E-Spor Özel,Aile & Ev (41+),Android,Sabah (08-12),3644,148,5,66,1248.8
+TKC-1633,2026-10-09,Game+ GeForce NOW,SMS,B - İlk Ay +10GB Hediye,GNÇ (18-26),Android,Öğle (12-17),16113,376,12,791,1038.8
+TKC-1634,2026-10-12,BiP Yıldızlar,SMS,D - Son 24 Saat (FOMO),Profesyonel (27-40),Android,Öğle (12-17),1532,53,2,88,928.6
+TKC-1635,2026-10-06,Lifebox 500GB,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),Android,Sabah (08-12),13956,223,1,1654,702.2
+TKC-1636,2026-10-10,Lifebox 500GB,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),iOS,Sabah (08-12),24386,219,0,3225,
+TKC-1637,2026-10-14,Fizy Premium,Instagram,B - İlk Ay +10GB Hediye,GNÇ (18-26),iOS,Akşam (17-22),23201,2192,139,2292,1839.7
+TKC-1638,2026-10-01,TV+ Süper Paket,Push Bildirim,D - Son 24 Saat (FOMO),Profesyonel (27-40),Android,Sabah (08-12),23543,796,31,566.31 TL,1070.0
+TKC-1639,2026-10-13,TV+ Süper Paket,SMS,D - Son 24 Saat (FOMO),GNÇ (18-26),iOS,Sabah (08-12),13833,487,14,672,968.8
+TKC-1640,2026-10-23,Fizy Premium,Push Bildirim,C - Gamer & E-Spor Özel,GNÇ (18-26),Android,Gece (22-03),8758,405,17,209,1169.1
+TKC-1641,2026-10-07,TV+ Süper Paket,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),iOS,Sabah (08-12),17681,278,0,2293,661.2
+TKC-1642,2026-10-20,Fizy Premium,Instagram,C - Gamer & E-Spor Özel,GNÇ (18-26),Android,Akşam (17-22),17687,1240,100,1895,1886.9
+TKC-1643,2026-10-20,Fizy Premium,SMS,A - %40 İndirim Fırsatı,GNÇ (18-26),iOS,Öğle (12-17),20174,719,27,1202,796.0
+TKC-1644,2026-10-28,BiP Yıldızlar,BiP,B - İlk Ay +10GB Hediye,Aile & Ev (41+),Android,Akşam (17-22),1564,114,7,58,1128.5
+TKC-1645,2026-10-11,BiP Yıldızlar,SMS,A - %40 İndirim Fırsatı,Gamer Pro,Android,Akşam (17-22),13344,404,10,793,716.4
+TKC-1646,2026-10-30,Lifebox 500GB,SMS,A - %40 İndirim Fırsatı,Gamer Pro,iOS,Akşam (17-22),4180,150,5,₺271,779.0
+TKC-1647,2026-10-23,Fizy Premium,SMS,B - İlk Ay +10GB Hediye,GNÇ (18-26),iOS,Öğle (12-17),3559,113,2,194,982.8
+TKC-1648,2026-10-19,Game+ GeForce NOW,BiP,B - İlk Ay +10GB Hediye,Aile & Ev (41+),Android,Öğle (12-17),12431,753,40,288,1430.0
+TKC-1649,2026-10-15,TV+ Süper Paket,BiP,A - %40 İndirim Fırsatı,Profesyonel (27-40),iOS,Sabah (08-12),24220,1137,38,889.02 TL,1343.1
+TKC-1650,2026-10-10,Lifebox 500GB,BiP,A - %40 İndirim Fırsatı,GNÇ (18-26),iOS,Sabah (08-12),21727,1467,53,686,1462.8
+TKC-1651,2026-10-01,Game+ GeForce NOW,SMS,A - %40 İndirim Fırsatı,Gamer Pro,Android,Gece (22-03),23643,816,25,1219,767.4
+TKC-1652,2026-10-04,TV+ Süper Paket,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),Android,Sabah (08-12),5628,73,0,714,667.4
+TKC-1653,2026-10-15,TV+ Süper Paket,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),iOS,Sabah (08-12),15781,191,0,1962,625.1
+TKC-1654,2026-10-18,TV+ Süper Paket,BiP,B - İlk Ay +10GB Hediye,GNÇ (18-26),Android,Öğle (12-17),23050,1506,74,694,1559.3
+TKC-1655,2026-10-28,Fizy Premium,Instagram,C - Gamer & E-Spor Özel,Gamer Pro,iOS,Akşam (17-22),17088,1466,153,1760,1665.2
+TKC-1656,2026-10-19,Game+ GeForce NOW,SMS,D - Son 24 Saat (FOMO),Aile & Ev (41+),iOS,Akşam (17-22),16386,590,22,900,1022.0
+TKC-1657,2026-10-21,TV+ Süper Paket,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),Android,Sabah (08-12),12363,178,0,1558,697.8
+TKC-1658,2026-10-01,BiP Yıldızlar,SMS,A - %40 İndirim Fırsatı,GNÇ (18-26),iOS,Akşam (17-22),11021,320,11,$20,826.0
+TKC-1659,2026-10-01,Lifebox 500GB,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),Android,Sabah (08-12),12635,186,0,1489,502.8
+TKC-1660,2026-10-09,TV+ Süper Paket,Push Bildirim,D - Son 24 Saat (FOMO),GNÇ (18-26),iOS,Öğle (12-17),8389,307,10,214.12 TL,1147.4
+TKC-1661,2026-10-17,Fizy Premium,Push Bildirim,A - %40 İndirim Fırsatı,Gamer Pro,Android,Sabah (08-12),5785,274,8,115,1018.4
+TKC-1662,2026-10-20,BiP Yıldızlar,SMS,B - İlk Ay +10GB Hediye,Profesyonel (27-40),iOS,Sabah (08-12),6368,173,4,388,1005.5
+TKC-1663,2026-10-28,Lifebox 500GB,SMS,A - %40 İndirim Fırsatı,Gamer Pro,Android,Öğle (12-17),21648,498,16,1299,925.8
+TKC-1664,2026-10-17,Game+ GeForce NOW,SMS,C - Gamer & E-Spor Özel,Gamer Pro,Android,Öğle (12-17),17336,579,18,873,840.3
+TKC-1665,2026-10-30,Fizy Premium,BiP,B - İlk Ay +10GB Hediye,GNÇ (18-26),iOS,Akşam (17-22),11526,665,37,₺283,1563.3
+TKC-1666,2026-10-09,Lifebox 500GB,SMS,C - Gamer & E-Spor Özel,,Android,Sabah (08-12),9042,283,9,519,849.1
+TKC-1667,2026-10-15,Game+ GeForce NOW,SMS,C - Gamer & E-Spor Özel,Aile & Ev (41+),iOS,Gece (22-03),7384,214,6,343,1015.5
+TKC-1668,2026-10-10,TV+ Süper Paket,Push Bildirim,B - İlk Ay +10GB Hediye,GNÇ (18-26),iOS,Akşam (17-22),13304,410,13,234,998.2
+TKC-1669,2026-10-10,Fizy Premium,BiP,B - İlk Ay +10GB Hediye,Aile & Ev (41+),Android,Sabah (08-12),24967,1677,117,553,1264.7
+TKC-1670,2026-10-27,Game+ GeForce NOW,Instagram,B - İlk Ay +10GB Hediye,Gamer Pro,Android,Akşam (17-22),8957,643,47,889,1785.3
+TKC-1671,2026-10-26,TV+ Süper Paket,SMS,C - Gamer & E-Spor Özel,Gamer Pro,iOS,Gece (22-03),7655,220,8,408.42 TL,853.5
+TKC-1672,2026-10-28,Game+ GeForce NOW,SMS,B - İlk Ay +10GB Hediye,Aile & Ev (41+),Android,Öğle (12-17),1817,54,1,95,778.9
+TKC-1673,2026-10-14,TV+ Süper Paket,BiP,B - İlk Ay +10GB Hediye,Aile & Ev (41+),Android,Akşam (17-22),2555,185,9,95,1281.6
+TKC-1674,2026-10-21,Lifebox 500GB,BiP,B - İlk Ay +10GB Hediye,Profesyonel (27-40),iOS,Öğle (12-17),14162,717,36,441,1348.3
+TKC-1675,2026-10-29,TV+ Süper Paket,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),iOS,Sabah (08-12),24077,308,0,2840,723.4
+TKC-1676,2026-10-13,TV+ Süper Paket,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),Android,Sabah (08-12),13579,164,0,1961,573.3
+TKC-1677,2026-10-06,TV+ Süper Paket,Push Bildirim,D - Son 24 Saat (FOMO),Profesyonel (27-40),iOS,Gece (22-03),8265,271,8,170,1169.4
+TKC-1678,2026-10-16,TV+ Süper Paket,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),Android,Sabah (08-12),23940,279,0,3582,583.7
+TKC-1679,2026-10-27,Lifebox 500GB,SMS,D - Son 24 Saat (FOMO),Profesyonel (27-40),Android,Akşam (17-22),2780,93,2,174,859.7
+TKC-1680,2026-10-23,Lifebox 500GB,Push Bildirim,B - İlk Ay +10GB Hediye,Aile & Ev (41+),iOS,Gece (22-03),21741,1002,37,-584 TL,932.5
+TKC-1681,2026-10-19,TV+ Süper Paket,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),iOS,Sabah (08-12),22081,271,1,2488,668.0
+TKC-1682,2026-10-29,Game+ GeForce NOW,Instagram,B - İlk Ay +10GB Hediye,Gamer Pro,Android,Akşam (17-22),18028,1586,100,1776.26 TL,1614.3
+TKC-1683,2026-10-17,Lifebox 500GB,Instagram ,A - %40 İndirim Fırsatı,Aile & Ev (41+),iOS,Sabah (08-12),14585,216,0,1611,484.4
+TKC-1684,2026-10-30,Lifebox 500GB,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),iOS,Sabah (08-12),19470,258,1,"₺2,483",591.2
+TKC-1685,2026-10-09,Fizy Premium,Push Bildirim,A - %40 İndirim Fırsatı,Profesyonel (27-40),iOS,Sabah (08-12),19019,880,27,451,855.0
+TKC-1686,2026-10-09,TV+ Süper Paket,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),Android,Sabah (08-12),18942,184,0,2717,693.5
+TKC-1687,2026-10-21,BiP Yıldızlar,BiP,B - İlk Ay +10GB Hediye,GNÇ (18-26),iOS,Akşam (17-22),13866,943,66,388,1231.2
+TKC-1688,2026-10-03,TV+ Süper Paket,IG,A - %40 İndirim Fırsatı,Aile & Ev (41+),Android,Sabah (08-12),3570,34,0,507,699.1
+TKC-1689,2026-10-06,BiP Yıldızlar,bip,B - İlk Ay +10GB Hediye,Aile & Ev (41+),iOS,Öğle (12-17),19250,1094,63,495,
+TKC-1690,2026-10-11,Lifebox 500GB,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),iOS,Sabah (08-12),8712,74,0,1185,560.7
+TKC-1691,2026-10-03,TV+ Süper Paket,Push Bildirim,D - Son 24 Saat (FOMO),Gamer Pro,Android,Akşam (17-22),20151,680,32,459,1291.6
+TKC-1692,2026-10-23,Game+ GeForce NOW,SMS,B - İlk Ay +10GB Hediye,Profesyonel (27-40),Android,Akşam (17-22),23335,693,20,1334,904.8
+TKC-1693,2026-10-13,TV+ Süper Paket,SMS,B - İlk Ay +10GB Hediye,Profesyonel (27-40),Android,Sabah (08-12),5565,149,5,334.71 TL,916.9
+TKC-1694,2026-10-02,Lifebox 500GB,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),iOS,Sabah (08-12),2742,27,0,410,583.1
+TKC-1695,2026-10-29,TV+ Süper Paket,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),Android,Sabah (08-12),15095,199,0,1675,704.1
+TKC-1696,2026-10-11,TV+ Süper Paket,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),Android,Sabah (08-12),24315,334,1,3046,546.5
+TKC-1697,2026-10-15,Fizy Premium,BiP ,B - İlk Ay +10GB Hediye,GNÇ (18-26),Android,Sabah (08-12),5614,268,16,198,1612.5
+TKC-1698,2026-10-08,Fizy Premium,SMS,C - Gamer & E-Spor Özel,Gamer Pro,Android,Gece (22-03),9525,274,9,486,901.7
+TKC-1699,2026-10-21,Lifebox 500GB,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),iOS,Sabah (08-12),6997,82,0,940,580.0
+TKC-1700,2026-10-05,Game+ GeForce NOW,BiP,D - Son 24 Saat (FOMO),GNÇ (18-26),Android,Öğle (12-17),6506,400,14,183,1268.2
+TKC-1701,2026-10-10,Fizy Premium,SMS,C - Gamer & E-Spor Özel,Gamer Pro,Android,Sabah (08-12),7913,193,5,358,875.2
+TKC-1702,2026-10-24,Game+ GeForce NOW,SMS,D - Son 24 Saat (FOMO),Gamer Pro,iOS,Gece (22-03),11586,18662,0,1540,713.6
+TKC-1703,2026-10-13,Game+ GeForce NOW,Push Bildirim,D - Son 24 Saat (FOMO),,Android,Öğle (12-17),12922,532,20,₺309,1163.4
+TKC-1704,2026-10-21,Lifebox 500GB,SMS,B - İlk Ay +10GB Hediye,Gamer Pro,iOS,Öğle (12-17),13342,428,15,786.50 TL,925.9
+TKC-1705,2026-10-09,Fizy Premium,BiP,B - İlk Ay +10GB Hediye,GNÇ (18-26),iOS,Öğle (12-17),4524,291,20,$10,1422.4
+TKC-1706,2026-10-29,Fizy Premium,Instagram,B - İlk Ay +10GB Hediye,Gamer Pro,Android,Akşam (17-22),17905,1683,120,1728,1650.2
+TKC-1707,2026-10-14,Game+ GeForce NOW,BiP,B - İlk Ay +10GB Hediye,Gamer Pro,Android,Sabah (08-12),10315,695,48,293,1269.5
+TKC-1708,2026-10-06,Game+ GeForce NOW,bip,B - İlk Ay +10GB Hediye,Aile & Ev (41+),Android,Öğle (12-17),7091,356,18,171,1367.6
+TKC-1709,2026-10-17,Fizy Premium,Push Bildirim,B - İlk Ay +10GB Hediye,Gamer Pro,iOS,Öğle (12-17),7487,357,11,208,1242.2
+TKC-1710,2026-10-15,Lifebox 500GB,BiP,B - İlk Ay +10GB Hediye,Gamer Pro,iOS,Sabah (08-12),3605,199,12,107,1470.0
+TKC-1711,2026-10-04,Game+ GeForce NOW,Instagram,C - Gamer & E-Spor Özel,Gamer Pro,Android,Akşam (17-22),1737,132,11,198,1622.8
+TKC-1712,2026-10-16,Game+ GeForce NOW,SMS,C - Gamer & E-Spor Özel,Aile & Ev (41+),Android,Gece (22-03),12741,484,18,813,932.8
+TKC-1713,2026-10-13,Lifebox 500GB,BiP,A - %40 İndirim Fırsatı,Gamer Pro,Android,Akşam (17-22),6050,276,9,184,1623.1
+TKC-1714,2026-10-25,Lifebox 500GB,BiP,B - İlk Ay +10GB Hediye,Profesyonel (27-40),Android,Akşam (17-22),1602,119,8,56,1109.1
+TKC-1715,2026-10-12,BiP Yıldızlar,Push Bildirim,B - İlk Ay +10GB Hediye,Aile & Ev (41+),Android,Gece (22-03),21573,1024,35,586.96 TL,1273.7
+TKC-1716,2026-10-16,BiP Yıldızlar,Push Bildirim,C - Gamer & E-Spor Özel,GNÇ (18-26),iOS,Gece (22-03),6191,304,13,156,1172.5
+TKC-1717,2026-10-02,Lifebox 500GB,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),iOS,Sabah (08-12),16123,252,0,2122,523.0
+TKC-1718,2026-10-06,Fizy Premium,BiP,C - Gamer & E-Spor Özel,GNÇ (18-26),Android,Öğle (12-17),12198,879,40,311,1241.7
+TKC-1719,2026-10-16,TV+ Süper Paket,Push Bildirim,D - Son 24 Saat (FOMO),GNÇ (18-26),Android,Öğle (12-17),12405,610,28,310,1120.3
+TKC-1720,2026-10-21,Game+ GeForce NOW,Instagram,B - İlk Ay +10GB Hediye,GNÇ (18-26),iOS,Akşam (17-22),5290,390,22,504,1834.9
+TKC-1721,2026-10-07,BiP Yıldızlar,BiP,D - Son 24 Saat (FOMO),Profesyonel (27-40),Android,Akşam (17-22),11684,547,22,415,1638.9
+TKC-1722,2026-10-11,BiP Yıldızlar,BiP,C - Gamer & E-Spor Özel,Gamer Pro,iOS,Sabah (08-12),14453,654,30,₺391,1548.9
+TKC-1723,2026-10-10,BiP Yıldızlar,Push Bildirim,B - İlk Ay +10GB Hediye,Gamer Pro,iOS,Gece (22-03),23302,1134,50,360,994.1
+TKC-1724,2026-10-17,Fizy Premium,Push Bildirim,D - Son 24 Saat (FOMO),GNÇ (18-26),Android,Akşam (17-22),24573,1259,36,627,918.7
+TKC-1725,2026-10-23,Fizy Premium,Instagram,C - Gamer & E-Spor Özel,Gamer Pro,Android,Akşam (17-22),11300,1068,101,1248,2094.2
+TKC-1726,2026-10-18,Lifebox 500GB,SMS,C - Gamer & E-Spor Özel,Gamer Pro,iOS,Gece (22-03),18796,632,18,1192.82 TL,945.4
+TKC-1727,2026-10-18,Game+ GeForce NOW,SMS,A - %40 İndirim Fırsatı,Profesyonel (27-40),Android,Akşam (17-22),6863,214,6,375,1014.0
+TKC-1728,2026-10-07,TV+ Süper Paket,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),iOS,Sabah (08-12),20363,179,0,2939,563.0
+TKC-1729,2026-10-14,TV+ Süper Paket,BiP,B - İlk Ay +10GB Hediye,GNÇ (18-26),iOS,Öğle (12-17),18389,1186,73,690,1444.8
+TKC-1730,2026-10-13,Lifebox 500GB,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),Android,Sabah (08-12),7152,94,0,985,688.6
+TKC-1731,2026-10-22,Fizy Premium,Instagram,B - İlk Ay +10GB Hediye,GNÇ (18-26),iOS,Akşam (17-22),5432,372,21,566,2040.5
+TKC-1732,2026-10-08,Lifebox 500GB,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),Android,Sabah (08-12),4598,66,0,595,643.4
+TKC-1733,2026-10-14,TV+ Süper Paket,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),iOS,Sabah (08-12),24461,199,0,3216,693.7
+TKC-1734,2026-10-16,TV+ Süper Paket,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),Android,Sabah (08-12),8298,130,0,973,629.7
+TKC-1735,2026-10-06,TV+ Süper Paket,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),iOS,Sabah (08-12),8257,109,0,993,675.9
+TKC-1736,2026-10-03,Lifebox 500GB,Push Bildirim,B - İlk Ay +10GB Hediye,Aile & Ev (41+),Android,Akşam (17-22),23066,692,23,630,1083.7
+TKC-1737,2026-10-26,Lifebox 500GB,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),Android,Sabah (08-12),18626,284,1,2500.48 TL,603.2
+TKC-1738,2026-10-23,TV+ Süper Paket,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),iOS,Sabah (08-12),8552,133,0,1015,557.7
+TKC-1739,2026-10-05,Fizy Premium,BiP,B - İlk Ay +10GB Hediye,Profesyonel (27-40),iOS,Öğle (12-17),4228,310,19,157,1178.8
+TKC-1740,2026-10-07,Game+ GeForce NOW,Instagram,B - İlk Ay +10GB Hediye,,iOS,Akşam (17-22),6529,486,36,629,2076.6
+TKC-1741,2026-10-08,Lifebox 500GB,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),iOS,Sabah (08-12),22477,195,1,"₺3,172",493.9
+TKC-1742,2026-10-26,Game+ GeForce NOW,instagram,B - İlk Ay +10GB Hediye,Gamer Pro,Android,Akşam (17-22),5546,389,28,522,
+TKC-1743,2026-10-16,Lifebox 500GB,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),Android,Sabah (08-12),21405,188,0,2627,675.6
+TKC-1744,2026-10-06,Game+ GeForce NOW,Instagram,B - İlk Ay +10GB Hediye,GNÇ (18-26),iOS,Akşam (17-22),24000,1929,113,2131,1696.2
+TKC-1745,2026-10-24,Lifebox 500GB,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),Android,Sabah (08-12),9662,129,0,1240,581.7
+TKC-1746,2026-10-12,Fizy Premium,BiP,D - Son 24 Saat (FOMO),GNÇ (18-26),iOS,Öğle (12-17),4348,319,12,117,1149.6
+TKC-1747,2026-10-03,TV+ Süper Paket,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),iOS,Sabah (08-12),10866,135,0,1575,738.6
+TKC-1748,2026-10-14,BiP Yıldızlar,BiP,C - Gamer & E-Spor Özel,GNÇ (18-26),Android,Akşam (17-22),14786,671,23,521.98 TL,1104.0
+TKC-1749,2026-10-14,BiP Yıldızlar,BiP,D - Son 24 Saat (FOMO),GNÇ (18-26),Android,Akşam (17-22),2887,182,8,95,1585.1
+TKC-1750,2026-10-17,Fizy Premium,Push Bildirim,C - Gamer & E-Spor Özel,Profesyonel (27-40),Android,Sabah (08-12),3168,124,4,63,901.0
+TKC-1751,2026-10-30,Lifebox 500GB,BiP,B - İlk Ay +10GB Hediye,Gamer Pro,iOS,Akşam (17-22),8481,382,24,240,1607.7
+TKC-1752,2026-10-30,TV+ Süper Paket,Push Bildirim,D - Son 24 Saat (FOMO),GNÇ (18-26),iOS,Gece (22-03),21669,869,29,$10,1007.4
+TKC-1753,2026-10-24,Lifebox 500GB,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),iOS,Sabah (08-12),18837,228,0,2165,596.2
+TKC-1754,2026-10-05,Fizy Premium,BiP,B - İlk Ay +10GB Hediye,Profesyonel (27-40),Android,Öğle (12-17),10330,498,29,366,1189.0
+TKC-1755,2026-10-12,Lifebox 500GB,bip,A - %40 İndirim Fırsatı,GNÇ (18-26),Android,Öğle (12-17),2535,126,4,75,1465.9
+TKC-1756,2026-10-09,TV+ Süper Paket,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),iOS,Sabah (08-12),14603,175,0,2099,566.7
+TKC-1757,2026-10-04,Game+ GeForce NOW,Push Bildirim,B - İlk Ay +10GB Hediye,GNÇ (18-26),Android,Öğle (12-17),23927,842,34,465,1289.4
+TKC-1758,2026-10-24,TV+ Süper Paket,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),Android,Sabah (08-12),9618,124,0,1130,534.3
+TKC-1759,2026-10-04,Lifebox 500GB,Push Bildirim,B - İlk Ay +10GB Hediye,Profesyonel (27-40),Android,Gece (22-03),4877,221,8,84.64 TL,1296.6
+TKC-1760,2026-10-19,Fizy Premium,BiP,B - İlk Ay +10GB Hediye,GNÇ (18-26),Android,Öğle (12-17),15469,704,37,₺554,1309.2
+TKC-1761,2026-10-17,Lifebox 500GB,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),Android,Sabah (08-12),3510,42,0,429,530.8
+TKC-1762,2026-10-09,TV+ Süper Paket,Push Bildirim,C - Gamer & E-Spor Özel,Gamer Pro,iOS,Öğle (12-17),1517,47,2,27,1062.4
+TKC-1763,2026-10-30,TV+ Süper Paket,BiP,B - İlk Ay +10GB Hediye,GNÇ (18-26),iOS,Akşam (17-22),1947,127,8,47,1298.3
+TKC-1764,2026-10-26,Fizy Premium,SMS,C - Gamer & E-Spor Özel,Aile & Ev (41+),Android,Öğle (12-17),4358,157,4,261,742.1
+TKC-1765,2026-10-19,TV+ Süper Paket,Push Bildirim,D - Son 24 Saat (FOMO),Profesyonel (27-40),iOS,Öğle (12-17),19410,846,28,-411 TL,1192.4
+TKC-1766,2026-10-18,BiP Yıldızlar,bip,D - Son 24 Saat (FOMO),Profesyonel (27-40),Android,Akşam (17-22),13493,788,35,493,1137.2
+TKC-1767,2026-10-14,Fizy Premium,SMS,C - Gamer & E-Spor Özel,GNÇ (18-26),iOS,Öğle (12-17),20052,460,18,979,985.1
+TKC-1768,2026-10-16,Lifebox 500GB,BiP,C - Gamer & E-Spor Özel,Gamer Pro,Android,Sabah (08-12),14287,814,30,356,1188.0
+TKC-1769,2026-10-07,Game+ GeForce NOW,SMS,C - Gamer & E-Spor Özel,GNÇ (18-26),Android,Gece (22-03),11211,373,12,543,716.0
+TKC-1770,2026-10-08,Fizy Premium,Instagram,C - Gamer & E-Spor Özel,GNÇ (18-26),Android,Akşam (17-22),3188,268,22,349.73 TL,1797.5
+TKC-1771,2026-10-01,BiP Yıldızlar,BiP,D - Son 24 Saat (FOMO),Gamer Pro,iOS,Öğle (12-17),5878,336,14,160,1131.5
+TKC-1772,2026-10-27,Lifebox 500GB,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),iOS,Sabah (08-12),2012,24,0,284,684.2
+TKC-1773,2026-10-04,BiP Yıldızlar,BiP,B - İlk Ay +10GB Hediye,Gamer Pro,Android,Öğle (12-17),15989,825,44,501,1544.3
+TKC-1774,2026-10-25,Game+ GeForce NOW,SMS,D - Son 24 Saat (FOMO),Gamer Pro,iOS,Öğle (12-17),17196,404,11,837,1001.8
+TKC-1775,2026-10-07,Game+ GeForce NOW,SMS,A - %40 İndirim Fırsatı,Profesyonel (27-40),iOS,Akşam (17-22),7323,256,9,357,750.2
+TKC-1776,2026-10-14,Game+ GeForce NOW,Instagram,C - Gamer & E-Spor Özel,Gamer Pro,Android,Akşam (17-22),13882,1062,83,1186,1989.8
+TKC-1777,2026-10-30,TV+ Süper Paket,Instagram,A - %40 İndirim Fırsatı,,Android,Sabah (08-12),21148,171,1,3136,481.9
+TKC-1778,2026-10-24,Lifebox 500GB,BiP,C - Gamer & E-Spor Özel,GNÇ (18-26),Android,Sabah (08-12),11572,635,22,265,1480.6
+TKC-1779,2026-10-21,BiP Yıldızlar,SMS,A - %40 İndirim Fırsatı,GNÇ (18-26),iOS,Sabah (08-12),18262,660,20,₺822,778.5
+TKC-1780,2026-10-08,Fizy Premium,SMS,C - Gamer & E-Spor Özel,Profesyonel (27-40),Android,Akşam (17-22),23926,673,25,1470,739.3
+TKC-1781,2026-10-06,Game+ GeForce NOW,Push Bildirim,C - Gamer & E-Spor Özel,Profesyonel (27-40),iOS,Sabah (08-12),12435,405,18,335.23 TL,1253.0
+TKC-1782,2026-10-20,TV+ Süper Paket,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),Android,Sabah (08-12),6422,97,0,867,536.1
+TKC-1783,2026-10-29,Lifebox 500GB,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),Android,Sabah (08-12),24808,356,1,3584,743.4
+TKC-1784,2026-10-25,Lifebox 500GB,BiP,C - Gamer & E-Spor Özel,Profesyonel (27-40),Android,Akşam (17-22),5208,324,15,138,1149.7
+TKC-1785,2026-10-05,Lifebox 500GB,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),Android,Sabah (08-12),15064,193,0,1740,733.2
+TKC-1786,2026-10-30,Lifebox 500GB,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),Android,Sabah (08-12),9040,100,0,1147,623.4
+TKC-1787,2026-10-23,TV+ Süper Paket,BiP,B - İlk Ay +10GB Hediye,GNÇ (18-26),iOS,Öğle (12-17),17029,1255,87,391,1292.1
+TKC-1788,2026-10-28,Fizy Premium,Push Bildirim,D - Son 24 Saat (FOMO),Profesyonel (27-40),Android,Akşam (17-22),19571,1005,46,355,1222.5
+TKC-1789,2026-10-02,Lifebox 500GB,BiP,C - Gamer & E-Spor Özel,Aile & Ev (41+),iOS,Sabah (08-12),24483,1179,50,725,1426.7
+TKC-1790,2026-10-06,TV+ Süper Paket,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),iOS,Sabah (08-12),15147,139,0,2117,674.4
+TKC-1791,2026-10-23,Lifebox 500GB,Push Bildirim,C - Gamer & E-Spor Özel,Gamer Pro,Android,Gece (22-03),24281,735,22,383,1139.1
+TKC-1792,2026-10-20,Lifebox 500GB,BiP,C - Gamer & E-Spor Özel,GNÇ (18-26),Android,Akşam (17-22),9955,722,29,332.00 TL,1333.0
+TKC-1793,2026-10-06,TV+ Süper Paket,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),Android,Sabah (08-12),14620,189,0,1716,673.8
+TKC-1794,2026-10-18,Lifebox 500GB,BiP ,B - İlk Ay +10GB Hediye,Profesyonel (27-40),iOS,Akşam (17-22),13672,880,46,324,1142.8
+TKC-1795,2026-10-20,Fizy Premium,BiP,A - %40 İndirim Fırsatı,GNÇ (18-26),Android,Sabah (08-12),11629,588,20,429,
+TKC-1796,2026-10-03,TV+ Süper Paket,Push Bildirim,A - %40 İndirim Fırsatı,GNÇ (18-26),iOS,Gece (22-03),11612,350,12,217,1029.2
+TKC-1797,2026-10-07,TV+ Süper Paket,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),Android,Sabah (08-12),4690,49,0,610,600.7
+TKC-1798,2026-10-25,TV+ Süper Paket,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),iOS,Sabah (08-12),6465,87,0,₺873,735.8
+TKC-1799,2026-10-08,Lifebox 500GB,Push Bildirim,C - Gamer & E-Spor Özel,Profesyonel (27-40),Android,Öğle (12-17),12609,458,18,$10,868.0
+TKC-1800,2026-10-23,Fizy Premium,BiP,A - %40 İndirim Fırsatı,GNÇ (18-26),Android,Akşam (17-22),17802,853,27,610,1270.2
+TKC-1801,2026-10-28,Lifebox 500GB,Push Bildirim,A - %40 İndirim Fırsatı,GNÇ (18-26),iOS,Gece (22-03),11186,13866,0,552,890.2
+TKC-1802,2026-10-25,Fizy Premium,SMS,D - Son 24 Saat (FOMO),Gamer Pro,Android,Akşam (17-22),20136,600,18,1022,843.2
+TKC-1803,2026-10-20,BiP Yıldızlar,Push Bildirim,C - Gamer & E-Spor Özel,Profesyonel (27-40),Android,Gece (22-03),11777,450,18,254.12 TL,968.3
+TKC-1804,2026-10-29,BiP Yıldızlar,Push Bildirim,B - İlk Ay +10GB Hediye,GNÇ (18-26),iOS,Sabah (08-12),4950,180,5,100,882.8
+TKC-1805,2026-10-13,Lifebox 500GB,Push Bildirim,D - Son 24 Saat (FOMO),GNÇ (18-26),Android,Akşam (17-22),16732,542,17,275,1281.8
+TKC-1806,2026-10-13,Lifebox 500GB,BiP,D - Son 24 Saat (FOMO),GNÇ (18-26),iOS,Öğle (12-17),17104,828,33,525,1621.7
+TKC-1807,2026-10-05,Game+ GeForce NOW,BiP,B - İlk Ay +10GB Hediye,GNÇ (18-26),Android,Akşam (17-22),17012,874,46,381,1517.2
+TKC-1808,2026-10-14,TV+ Süper Paket,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),iOS,Sabah (08-12),4177,43,0,605,607.4
+TKC-1809,2026-10-22,Lifebox 500GB,Push Bildirim,A - %40 İndirim Fırsatı,Profesyonel (27-40),iOS,Sabah (08-12),11228,377,13,230,1064.0
+TKC-1810,2026-10-23,TV+ Süper Paket,BiP,B - İlk Ay +10GB Hediye,Profesyonel (27-40),Android,Gece (22-03),21066,31220,0,1646,1179.5
+TKC-1811,2026-10-27,Lifebox 500GB,Push Bildirim,B - İlk Ay +10GB Hediye,Aile & Ev (41+),Android,Sabah (08-12),17865,875,26,493,1032.9
+TKC-1812,2026-10-17,BiP Yıldızlar,BiP,B - İlk Ay +10GB Hediye,Gamer Pro,iOS,Akşam (17-22),8663,583,30,287,1525.9
+TKC-1813,2026-10-20,BiP Yıldızlar,SMS,B - İlk Ay +10GB Hediye,Aile & Ev (41+),Android,Öğle (12-17),13632,477,12,858,875.7
+TKC-1814,2026-10-28,Fizy Premium,Instagram,B - İlk Ay +10GB Hediye,,iOS,Akşam (17-22),19275,1499,118,1832.57 TL,2052.1
+TKC-1815,2026-10-15,Lifebox 500GB,SMS,D - Son 24 Saat (FOMO),Profesyonel (27-40),iOS,Öğle (12-17),23113,763,24,1171,917.1
+TKC-1816,2026-10-30,TV+ Süper Paket,Push Bildirim,A - %40 İndirim Fırsatı,GNÇ (18-26),Android,Sabah (08-12),21693,1095,32,537,1130.7
+TKC-1817,2026-10-18,TV+ Süper Paket,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),Android,Sabah (08-12),15283,148,0,"₺2,018",484.4
+TKC-1818,2026-10-28,Lifebox 500GB,SMS,D - Son 24 Saat (FOMO),GNÇ (18-26),Android,Akşam (17-22),22630,752,27,1022,831.1
+TKC-1819,2026-10-08,Lifebox 500GB,SMS,C - Gamer & E-Spor Özel,Aile & Ev (41+),Android,Akşam (17-22),1636,59,1,74,753.7
+TKC-1820,2026-10-12,BiP Yıldızlar,Push Bildirim,B - İlk Ay +10GB Hediye,Aile & Ev (41+),Android,Akşam (17-22),9424,397,14,217,1027.0
+TKC-1821,2026-10-02,Fizy Premium,BiP,D - Son 24 Saat (FOMO),GNÇ (18-26),iOS,Akşam (17-22),11924,721,28,281,1540.6
+TKC-1822,2026-10-17,Lifebox 500GB,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),Android,Sabah (08-12),6711,104,0,763,581.2
+TKC-1823,2026-10-21,BiP Yıldızlar,BiP,D - Son 24 Saat (FOMO),Profesyonel (27-40),iOS,Akşam (17-22),5777,430,18,199,1202.6
+TKC-1824,2026-10-21,Lifebox 500GB,Push Bildirim,B - İlk Ay +10GB Hediye,Aile & Ev (41+),Android,Öğle (12-17),23102,719,21,390,860.4
+TKC-1825,2026-10-19,TV+ Süper Paket,Push Bildirim,A - %40 İndirim Fırsatı,GNÇ (18-26),iOS,Gece (22-03),10085,501,14,216.07 TL,1012.6
+TKC-1826,2026-10-27,Fizy Premium,Instagram,C - Gamer & E-Spor Özel,GNÇ (18-26),Android,Akşam (17-22),4000,285,24,447,1861.8
+TKC-1827,2026-10-15,BiP Yıldızlar,BiP,B - İlk Ay +10GB Hediye,GNÇ (18-26),Android,Sabah (08-12),5340,396,28,159,1437.7
+TKC-1828,2026-10-18,TV+ Süper Paket,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),iOS,Sabah (08-12),2468,30,0,347,514.9
+TKC-1829,2026-10-12,TV+ Süper Paket,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),iOS,Sabah (08-12),24162,374,1,3123,736.0
+TKC-1830,2026-10-12,Lifebox 500GB,BiP,B - İlk Ay +10GB Hediye,Profesyonel (27-40),Android,Akşam (17-22),9695,486,31,351,1254.6
+TKC-1831,2026-10-13,TV+ Süper Paket,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),Android,Sabah (08-12),17485,200,0,2340,531.5
+TKC-1832,2026-10-11,TV+ Süper Paket,BiP,B - İlk Ay +10GB Hediye,Profesyonel (27-40),Android,Akşam (17-22),2606,192,10,74,1432.1
+TKC-1833,2026-10-29,Game+ GeForce NOW,BiP,A - %40 İndirim Fırsatı,Profesyonel (27-40),Android,Sabah (08-12),7592,423,14,247,1304.6
+TKC-1834,2026-10-25,Lifebox 500GB,Instagram ,A - %40 İndirim Fırsatı,Aile & Ev (41+),iOS,Sabah (08-12),20094,288,1,2662,565.7
+TKC-1835,2026-10-20,TV+ Süper Paket,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),Android,Sabah (08-12),22676,257,1,2783,546.0
+TKC-1836,2026-10-07,Lifebox 500GB,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),Android,Sabah (08-12),5566,64,0,₺744,520.9
+TKC-1837,2026-10-01,Fizy Premium,Instagram,B - İlk Ay +10GB Hediye,Gamer Pro,iOS,Akşam (17-22),14699,971,66,1482,1669.3
+TKC-1838,2026-10-01,Fizy Premium,Instagram,B - İlk Ay +10GB Hediye,GNÇ (18-26),Android,Akşam (17-22),14618,985,73,1459,1480.6
+TKC-1839,2026-10-10,Game+ GeForce NOW,BiP,A - %40 İndirim Fırsatı,Aile & Ev (41+),Android,Gece (22-03),4866,223,7,108,1157.8
+TKC-1840,2026-10-11,TV+ Süper Paket,Push Bildirim,B - İlk Ay +10GB Hediye,Gamer Pro,iOS,Öğle (12-17),13587,651,25,205,1159.7
+TKC-1841,2026-10-02,Lifebox 500GB,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),iOS,Sabah (08-12),12291,165,0,1539,659.6
+TKC-1842,2026-10-30,TV+ Süper Paket,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),Android,Sabah (08-12),15042,196,0,1969,522.2
+TKC-1843,2026-10-16,Game+ GeForce NOW,BiP,B - İlk Ay +10GB Hediye,GNÇ (18-26),Android,Akşam (17-22),24810,1178,72,892,1462.7
+TKC-1844,2026-10-24,TV+ Süper Paket,Push Bildirim,D - Son 24 Saat (FOMO),GNÇ (18-26),iOS,Sabah (08-12),23470,815,36,409,897.0
+TKC-1845,2026-10-07,Lifebox 500GB,BiP,D - Son 24 Saat (FOMO),Profesyonel (27-40),Android,Öğle (12-17),18031,868,29,661,1312.1
+TKC-1846,2026-10-15,TV+ Süper Paket,Push Bildirim,B - İlk Ay +10GB Hediye,Profesyonel (27-40),iOS,Gece (22-03),6880,9497,0,$11,895.9
+TKC-1847,2026-10-04,BiP Yıldızlar,BiP,A - %40 İndirim Fırsatı,Gamer Pro,Android,Sabah (08-12),10202,495,20,282.30 TL,1216.6
+TKC-1848,2026-10-13,Game+ GeForce NOW,SMS,D - Son 24 Saat (FOMO),Aile & Ev (41+),iOS,Sabah (08-12),3110,100,3,166,
+TKC-1849,2026-10-13,Lifebox 500GB,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),iOS,Sabah (08-12),3134,41,0,372,465.9
+TKC-1850,2026-10-02,Game+ GeForce NOW,SMS,A - %40 İndirim Fırsatı,Profesyonel (27-40),iOS,Sabah (08-12),21823,724,22,-1154 TL,777.0
+TKC-1851,2026-10-27,Fizy Premium,Push Bildirim,B - İlk Ay +10GB Hediye,,Android,Gece (22-03),12891,567,23,242,851.4
+TKC-1852,2026-10-06,Fizy Premium,SMS,B - İlk Ay +10GB Hediye,Gamer Pro,iOS,Akşam (17-22),3775,93,2,204,1036.8
+TKC-1853,2026-10-22,Game+ GeForce NOW,SMS,B - İlk Ay +10GB Hediye,Aile & Ev (41+),Android,Sabah (08-12),7094,233,8,404,1039.3
+TKC-1854,2026-10-19,TV+ Süper Paket,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),Android,Sabah (08-12),20088,269,0,2393,600.9
+TKC-1855,2026-10-25,Lifebox 500GB,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),Android,Sabah (08-12),12994,206,0,"₺1,682",559.3
+TKC-1856,2026-10-01,TV+ Süper Paket,Push Bildirim,D - Son 24 Saat (FOMO),Aile & Ev (41+),iOS,Akşam (17-22),18516,852,24,513,1235.3
+TKC-1857,2026-10-22,Fizy Premium,Push Bildirim,A - %40 İndirim Fırsatı,Aile & Ev (41+),Android,Gece (22-03),24300,1249,43,600,937.2
+TKC-1858,2026-10-13,Lifebox 500GB,BiP,D - Son 24 Saat (FOMO),Gamer Pro,Android,Akşam (17-22),18765,942,45,517.57 TL,1282.2
+TKC-1859,2026-10-19,TV+ Süper Paket,SMS,B - İlk Ay +10GB Hediye,Aile & Ev (41+),Android,Akşam (17-22),24497,673,23,1315,859.3
+TKC-1860,2026-10-26,Lifebox 500GB,BiP,C - Gamer & E-Spor Özel,Gamer Pro,Android,Akşam (17-22),18643,1379,59,608,1267.0
+TKC-1861,2026-10-10,TV+ Süper Paket,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),iOS,Sabah (08-12),20933,188,0,2307,555.7
+TKC-1862,2026-10-27,Lifebox 500GB,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),Android,Sabah (08-12),17949,239,1,2086,475.8
+TKC-1863,2026-10-09,TV+ Süper Paket,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),iOS,Sabah (08-12),2553,30,0,364,641.1
+TKC-1864,2026-10-14,BiP Yıldızlar,SMS,C - Gamer & E-Spor Özel,GNÇ (18-26),iOS,Akşam (17-22),19978,578,22,1220,748.7
+TKC-1865,2026-10-25,Lifebox 500GB,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),iOS,Sabah (08-12),11243,140,0,1482,562.8
+TKC-1866,2026-10-29,Game+ GeForce NOW,Push Bildirim,D - Son 24 Saat (FOMO),GNÇ (18-26),Android,Öğle (12-17),23951,1094,40,492,1039.2
+TKC-1867,2026-10-14,Fizy Premium,SMS,A - %40 İndirim Fırsatı,GNÇ (18-26),Android,Gece (22-03),11408,394,13,598,917.3
+TKC-1868,2026-10-29,Fizy Premium,SMS,D - Son 24 Saat (FOMO),Aile & Ev (41+),iOS,Sabah (08-12),1695,49,1,94,993.7
+TKC-1869,2026-10-03,Lifebox 500GB,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),Android,Sabah (08-12),11021,138,0,1593.33 TL,486.4
+TKC-1870,2026-10-19,Lifebox 500GB,BiP,A - %40 İndirim Fırsatı,GNÇ (18-26),iOS,Öğle (12-17),23640,1517,52,758,1495.5
+TKC-1871,2026-10-30,TV+ Süper Paket,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),iOS,Sabah (08-12),6514,83,0,742,511.3
+TKC-1872,2026-10-16,TV+ Süper Paket,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),iOS,Sabah (08-12),17350,275,1,2493,614.0
+TKC-1873,2026-10-27,TV+ Süper Paket,BiP,A - %40 İndirim Fırsatı,Aile & Ev (41+),iOS,Sabah (08-12),23043,1203,49,765,1210.2
+TKC-1874,2026-10-16,Fizy Premium,Instagram,B - İlk Ay +10GB Hediye,GNÇ (18-26),iOS,Akşam (17-22),24360,2167,144,"₺2,665",1546.3
+TKC-1875,2026-10-10,TV+ Süper Paket,SMS,C - Gamer & E-Spor Özel,Gamer Pro,Android,Sabah (08-12),23034,735,18,1454,1037.0
+TKC-1876,2026-10-15,Fizy Premium,Push Bildirim,A - %40 İndirim Fırsatı,Gamer Pro,iOS,Akşam (17-22),17989,623,28,393,1080.9
+TKC-1877,2026-10-06,Fizy Premium,BiP,C - Gamer & E-Spor Özel,Aile & Ev (41+),iOS,Öğle (12-17),23075,1248,48,846,1454.8
+TKC-1878,2026-10-13,Game+ GeForce NOW,Push Bildirim,B - İlk Ay +10GB Hediye,Profesyonel (27-40),Android,Akşam (17-22),20529,773,31,416,870.2
+TKC-1879,2026-10-28,Game+ GeForce NOW,BiP,C - Gamer & E-Spor Özel,Aile & Ev (41+),Android,Akşam (17-22),9253,445,21,311,1311.2
+TKC-1880,2026-10-14,TV+ Süper Paket,Push Bildirim,A - %40 İndirim Fırsatı,GNÇ (18-26),Android,Akşam (17-22),3888,154,5,90.23 TL,863.3
+TKC-1881,2026-10-06,TV+ Süper Paket,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),iOS,Sabah (08-12),17592,202,0,2077,498.6
+TKC-1882,2026-10-27,TV+ Süper Paket,SMS,A - %40 İndirim Fırsatı,Profesyonel (27-40),iOS,Sabah (08-12),6105,221,6,325,891.3
+TKC-1883,2026-10-03,Game+ GeForce NOW,Instagram,C - Gamer & E-Spor Özel,GNÇ (18-26),Android,Akşam (17-22),17023,1362,116,1906,2004.7
+TKC-1884,2026-10-26,TV+ Süper Paket,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),Android,Sabah (08-12),5667,80,0,650,519.2
+TKC-1885,2026-10-20,Game+ GeForce NOW,SMS,C - Gamer & E-Spor Özel,GNÇ (18-26),iOS,Öğle (12-17),13227,305,11,851,726.2
+TKC-1886,2026-10-19,Lifebox 500GB,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),iOS,Sabah (08-12),3356,41,0,447,731.1
+TKC-1887,2026-10-09,Fizy Premium,BiP ,C - Gamer & E-Spor Özel,GNÇ (18-26),iOS,Öğle (12-17),12300,894,39,443,1229.6
+TKC-1888,2026-10-03,Game+ GeForce NOW,BiP,C - Gamer & E-Spor Özel,,Android,Akşam (17-22),15139,952,40,353,1403.3
+TKC-1889,2026-10-05,TV+ Süper Paket,IG,A - %40 İndirim Fırsatı,Aile & Ev (41+),Android,Sabah (08-12),15639,184,0,2269,518.3
+TKC-1890,2026-10-30,Fizy Premium,Instagram,C - Gamer & E-Spor Özel,GNÇ (18-26),iOS,Akşam (17-22),13861,1190,104,1356,1539.6
+TKC-1891,2026-10-15,Fizy Premium,Instagram,C - Gamer & E-Spor Özel,GNÇ (18-26),Android,Akşam (17-22),3398,245,19,289.85 TL,1718.5
+TKC-1892,2026-10-25,TV+ Süper Paket,Push Bildirim,B - İlk Ay +10GB Hediye,GNÇ (18-26),iOS,Sabah (08-12),5652,224,7,108,1121.1
+TKC-1893,2026-10-29,Lifebox 500GB,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),Android,Sabah (08-12),23015,198,0,$87,598.5
+TKC-1894,2026-10-24,Game+ GeForce NOW,BiP,B - İlk Ay +10GB Hediye,Gamer Pro,Android,Öğle (12-17),11090,788,42,402,1275.4
+TKC-1895,2026-10-18,BiP Yıldızlar,SMS,D - Son 24 Saat (FOMO),GNÇ (18-26),Android,Akşam (17-22),4070,102,2,263,780.7
+TKC-1896,2026-10-24,TV+ Süper Paket,SMS,B - İlk Ay +10GB Hediye,GNÇ (18-26),Android,Akşam (17-22),24383,708,25,1562,707.5
+TKC-1897,2026-10-27,TV+ Süper Paket,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),iOS,Sabah (08-12),21480,237,0,2692,583.2
+TKC-1898,2026-10-08,TV+ Süper Paket,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),Android,Sabah (08-12),2525,31,0,280,632.6
+TKC-1899,2026-10-29,TV+ Süper Paket,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),Android,Sabah (08-12),12672,174,0,1833,684.8
+TKC-1900,2026-10-30,Game+ GeForce NOW,bip,D - Son 24 Saat (FOMO),Profesyonel (27-40),Android,Gece (22-03),19023,23422,0,1479,1385.4
+TKC-1901,2026-10-13,Game+ GeForce NOW,SMS,A - %40 İndirim Fırsatı,Profesyonel (27-40),Android,Öğle (12-17),10491,245,7,586,
+TKC-1902,2026-10-13,Lifebox 500GB,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),Android,Sabah (08-12),21422,173,0,2922.63 TL,700.8
+TKC-1903,2026-10-28,Lifebox 500GB,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),iOS,Sabah (08-12),13254,156,0,1573,467.6
+TKC-1904,2026-10-03,TV+ Süper Paket,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),Android,Sabah (08-12),9954,140,0,1441,488.2
+TKC-1905,2026-10-21,TV+ Süper Paket,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),iOS,Sabah (08-12),2761,26,0,352,545.2
+TKC-1906,2026-10-18,Game+ GeForce NOW,BiP ,C - Gamer & E-Spor Özel,Gamer Pro,Android,Sabah (08-12),2965,186,7,69,1344.1
+TKC-1907,2026-10-17,Lifebox 500GB,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),iOS,Sabah (08-12),15474,232,0,1904,686.4
+TKC-1908,2026-10-11,BiP Yıldızlar,Push Bildirim,C - Gamer & E-Spor Özel,Aile & Ev (41+),iOS,Gece (22-03),13568,420,19,364,861.5
+TKC-1909,2026-10-20,Lifebox 500GB,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),Android,Sabah (08-12),13913,203,0,1935,564.3
+TKC-1910,2026-10-21,Lifebox 500GB,IG,A - %40 İndirim Fırsatı,Aile & Ev (41+),Android,Sabah (08-12),5472,80,0,613,591.7
+TKC-1911,2026-10-17,BiP Yıldızlar,SMS,B - İlk Ay +10GB Hediye,Aile & Ev (41+),iOS,Akşam (17-22),9496,258,9,613,780.8
+TKC-1912,2026-10-11,Game+ GeForce NOW,BiP,D - Son 24 Saat (FOMO),GNÇ (18-26),iOS,Akşam (17-22),19865,1195,57,₺645,1432.9
+TKC-1913,2026-10-15,Fizy Premium,BiP,D - Son 24 Saat (FOMO),Aile & Ev (41+),Android,Gece (22-03),14856,968,42,470.77 TL,1537.7
+TKC-1914,2026-10-11,TV+ Süper Paket,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),Android,Sabah (08-12),22230,334,0,2605,586.2
+TKC-1915,2026-10-06,Lifebox 500GB,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),Android,Sabah (08-12),5641,84,0,626,500.1
+TKC-1916,2026-10-03,Game+ GeForce NOW,Instagram,B - İlk Ay +10GB Hediye,GNÇ (18-26),iOS,Akşam (17-22),19749,1426,88,1878,1986.1
+TKC-1917,2026-10-11,Game+ GeForce NOW,SMS,A - %40 İndirim Fırsatı,GNÇ (18-26),Android,Sabah (08-12),14898,478,17,800,965.2
+TKC-1918,2026-10-23,Game+ GeForce NOW,Instagram,C - Gamer & E-Spor Özel,Gamer Pro,Android,Akşam (17-22),13620,1160,102,1289,1564.9
+TKC-1919,2026-10-24,Lifebox 500GB,SMS,C - Gamer & E-Spor Özel,GNÇ (18-26),iOS,Öğle (12-17),19985,605,19,1102,1024.8
+TKC-1920,2026-10-10,TV+ Süper Paket,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),iOS,Sabah (08-12),8403,96,0,1220,544.3
+TKC-1921,2026-10-12,Lifebox 500GB,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),iOS,Sabah (08-12),7048,72,0,1054,676.0
+TKC-1922,2026-10-30,TV+ Süper Paket,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),iOS,Sabah (08-12),2802,43,0,398,452.0
+TKC-1923,2026-10-27,BiP Yıldızlar,Push Bildirim,C - Gamer & E-Spor Özel,Aile & Ev (41+),Android,Öğle (12-17),16076,666,29,303,899.3
+TKC-1924,2026-10-23,Lifebox 500GB,Push Bildirim,D - Son 24 Saat (FOMO),GNÇ (18-26),iOS,Gece (22-03),5983,310,13,98.80 TL,1009.2
+TKC-1925,2026-10-03,Lifebox 500GB,BiP,B - İlk Ay +10GB Hediye,,Android,Sabah (08-12),18304,1192,59,604,1590.7
+TKC-1926,2026-10-02,TV+ Süper Paket,SMS,A - %40 İndirim Fırsatı,Aile & Ev (41+),iOS,Öğle (12-17),20713,580,22,1211,792.9
+TKC-1927,2026-10-05,Fizy Premium,SMS,C - Gamer & E-Spor Özel,Profesyonel (27-40),iOS,Gece (22-03),4406,5215,0,661,701.1
+TKC-1928,2026-10-18,BiP Yıldızlar,BiP,B - İlk Ay +10GB Hediye,GNÇ (18-26),iOS,Akşam (17-22),12926,769,49,322,1265.1
+TKC-1929,2026-10-08,BiP Yıldızlar,Push Bildirim,D - Son 24 Saat (FOMO),Gamer Pro,iOS,Gece (22-03),17260,629,20,475,1253.6
+TKC-1930,2026-10-25,Lifebox 500GB,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),iOS,Sabah (08-12),16728,261,1,2073,569.4
+TKC-1931,2026-10-05,Fizy Premium,BiP,B - İlk Ay +10GB Hediye,Aile & Ev (41+),iOS,Akşam (17-22),10279,619,42,₺355,1133.4
+TKC-1932,2026-10-25,Lifebox 500GB,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),Android,Sabah (08-12),10042,153,0,1397,552.0
+TKC-1933,2026-10-27,TV+ Süper Paket,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),Android,Sabah (08-12),21989,195,1,2956,488.8
+TKC-1934,2026-10-18,Fizy Premium,Instagram,B - İlk Ay +10GB Hediye,Gamer Pro,Android,Akşam (17-22),19617,1312,73,1791,1798.1
+TKC-1935,2026-10-06,Fizy Premium,Push Bildirim,C - Gamer & E-Spor Özel,Gamer Pro,Android,Öğle (12-17),12362,483,18,-225 TL,856.1
+TKC-1936,2026-10-28,Lifebox 500GB,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),Android,Sabah (08-12),2885,26,0,344,681.7
+TKC-1937,2026-10-08,Game+ GeForce NOW,Instagram,B - İlk Ay +10GB Hediye,GNÇ (18-26),Android,Akşam (17-22),10347,940,53,1036,1907.3
+TKC-1938,2026-10-24,BiP Yıldızlar,SMS,A - %40 İndirim Fırsatı,GNÇ (18-26),Android,Öğle (12-17),7866,277,10,477,848.8
+TKC-1939,2026-10-24,Lifebox 500GB,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),Android,Sabah (08-12),20380,239,0,2318,740.1
+TKC-1940,2026-10-18,TV+ Süper Paket,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),iOS,Sabah (08-12),17786,245,1,$71,664.4
+TKC-1941,2026-10-15,TV+ Süper Paket,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),Android,Sabah (08-12),17123,214,0,2111,692.9
+TKC-1942,2026-10-03,Game+ GeForce NOW,Instagram,C - Gamer & E-Spor Özel,GNÇ (18-26),iOS,Akşam (17-22),21701,1956,177,2391,1944.4
+TKC-1943,2026-10-02,Game+ GeForce NOW,BiP,A - %40 İndirim Fırsatı,GNÇ (18-26),Android,Öğle (12-17),21119,1207,38,698,1515.3
+TKC-1944,2026-10-26,Game+ GeForce NOW,SMS,B - İlk Ay +10GB Hediye,Gamer Pro,Android,Akşam (17-22),17326,523,19,1124,728.5
+TKC-1945,2026-10-04,TV+ Süper Paket,SMS,B - İlk Ay +10GB Hediye,GNÇ (18-26),iOS,Gece (22-03),5480,7464,0,883,713.7
+TKC-1946,2026-10-06,TV+ Süper Paket,BiP,B - İlk Ay +10GB Hediye,GNÇ (18-26),iOS,Akşam (17-22),15769,1180,77,569.00 TL,1249.1
+TKC-1947,2026-10-11,Fizy Premium,BiP,B - İlk Ay +10GB Hediye,Aile & Ev (41+),Android,Sabah (08-12),24911,1398,87,736,1215.8
+TKC-1948,2026-10-11,TV+ Süper Paket,Push Bildirim,D - Son 24 Saat (FOMO),Profesyonel (27-40),iOS,Öğle (12-17),7372,245,7,204,990.3
+TKC-1949,2026-10-07,TV+ Süper Paket,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),iOS,Sabah (08-12),16858,215,0,2283,715.0
+TKC-1950,2026-10-12,BiP Yıldızlar,BiP,D - Son 24 Saat (FOMO),GNÇ (18-26),Android,Akşam (17-22),13534,862,33,₺353,1397.6
+TKC-1951,2026-10-22,TV+ Süper Paket,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),iOS,Sabah (08-12),10115,126,0,1324,643.4
+TKC-1952,2026-10-13,Lifebox 500GB,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),Android,Sabah (08-12),21681,289,1,2531,685.0
+TKC-1953,2026-10-07,TV+ Süper Paket,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),Android,Sabah (08-12),1508,15,0,169,603.5
+TKC-1954,2026-10-15,BiP Yıldızlar,SMS,C - Gamer & E-Spor Özel,Gamer Pro,Android,Akşam (17-22),9389,290,8,495,
+TKC-1955,2026-10-10,Fizy Premium,Push Bildirim,B - İlk Ay +10GB Hediye,Aile & Ev (41+),Android,Sabah (08-12),10600,483,21,236,1070.5
+TKC-1956,2026-10-26,Game+ GeForce NOW,Instagram,C - Gamer & E-Spor Özel,GNÇ (18-26),Android,Akşam (17-22),16772,1477,126,1639,1851.0
+TKC-1957,2026-10-29,Fizy Premium,Push Bildirim,C - Gamer & E-Spor Özel,Profesyonel (27-40),Android,Gece (22-03),1849,63,2,32.42 TL,1113.8
+TKC-1958,2026-10-11,TV+ Süper Paket,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),Android,Sabah (08-12),2598,34,0,327,748.7
+TKC-1959,2026-10-23,Fizy Premium,Instagram,B - İlk Ay +10GB Hediye,Gamer Pro,Android,Akşam (17-22),17013,1488,105,1725,1517.5
+TKC-1960,2026-10-12,TV+ Süper Paket,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),Android,Sabah (08-12),5813,50,0,667,583.0
+TKC-1961,2026-10-23,TV+ Süper Paket,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),Android,Sabah (08-12),2046,21,0,299,719.3
+TKC-1962,2026-10-06,Lifebox 500GB,Push Bildirim,D - Son 24 Saat (FOMO),,Android,Sabah (08-12),23442,734,23,584,916.4
+TKC-1963,2026-10-09,TV+ Süper Paket,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),Android,Sabah (08-12),14910,139,0,2140,451.0
+TKC-1964,2026-10-09,BiP Yıldızlar,SMS,D - Son 24 Saat (FOMO),GNÇ (18-26),Android,Akşam (17-22),4321,134,4,204,731.7
+TKC-1965,2026-10-24,TV+ Süper Paket,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),Android,Sabah (08-12),1842,17,0,209,667.3
+TKC-1966,2026-10-08,Fizy Premium,Instagram,C - Gamer & E-Spor Özel,Gamer Pro,iOS,Akşam (17-22),24631,1813,151,2511,1719.1
+TKC-1967,2026-10-27,Lifebox 500GB,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),iOS,Sabah (08-12),15904,160,0,2118,554.7
+TKC-1968,2026-10-21,Fizy Premium,SMS,D - Son 24 Saat (FOMO),Profesyonel (27-40),Android,Sabah (08-12),8402,318,10,486.65 TL,938.7
+TKC-1969,2026-10-10,Lifebox 500GB,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),iOS,Sabah (08-12),8404,84,0,₺935,484.6
+TKC-1970,2026-10-22,BiP Yıldızlar,BiP,B - İlk Ay +10GB Hediye,Profesyonel (27-40),Android,Öğle (12-17),12063,796,50,433,1104.3
+TKC-1971,2026-10-14,Game+ GeForce NOW,SMS,B - İlk Ay +10GB Hediye,Aile & Ev (41+),iOS,Sabah (08-12),16797,516,18,903,915.8
+TKC-1972,2026-10-19,Fizy Premium,SMS,D - Son 24 Saat (FOMO),Gamer Pro,iOS,Gece (22-03),13729,22165,0,1820,714.0
+TKC-1973,2026-10-08,BiP Yıldızlar,BiP,C - Gamer & E-Spor Özel,Profesyonel (27-40),iOS,Öğle (12-17),2435,121,4,65,1428.3
+TKC-1974,2026-10-23,Game+ GeForce NOW,Push Bildirim,B - İlk Ay +10GB Hediye,Profesyonel (27-40),Android,Öğle (12-17),3262,167,5,81,1210.7
+TKC-1975,2026-10-15,Fizy Premium,SMS,B - İlk Ay +10GB Hediye,Gamer Pro,Android,Sabah (08-12),11372,306,8,707,852.8
+TKC-1976,2026-10-24,Fizy Premium,Instagram,C - Gamer & E-Spor Özel,GNÇ (18-26),iOS,Akşam (17-22),4773,377,36,506,2043.3
+TKC-1977,2026-10-22,Lifebox 500GB,SMS,A - %40 İndirim Fırsatı,Gamer Pro,iOS,Öğle (12-17),5875,166,4,298,936.2
+TKC-1978,2026-10-28,Lifebox 500GB,SMS,C - Gamer & E-Spor Özel,Gamer Pro,Android,Sabah (08-12),20716,464,17,1006,782.3
+TKC-1979,2026-10-12,Lifebox 500GB,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),Android,Sabah (08-12),22654,222,0,2532.04 TL,540.6
+TKC-1980,2026-10-03,Lifebox 500GB,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),iOS,Sabah (08-12),23627,344,0,3505,576.5
+TKC-1981,2026-10-06,Game+ GeForce NOW,SMS,A - %40 İndirim Fırsatı,GNÇ (18-26),Android,Gece (22-03),4822,5855,0,737,756.3
+TKC-1982,2026-10-17,Lifebox 500GB,SMS,D - Son 24 Saat (FOMO),Gamer Pro,Android,Sabah (08-12),3286,88,2,190,911.3
+TKC-1983,2026-10-26,BiP Yıldızlar,Push Bildirim,C - Gamer & E-Spor Özel,Aile & Ev (41+),Android,Gece (22-03),5159,243,11,113,1022.6
+TKC-1984,2026-10-22,TV+ Süper Paket,Instagram ,A - %40 İndirim Fırsatı,Aile & Ev (41+),Android,Sabah (08-12),21636,299,1,2422,534.5
+TKC-1985,2026-10-04,BiP Yıldızlar,Push Bildirim,A - %40 İndirim Fırsatı,Gamer Pro,Android,Akşam (17-22),9768,384,15,244,860.6
+TKC-1986,2026-10-09,Lifebox 500GB,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),iOS,Sabah (08-12),2667,34,0,297,671.6
+TKC-1987,2026-10-08,TV+ Süper Paket,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),Android,Sabah (08-12),15626,236,0,$57,635.2
+TKC-1988,2026-10-30,Game+ GeForce NOW,Push Bildirim,A - %40 İndirim Fırsatı,Gamer Pro,iOS,Sabah (08-12),6308,273,11,₺161,895.5
+TKC-1989,2026-10-17,Lifebox 500GB,Push Bildirim,C - Gamer & E-Spor Özel,GNÇ (18-26),iOS,Akşam (17-22),7527,383,12,177,1247.3
+TKC-1990,2026-10-27,Game+ GeForce NOW,Push Bildirim,C - Gamer & E-Spor Özel,GNÇ (18-26),Android,Öğle (12-17),19167,935,30,486.58 TL,1018.4
+TKC-1991,2026-10-16,TV+ Süper Paket,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),iOS,Sabah (08-12),23501,196,0,2756,535.5
+TKC-1992,2026-10-01,Game+ GeForce NOW,SMS,B - İlk Ay +10GB Hediye,GNÇ (18-26),iOS,Gece (22-03),21130,732,25,992,778.7
+TKC-1993,2026-10-23,Lifebox 500GB,instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),Android,Sabah (08-12),22300,284,1,2877,617.3
+TKC-1994,2026-10-11,Lifebox 500GB,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),Android,Sabah (08-12),17850,172,0,2444,526.7
+TKC-1995,2026-10-02,TV+ Süper Paket,BiP,D - Son 24 Saat (FOMO),GNÇ (18-26),iOS,Akşam (17-22),18853,1057,39,510,1471.0
+TKC-1996,2026-10-01,Lifebox 500GB,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),iOS,Sabah (08-12),2267,31,0,317,746.9
+TKC-1997,2026-10-13,TV+ Süper Paket,Push Bildirim,A - %40 İndirim Fırsatı,Profesyonel (27-40),iOS,Gece (22-03),8424,436,17,146,921.6
+TKC-1998,2026-10-25,Fizy Premium,Push Bildirim,C - Gamer & E-Spor Özel,Gamer Pro,iOS,Gece (22-03),21136,763,33,490,1148.9
+TKC-1999,2026-10-22,Lifebox 500GB,Push Bildirim,B - İlk Ay +10GB Hediye,,Android,Gece (22-03),16701,22546,0,711,1243.0
+TKC-2000,2026-10-01,TV+ Süper Paket,SMS,B - İlk Ay +10GB Hediye,Aile & Ev (41+),iOS,Gece (22-03),22900,656,20,1117,710.2
+TKC-2001,2026-10-08,Fizy Premium,Instagram,C - Gamer & E-Spor Özel,GNÇ (18-26),Android,Akşam (17-22),6954,570,50,610.07 TL,1690.7
+TKC-2002,2026-10-24,Fizy Premium,BiP,A - %40 İndirim Fırsatı,Profesyonel (27-40),Android,Akşam (17-22),9341,469,22,343,1277.5
+TKC-2003,2026-10-10,TV+ Süper Paket,Instagram ,A - %40 İndirim Fırsatı,Aile & Ev (41+),Android,Sabah (08-12),16037,255,1,2388,600.1
+TKC-2004,2026-10-04,TV+ Süper Paket,BiP,B - İlk Ay +10GB Hediye,Gamer Pro,iOS,Gece (22-03),2559,167,9,78,1358.6
+TKC-2005,2026-10-13,TV+ Süper Paket,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),Android,Sabah (08-12),21389,281,1,2373,594.2
+TKC-2006,2026-10-24,Fizy Premium,Instagram,B - İlk Ay +10GB Hediye,Gamer Pro,Android,Akşam (17-22),18262,1531,101,1984,1517.4
+TKC-2007,2026-10-28,Fizy Premium,Instagram,C - Gamer & E-Spor Özel,Gamer Pro,iOS,Akşam (17-22),12635,875,72,"₺1,257",
+TKC-2008,2026-10-11,Lifebox 500GB,BiP ,B - İlk Ay +10GB Hediye,Aile & Ev (41+),iOS,Akşam (17-22),16257,1072,66,512,1518.7
+TKC-2009,2026-10-05,BiP Yıldızlar,SMS,C - Gamer & E-Spor Özel,GNÇ (18-26),iOS,Öğle (12-17),11042,297,10,622,806.7
+TKC-2010,2026-10-23,Fizy Premium,SMS,B - İlk Ay +10GB Hediye,Aile & Ev (41+),Android,Öğle (12-17),14090,367,10,874,904.1
+TKC-2011,2026-10-05,Lifebox 500GB,SMS,D - Son 24 Saat (FOMO),Aile & Ev (41+),Android,Akşam (17-22),7083,266,9,402,875.4
+TKC-2012,2026-10-17,Fizy Premium,SMS,D - Son 24 Saat (FOMO),Gamer Pro,Android,Öğle (12-17),13947,310,12,723.11 TL,808.3
+TKC-2013,2026-10-08,TV+ Süper Paket,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),Android,Sabah (08-12),13181,158,0,1787,453.7
+TKC-2014,2026-10-24,TV+ Süper Paket,Push Bildirim,C - Gamer & E-Spor Özel,Profesyonel (27-40),iOS,Öğle (12-17),4738,241,9,88,1282.7
+TKC-2015,2026-10-28,Fizy Premium,BiP,B - İlk Ay +10GB Hediye,Gamer Pro,iOS,Sabah (08-12),7486,491,31,194,1479.3
+TKC-2016,2026-10-15,Lifebox 500GB,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),iOS,Sabah (08-12),7726,107,0,1130,489.8
+TKC-2017,2026-10-10,Lifebox 500GB,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),Android,Sabah (08-12),19094,287,0,2704,471.9
+TKC-2018,2026-10-16,TV+ Süper Paket,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),Android,Sabah (08-12),11329,142,0,1636,483.5
+TKC-2019,2026-10-29,Game+ GeForce NOW,SMS,A - %40 İndirim Fırsatı,Profesyonel (27-40),Android,Gece (22-03),21205,558,19,1094,869.1
+TKC-2020,2026-10-10,Game+ GeForce NOW,Push Bildirim,B - İlk Ay +10GB Hediye,Aile & Ev (41+),iOS,Akşam (17-22),19891,816,33,-327 TL,1190.5
+TKC-2021,2026-10-06,Fizy Premium,SMS,D - Son 24 Saat (FOMO),Aile & Ev (41+),iOS,Gece (22-03),15656,513,13,974,819.9
+TKC-2022,2026-10-22,Fizy Premium,SMS,A - %40 İndirim Fırsatı,Profesyonel (27-40),iOS,Öğle (12-17),17942,482,17,977,939.7
+TKC-2023,2026-10-30,Fizy Premium,BiP,C - Gamer & E-Spor Özel,GNÇ (18-26),Android,Sabah (08-12),21492,1394,52,650.42 TL,1360.6
+TKC-2024,2026-10-20,Game+ GeForce NOW,BiP,B - İlk Ay +10GB Hediye,GNÇ (18-26),iOS,Gece (22-03),11534,634,35,391,1347.3
+TKC-2025,2026-10-14,TV+ Süper Paket,SMS,D - Son 24 Saat (FOMO),Gamer Pro,Android,Sabah (08-12),13087,423,11,709,796.0
+TKC-2026,2026-10-27,Game+ GeForce NOW,BiP,B - İlk Ay +10GB Hediye,Aile & Ev (41+),Android,Öğle (12-17),14030,768,47,₺353,1218.2
+TKC-2027,2026-10-17,Fizy Premium,SMS,A - %40 İndirim Fırsatı,Aile & Ev (41+),iOS,Sabah (08-12),17218,638,21,1103,1031.3
+TKC-2028,2026-10-25,BiP Yıldızlar,BiP,B - İlk Ay +10GB Hediye,Gamer Pro,Android,Akşam (17-22),3443,165,10,91,1303.2
+TKC-2029,2026-10-30,Fizy Premium,Instagram,B - İlk Ay +10GB Hediye,Gamer Pro,Android,Akşam (17-22),6428,531,36,655,1734.9
+TKC-2030,2026-10-11,Fizy Premium,SMS,A - %40 İndirim Fırsatı,Aile & Ev (41+),Android,Akşam (17-22),3728,133,4,223,1035.0
+TKC-2031,2026-10-12,Game+ GeForce NOW,Push Bildirim,B - İlk Ay +10GB Hediye,Gamer Pro,Android,Öğle (12-17),16599,630,20,459,966.6
+TKC-2032,2026-10-20,TV+ Süper Paket,bip,C - Gamer & E-Spor Özel,Profesyonel (27-40),Android,Öğle (12-17),3475,251,10,77,1340.5
+TKC-2033,2026-10-02,BiP Yıldızlar,Push Bildirim,C - Gamer & E-Spor Özel,Aile & Ev (41+),iOS,Gece (22-03),3699,170,6,102,1201.3
+TKC-2034,2026-10-18,Game+ GeForce NOW,Instagram,C - Gamer & E-Spor Özel,GNÇ (18-26),Android,Akşam (17-22),15621,1398,124,$50,2096.3
+TKC-2035,2026-10-05,Lifebox 500GB,BiP ,C - Gamer & E-Spor Özel,Profesyonel (27-40),Android,Akşam (17-22),14655,912,29,517,1110.4
+TKC-2036,2026-10-08,Game+ GeForce NOW,Instagram,B - İlk Ay +10GB Hediye,,Android,Akşam (17-22),20323,1885,145,2163,1825.0
+TKC-2037,2026-10-07,TV+ Süper Paket,BiP,B - İlk Ay +10GB Hediye,GNÇ (18-26),Android,Sabah (08-12),19197,1064,52,690,1610.7
+TKC-2038,2026-10-22,Lifebox 500GB,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),iOS,Sabah (08-12),8618,122,0,1251,733.3
+TKC-2039,2026-10-04,Fizy Premium,Push Bildirim,D - Son 24 Saat (FOMO),Gamer Pro,iOS,Sabah (08-12),16141,639,20,404,1115.6
+TKC-2040,2026-10-04,Game+ GeForce NOW,Instagram,C - Gamer & E-Spor Özel,Gamer Pro,iOS,Akşam (17-22),17527,1528,131,2013,1719.8
+TKC-2041,2026-10-07,BiP Yıldızlar,Push Bildirim,C - Gamer & E-Spor Özel,Aile & Ev (41+),iOS,Gece (22-03),16473,500,17,337,1282.7
+TKC-2042,2026-10-04,Game+ GeForce NOW,SMS,D - Son 24 Saat (FOMO),Aile & Ev (41+),iOS,Sabah (08-12),24477,571,19,1292,865.0
+TKC-2043,2026-10-09,TV+ Süper Paket,BiP,A - %40 İndirim Fırsatı,GNÇ (18-26),iOS,Akşam (17-22),6603,324,13,149,1427.9
+TKC-2044,2026-10-07,Fizy Premium,Push Bildirim,D - Son 24 Saat (FOMO),Aile & Ev (41+),iOS,Akşam (17-22),7222,365,17,178,1214.6
+TKC-2045,2026-10-06,Lifebox 500GB,SMS,A - %40 İndirim Fırsatı,GNÇ (18-26),iOS,Öğle (12-17),14726,471,18,₺741,812.4
+TKC-2046,2026-10-26,TV+ Süper Paket,instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),Android,Sabah (08-12),3023,37,0,420,500.9
+TKC-2047,2026-10-04,TV+ Süper Paket,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),iOS,Sabah (08-12),17087,200,0,2493,582.1
+TKC-2048,2026-10-28,Fizy Premium,BiP,D - Son 24 Saat (FOMO),GNÇ (18-26),iOS,Akşam (17-22),19194,1074,46,642,1362.8
+TKC-2049,2026-10-24,BiP Yıldızlar,Push Bildirim,B - İlk Ay +10GB Hediye,Profesyonel (27-40),iOS,Öğle (12-17),6172,215,6,100,1031.7
+TKC-2050,2026-10-29,Lifebox 500GB,BiP,B - İlk Ay +10GB Hediye,GNÇ (18-26),Android,Akşam (17-22),18536,1121,80,487,1594.7
+TKC-2051,2026-10-11,TV+ Süper Paket,SMS,D - Son 24 Saat (FOMO),Profesyonel (27-40),Android,Sabah (08-12),7469,166,5,461,783.2
+TKC-2052,2026-10-13,Lifebox 500GB,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),iOS,Sabah (08-12),20413,229,1,2615,528.8
+TKC-2053,2026-10-15,Game+ GeForce NOW,Instagram,B - İlk Ay +10GB Hediye,GNÇ (18-26),iOS,Akşam (17-22),17469,1540,102,1535,2006.5
+TKC-2054,2026-10-25,TV+ Süper Paket,SMS,D - Son 24 Saat (FOMO),GNÇ (18-26),Android,Akşam (17-22),5636,132,5,347,742.1
+TKC-2055,2026-10-23,Lifebox 500GB,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),Android,Sabah (08-12),4218,66,0,495,696.0
+TKC-2056,2026-10-29,TV+ Süper Paket,Push Bildirim,B - İlk Ay +10GB Hediye,Profesyonel (27-40),iOS,Öğle (12-17),13097,544,23,292.29 TL,1088.8
+TKC-2057,2026-10-02,Game+ GeForce NOW,BiP,B - İlk Ay +10GB Hediye,GNÇ (18-26),iOS,Gece (22-03),23795,1189,75,759,1563.8
+TKC-2058,2026-10-25,TV+ Süper Paket,BiP,B - İlk Ay +10GB Hediye,Gamer Pro,Android,Öğle (12-17),14635,788,54,550,1591.6
+TKC-2059,2026-10-15,TV+ Süper Paket,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),iOS,Sabah (08-12),19711,263,0,2746,628.2
+TKC-2060,2026-10-03,TV+ Süper Paket,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),Android,Sabah (08-12),9445,105,0,1197,
+TKC-2061,2026-10-08,Fizy Premium,Push Bildirim,C - Gamer & E-Spor Özel,GNÇ (18-26),Android,Öğle (12-17),5545,254,10,132,942.6
+TKC-2062,2026-10-05,TV+ Süper Paket,BiP,B - İlk Ay +10GB Hediye,GNÇ (18-26),Android,Sabah (08-12),21109,1248,79,565,1168.7
+TKC-2063,2026-10-24,Game+ GeForce NOW,BiP,C - Gamer & E-Spor Özel,Gamer Pro,Android,Akşam (17-22),2842,160,7,68,1356.6
+TKC-2064,2026-10-19,Game+ GeForce NOW,Instagram,B - İlk Ay +10GB Hediye,GNÇ (18-26),Android,Akşam (17-22),4402,417,29,₺453,1685.7
+TKC-2065,2026-10-28,TV+ Süper Paket,Push Bildirim,D - Son 24 Saat (FOMO),Gamer Pro,Android,Gece (22-03),10681,518,22,286,1138.1
+TKC-2066,2026-10-11,TV+ Süper Paket,SMS,A - %40 İndirim Fırsatı,Aile & Ev (41+),iOS,Akşam (17-22),17410,450,14,989,933.0
+TKC-2067,2026-10-04,TV+ Süper Paket,Push Bildirim,D - Son 24 Saat (FOMO),Gamer Pro,Android,Gece (22-03),20844,1009,41,339.37 TL,892.7
+TKC-2068,2026-10-25,Lifebox 500GB,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),Android,Sabah (08-12),2806,30,0,404,622.0
+TKC-2069,2026-10-17,Game+ GeForce NOW,Instagram,C - Gamer & E-Spor Özel,GNÇ (18-26),Android,Akşam (17-22),2291,192,16,215,1717.9
+TKC-2070,2026-10-01,Fizy Premium,BiP,B - İlk Ay +10GB Hediye,GNÇ (18-26),iOS,Akşam (17-22),3066,167,10,99,1522.7
+TKC-2071,2026-10-06,Lifebox 500GB,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),Android,Sabah (08-12),12920,184,0,1680,476.7
+TKC-2072,2026-10-12,TV+ Süper Paket,BiP,C - Gamer & E-Spor Özel,Aile & Ev (41+),Android,Öğle (12-17),4463,286,10,134,1202.4
+TKC-2073,2026-10-13,Lifebox 500GB,Instagram,A - %40 İndirim Fırsatı,,Android,Sabah (08-12),13344,187,1,1640,483.4
+TKC-2074,2026-10-19,Lifebox 500GB,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),Android,Sabah (08-12),19137,180,0,2163,478.0
+TKC-2075,2026-10-23,Game+ GeForce NOW,SMS,B - İlk Ay +10GB Hediye,Gamer Pro,Android,Akşam (17-22),14500,349,10,898,957.7
+TKC-2076,2026-10-29,Fizy Premium,Push Bildirim,C - Gamer & E-Spor Özel,Aile & Ev (41+),Android,Sabah (08-12),2836,100,3,79,861.9
+TKC-2077,2026-10-08,Lifebox 500GB,Push Bildirim,B - İlk Ay +10GB Hediye,Profesyonel (27-40),Android,Öğle (12-17),8576,284,9,236,1235.9
+TKC-2078,2026-10-16,Fizy Premium,Push Bildirim,D - Son 24 Saat (FOMO),Gamer Pro,Android,Öğle (12-17),20534,796,31,548.88 TL,1024.2
+TKC-2079,2026-10-09,Fizy Premium,BiP,B - İlk Ay +10GB Hediye,Aile & Ev (41+),iOS,Öğle (12-17),13200,624,40,358,1555.1
+TKC-2080,2026-10-23,Lifebox 500GB,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),Android,Sabah (08-12),4934,71,0,685,665.3
+TKC-2081,2026-10-21,BiP Yıldızlar,Push Bildirim,C - Gamer & E-Spor Özel,Profesyonel (27-40),Android,Gece (22-03),16581,723,27,$10,1278.9
+TKC-2082,2026-10-06,Lifebox 500GB,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),Android,Sabah (08-12),24644,226,1,2775,665.7
+TKC-2083,2026-10-19,Lifebox 500GB,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),Android,Sabah (08-12),5869,93,0,₺752,611.5
+TKC-2084,2026-10-22,Fizy Premium,Instagram,C - Gamer & E-Spor Özel,GNÇ (18-26),Android,Akşam (17-22),21475,1430,139,2204,1953.5
+TKC-2085,2026-10-03,BiP Yıldızlar,BiP,B - İlk Ay +10GB Hediye,Aile & Ev (41+),Android,Akşam (17-22),7376,516,25,272,1500.8
+TKC-2086,2026-10-11,Lifebox 500GB,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),Android,Sabah (08-12),13994,189,0,1732,478.8
+TKC-2087,2026-10-12,TV+ Süper Paket,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),iOS,Sabah (08-12),14653,140,0,1991,474.5
+TKC-2088,2026-10-15,TV+ Süper Paket,BiP,D - Son 24 Saat (FOMO),GNÇ (18-26),Android,Akşam (17-22),4629,231,11,141,1102.6
+TKC-2089,2026-10-13,Lifebox 500GB,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),Android,Sabah (08-12),7148,67,0,838.26 TL,515.5
+TKC-2090,2026-10-12,Lifebox 500GB,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),Android,Sabah (08-12),15940,217,1,1867,494.7
+TKC-2091,2026-10-27,Game+ GeForce NOW,SMS,C - Gamer & E-Spor Özel,GNÇ (18-26),iOS,Sabah (08-12),23881,594,19,1505,874.2
+TKC-2092,2026-10-20,Lifebox 500GB,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),Android,Sabah (08-12),19456,285,1,2875,650.6
+TKC-2093,2026-10-03,Lifebox 500GB,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),iOS,Sabah (08-12),14747,122,0,2202,594.1
+TKC-2094,2026-10-27,BiP Yıldızlar,Push Bildirim,C - Gamer & E-Spor Özel,GNÇ (18-26),Android,Sabah (08-12),24509,1022,36,542,940.4
+TKC-2095,2026-10-11,Lifebox 500GB,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),iOS,Sabah (08-12),13855,119,0,1582,618.4
+TKC-2096,2026-10-20,BiP Yıldızlar,SMS,A - %40 İndirim Fırsatı,Gamer Pro,Android,Akşam (17-22),7662,284,8,435,1015.1
+TKC-2097,2026-10-18,TV+ Süper Paket,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),iOS,Sabah (08-12),11426,126,0,1503,697.1
+TKC-2098,2026-10-22,Fizy Premium,Push Bildirim,A - %40 İndirim Fırsatı,Profesyonel (27-40),iOS,Akşam (17-22),7585,376,15,121,941.6
+TKC-2099,2026-10-07,Fizy Premium,SMS,D - Son 24 Saat (FOMO),GNÇ (18-26),Android,Sabah (08-12),5311,195,4,265,984.8
+TKC-2100,2026-10-27,TV+ Süper Paket,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),iOS,Sabah (08-12),14671,122,0,1758.27 TL,650.6
+TKC-2101,2026-10-29,Lifebox 500GB,Push Bildirim,C - Gamer & E-Spor Özel,Aile & Ev (41+),Android,Öğle (12-17),15127,727,25,393,935.3
+TKC-2102,2026-10-25,Lifebox 500GB,SMS,A - %40 İndirim Fırsatı,GNÇ (18-26),iOS,Gece (22-03),24093,616,21,"₺1,140",1015.8
+TKC-2103,2026-10-16,Lifebox 500GB,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),Android,Sabah (08-12),24929,385,1,3277,535.4
+TKC-2104,2026-10-19,TV+ Süper Paket,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),Android,Sabah (08-12),19678,290,0,2572,460.7
+TKC-2105,2026-10-16,Game+ GeForce NOW,Instagram,C - Gamer & E-Spor Özel,Gamer Pro,iOS,Akşam (17-22),21662,1649,160,-2129 TL,1949.9
+TKC-2106,2026-10-22,TV+ Süper Paket,Push Bildirim,C - Gamer & E-Spor Özel,Profesyonel (27-40),Android,Öğle (12-17),6504,243,11,176,1007.6
+TKC-2107,2026-10-07,Fizy Premium,Push Bildirim,D - Son 24 Saat (FOMO),GNÇ (18-26),Android,Gece (22-03),18067,24741,0,792,1146.1
+TKC-2108,2026-10-28,Fizy Premium,SMS,B - İlk Ay +10GB Hediye,Profesyonel (27-40),Android,Akşam (17-22),11905,272,9,633,887.0
+TKC-2109,2026-10-20,Fizy Premium,BiP,D - Son 24 Saat (FOMO),GNÇ (18-26),iOS,Sabah (08-12),1612,99,4,55,1165.8
+TKC-2110,2026-10-08,BiP Yıldızlar,bip,B - İlk Ay +10GB Hediye,,Android,Akşam (17-22),10755,705,40,393,1230.7
+TKC-2111,2026-10-16,Fizy Premium,BiP,D - Son 24 Saat (FOMO),Gamer Pro,Android,Akşam (17-22),13300,687,25,448.15 TL,1629.7
+TKC-2112,2026-10-13,Lifebox 500GB,Push Bildirim,A - %40 İndirim Fırsatı,Profesyonel (27-40),Android,Akşam (17-22),6218,192,6,164,1233.3
+TKC-2113,2026-10-13,Lifebox 500GB,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),Android,Sabah (08-12),15188,177,0,2249,
+TKC-2114,2026-10-11,TV+ Süper Paket,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),iOS,Sabah (08-12),24850,236,0,3602,647.8
+TKC-2115,2026-10-20,Game+ GeForce NOW,SMS,C - Gamer & E-Spor Özel,Gamer Pro,iOS,Gece (22-03),6131,181,5,331,1016.6
+TKC-2116,2026-10-25,Fizy Premium,Push Bildirim,B - İlk Ay +10GB Hediye,Gamer Pro,iOS,Sabah (08-12),6635,295,13,137,1274.4
+TKC-2117,2026-10-01,BiP Yıldızlar,BiP,C - Gamer & E-Spor Özel,Aile & Ev (41+),Android,Öğle (12-17),22512,1284,59,567,1326.2
+TKC-2118,2026-10-15,Game+ GeForce NOW,Instagram,B - İlk Ay +10GB Hediye,GNÇ (18-26),Android,Akşam (17-22),3641,246,13,404,1484.3
+TKC-2119,2026-10-28,TV+ Süper Paket,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),Android,Sabah (08-12),11578,170,0,1695,625.0
+TKC-2120,2026-10-27,Game+ GeForce NOW,SMS,C - Gamer & E-Spor Özel,Aile & Ev (41+),iOS,Öğle (12-17),19911,488,18,961,741.5
+TKC-2121,2026-10-30,Fizy Premium,BiP,D - Son 24 Saat (FOMO),Profesyonel (27-40),Android,Akşam (17-22),23253,1705,82,₺548,1121.7
+TKC-2122,2026-10-29,TV+ Süper Paket,SMS,B - İlk Ay +10GB Hediye,Gamer Pro,Android,Gece (22-03),13374,493,16,650.47 TL,1012.9
+TKC-2123,2026-10-16,Game+ GeForce NOW,Push Bildirim,A - %40 İndirim Fırsatı,Aile & Ev (41+),iOS,Akşam (17-22),5921,258,10,159,899.9
+TKC-2124,2026-10-30,TV+ Süper Paket,BiP,C - Gamer & E-Spor Özel,Gamer Pro,iOS,Öğle (12-17),17711,805,38,508,1193.0
+TKC-2125,2026-10-28,Fizy Premium,Instagram,B - İlk Ay +10GB Hediye,Gamer Pro,Android,Akşam (17-22),3204,270,19,298,2097.5
+TKC-2126,2026-10-11,Fizy Premium,Instagram,C - Gamer & E-Spor Özel,GNÇ (18-26),Android,Akşam (17-22),5781,527,54,493,1822.9
+TKC-2127,2026-10-10,TV+ Süper Paket,SMS,D - Son 24 Saat (FOMO),Gamer Pro,Android,Gece (22-03),10356,343,10,632,998.8
+TKC-2128,2026-10-26,Game+ GeForce NOW,SMS,C - Gamer & E-Spor Özel,Aile & Ev (41+),Android,Öğle (12-17),17517,464,12,$27,935.1
+TKC-2129,2026-10-26,TV+ Süper Paket,BiP,C - Gamer & E-Spor Özel,Profesyonel (27-40),iOS,Sabah (08-12),7303,410,14,254,1528.4
+TKC-2130,2026-10-28,Lifebox 500GB,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),Android,Sabah (08-12),21732,186,0,3230,740.7
+TKC-2131,2026-10-21,Fizy Premium,Push Bildirim,A - %40 İndirim Fırsatı,GNÇ (18-26),iOS,Sabah (08-12),4159,141,5,67,1044.8
+TKC-2132,2026-10-22,TV+ Süper Paket,IG,A - %40 İndirim Fırsatı,Aile & Ev (41+),Android,Sabah (08-12),7965,108,0,1101,590.8
+TKC-2133,2026-10-24,Fizy Premium,BiP,A - %40 İndirim Fırsatı,GNÇ (18-26),Android,Sabah (08-12),10126,499,20,380.37 TL,1485.0
+TKC-2134,2026-10-23,Lifebox 500GB,BiP,B - İlk Ay +10GB Hediye,Aile & Ev (41+),Android,Akşam (17-22),20908,1126,65,674,1220.0
+TKC-2135,2026-10-09,Game+ GeForce NOW,Push Bildirim,C - Gamer & E-Spor Özel,Profesyonel (27-40),Android,Sabah (08-12),3618,113,4,97,877.2
+TKC-2136,2026-10-25,BiP Yıldızlar,BiP ,A - %40 İndirim Fırsatı,GNÇ (18-26),Android,Akşam (17-22),13344,879,37,498,1413.1
+TKC-2137,2026-10-24,Game+ GeForce NOW,Push Bildirim,D - Son 24 Saat (FOMO),Gamer Pro,Android,Akşam (17-22),17526,646,30,306,1114.3
+TKC-2138,2026-10-02,Lifebox 500GB,BiP,C - Gamer & E-Spor Özel,Gamer Pro,Android,Öğle (12-17),16717,979,33,569,1330.8
+TKC-2139,2026-10-01,Lifebox 500GB,Push Bildirim,B - İlk Ay +10GB Hediye,Aile & Ev (41+),iOS,Gece (22-03),15733,745,30,271,1116.8
+TKC-2140,2026-10-06,Lifebox 500GB,instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),iOS,Sabah (08-12),17796,198,0,"₺2,638",614.8
+TKC-2141,2026-10-08,Lifebox 500GB,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),Android,Sabah (08-12),6737,80,0,836,481.8
+TKC-2142,2026-10-11,Fizy Premium,BiP,B - İlk Ay +10GB Hediye,GNÇ (18-26),iOS,Akşam (17-22),1924,141,8,53,1270.8
+TKC-2143,2026-10-20,Game+ GeForce NOW,SMS,C - Gamer & E-Spor Özel,GNÇ (18-26),Android,Öğle (12-17),24061,861,26,1550,722.1
+TKC-2144,2026-10-15,Fizy Premium,SMS,C - Gamer & E-Spor Özel,Profesyonel (27-40),Android,Öğle (12-17),11741,377,14,640.16 TL,798.2
+TKC-2145,2026-10-11,Game+ GeForce NOW,SMS,B - İlk Ay +10GB Hediye,Aile & Ev (41+),Android,Öğle (12-17),20252,760,21,1151,783.0
+TKC-2146,2026-10-27,Fizy Premium,Instagram,C - Gamer & E-Spor Özel,GNÇ (18-26),Android,Akşam (17-22),21934,1637,148,2169,2035.3
+TKC-2147,2026-10-24,Fizy Premium,Instagram,C - Gamer & E-Spor Özel,,Android,Akşam (17-22),3434,272,22,292,1681.5
+TKC-2148,2026-10-20,Lifebox 500GB,SMS,C - Gamer & E-Spor Özel,Profesyonel (27-40),Android,Akşam (17-22),21317,770,21,1305,765.9
+TKC-2149,2026-10-30,Fizy Premium,SMS,A - %40 İndirim Fırsatı,GNÇ (18-26),Android,Akşam (17-22),18019,477,17,963,986.5
+TKC-2150,2026-10-01,TV+ Süper Paket,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),Android,Sabah (08-12),15309,132,0,2241,494.3
+TKC-2151,2026-10-21,TV+ Süper Paket,SMS,C - Gamer & E-Spor Özel,Profesyonel (27-40),Android,Gece (22-03),16440,434,15,889,757.0
+TKC-2152,2026-10-05,Game+ GeForce NOW,IG,B - İlk Ay +10GB Hediye,GNÇ (18-26),iOS,Akşam (17-22),13788,1123,79,1439,1707.1
+TKC-2153,2026-10-11,TV+ Süper Paket,BiP,C - Gamer & E-Spor Özel,Profesyonel (27-40),Android,Öğle (12-17),3330,222,9,100,1609.8
+TKC-2154,2026-10-05,Fizy Premium,Instagram,C - Gamer & E-Spor Özel,Gamer Pro,Android,Akşam (17-22),12580,848,72,1096,1710.4
+TKC-2155,2026-10-02,Fizy Premium,SMS,A - %40 İndirim Fırsatı,Gamer Pro,Android,Öğle (12-17),5276,180,6,261.41 TL,719.8
+TKC-2156,2026-10-22,TV+ Süper Paket,SMS,D - Son 24 Saat (FOMO),GNÇ (18-26),iOS,Öğle (12-17),9123,339,13,436,811.8
+TKC-2157,2026-10-13,Lifebox 500GB,BiP,B - İlk Ay +10GB Hediye,GNÇ (18-26),Android,Akşam (17-22),2814,143,6,72,1370.3
+TKC-2158,2026-10-12,Fizy Premium,BiP,A - %40 İndirim Fırsatı,Profesyonel (27-40),iOS,Akşam (17-22),1740,126,5,46,1405.9
+TKC-2159,2026-10-17,Fizy Premium,SMS,C - Gamer & E-Spor Özel,Profesyonel (27-40),iOS,Akşam (17-22),10030,283,9,₺542,855.9
+TKC-2160,2026-10-21,TV+ Süper Paket,BiP,B - İlk Ay +10GB Hediye,GNÇ (18-26),Android,Sabah (08-12),8236,420,25,280,1558.1
+TKC-2161,2026-10-22,Lifebox 500GB,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),iOS,Sabah (08-12),22016,216,1,3165,515.0
+TKC-2162,2026-10-01,Lifebox 500GB,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),iOS,Sabah (08-12),14232,195,0,1788,676.2
+TKC-2163,2026-10-30,BiP Yıldızlar,SMS,A - %40 İndirim Fırsatı,Aile & Ev (41+),iOS,Öğle (12-17),1508,53,1,94,1031.4
+TKC-2164,2026-10-30,TV+ Süper Paket,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),iOS,Sabah (08-12),13560,131,0,1721,712.9
+TKC-2165,2026-10-03,TV+ Süper Paket,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),Android,Sabah (08-12),11397,104,0,1679,745.0
+TKC-2166,2026-10-30,Game+ GeForce NOW,Instagram,B - İlk Ay +10GB Hediye,Gamer Pro,iOS,Akşam (17-22),4321,374,24,482.19 TL,
+TKC-2167,2026-10-09,TV+ Süper Paket,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),iOS,Sabah (08-12),14526,194,0,1887,699.1
+TKC-2168,2026-10-14,Lifebox 500GB,IG,A - %40 İndirim Fırsatı,Aile & Ev (41+),Android,Sabah (08-12),17201,165,0,2354,739.0
+TKC-2169,2026-10-07,TV+ Süper Paket,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),Android,Sabah (08-12),15765,196,0,2234,664.7
+TKC-2170,2026-10-24,Lifebox 500GB,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),Android,Sabah (08-12),19345,180,0,2415,615.3
+TKC-2171,2026-10-05,Lifebox 500GB,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),iOS,Sabah (08-12),12884,182,0,1764,716.8
+TKC-2172,2026-10-22,BiP Yıldızlar,SMS,A - %40 İndirim Fırsatı,Aile & Ev (41+),iOS,Gece (22-03),6010,164,4,327,963.8
+TKC-2173,2026-10-28,Fizy Premium,BiP,D - Son 24 Saat (FOMO),GNÇ (18-26),Android,Gece (22-03),19201,1228,55,684,1415.5
+TKC-2174,2026-10-27,BiP Yıldızlar,BiP,D - Son 24 Saat (FOMO),Profesyonel (27-40),Android,Akşam (17-22),18525,891,28,685,1465.6
+TKC-2175,2026-10-06,Game+ GeForce NOW,BiP,B - İlk Ay +10GB Hediye,Aile & Ev (41+),Android,Akşam (17-22),14442,876,59,$11,1293.1
+TKC-2176,2026-10-14,Fizy Premium,BiP,A - %40 İndirim Fırsatı,GNÇ (18-26),Android,Akşam (17-22),18031,1244,50,661,1482.2
+TKC-2177,2026-10-10,Game+ GeForce NOW,Instagram,C - Gamer & E-Spor Özel,Gamer Pro,iOS,Akşam (17-22),11192,768,61,1211.89 TL,1496.4
+TKC-2178,2026-10-09,Lifebox 500GB,SMS,C - Gamer & E-Spor Özel,GNÇ (18-26),iOS,Gece (22-03),21080,565,17,"₺1,036",850.0
+TKC-2179,2026-10-19,Lifebox 500GB,Push Bildirim,A - %40 İndirim Fırsatı,GNÇ (18-26),iOS,Gece (22-03),2517,3863,0,160,1188.8
+TKC-2180,2026-10-14,TV+ Süper Paket,BiP,B - İlk Ay +10GB Hediye,Profesyonel (27-40),iOS,Gece (22-03),17472,1184,59,455,1150.6
+TKC-2181,2026-10-08,Fizy Premium,BiP,C - Gamer & E-Spor Özel,Gamer Pro,Android,Akşam (17-22),16877,776,29,581,1570.1
+TKC-2182,2026-10-07,TV+ Süper Paket,BiP,C - Gamer & E-Spor Özel,Aile & Ev (41+),Android,Akşam (17-22),16063,756,26,424,1410.8
+TKC-2183,2026-10-26,BiP Yıldızlar,Push Bildirim,A - %40 İndirim Fırsatı,GNÇ (18-26),Android,Akşam (17-22),16302,594,18,306,999.1
+TKC-2184,2026-10-04,Lifebox 500GB,BiP,B - İlk Ay +10GB Hediye,,Android,Akşam (17-22),22926,1654,110,520,1200.5
+TKC-2185,2026-10-11,TV+ Süper Paket,Push Bildirim,D - Son 24 Saat (FOMO),Gamer Pro,iOS,Öğle (12-17),6061,199,9,139,860.7
+TKC-2186,2026-10-16,BiP Yıldızlar,SMS,C - Gamer & E-Spor Özel,Gamer Pro,iOS,Sabah (08-12),17020,383,12,1005,723.4
+TKC-2187,2026-10-03,Lifebox 500GB,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),Android,Sabah (08-12),9470,144,0,1088,498.6
+TKC-2188,2026-10-19,Lifebox 500GB,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),Android,Sabah (08-12),17159,146,0,2014.82 TL,574.0
+TKC-2189,2026-10-18,Lifebox 500GB,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),iOS,Sabah (08-12),3465,41,0,454,529.8
+TKC-2190,2026-10-17,TV+ Süper Paket,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),Android,Sabah (08-12),8497,80,0,-1097 TL,479.7
+TKC-2191,2026-10-13,BiP Yıldızlar,SMS,B - İlk Ay +10GB Hediye,GNÇ (18-26),iOS,Öğle (12-17),3728,110,4,173,757.7
+TKC-2192,2026-10-21,TV+ Süper Paket,BiP,B - İlk Ay +10GB Hediye,Profesyonel (27-40),Android,Öğle (12-17),2906,206,13,65,1469.4
+TKC-2193,2026-10-30,Lifebox 500GB,SMS,B - İlk Ay +10GB Hediye,Gamer Pro,Android,Öğle (12-17),18196,659,22,1094,755.0
+TKC-2194,2026-10-20,BiP Yıldızlar,SMS,D - Son 24 Saat (FOMO),Gamer Pro,iOS,Sabah (08-12),3673,113,4,222,970.5
+TKC-2195,2026-10-02,Game+ GeForce NOW,SMS,D - Son 24 Saat (FOMO),Gamer Pro,iOS,Akşam (17-22),19040,603,23,1183,864.5
+TKC-2196,2026-10-16,TV+ Süper Paket,SMS,C - Gamer & E-Spor Özel,Profesyonel (27-40),Android,Gece (22-03),12720,388,13,588,920.2
+TKC-2197,2026-10-30,Lifebox 500GB,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),Android,Sabah (08-12),12122,184,0,"₺1,502",541.9
+TKC-2198,2026-10-27,Lifebox 500GB,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),Android,Sabah (08-12),7671,108,0,887,681.0
+TKC-2199,2026-10-10,Lifebox 500GB,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),iOS,Sabah (08-12),16661,210,0,2315.61 TL,712.8
+TKC-2200,2026-10-21,Lifebox 500GB,Instagram,A - %40 İndirim Fırsatı,Aile & Ev (41+),iOS,Sabah (08-12),22716,328,1,2855,665.1

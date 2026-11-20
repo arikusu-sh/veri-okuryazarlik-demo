@@ -1,0 +1,872 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Katılımcı El Kitabı | Turkcell Yapay Zekâ ile Veri Okuryazarlığı Atölyesi</title>
+  <style>
+    @layer base, theme, components, utilities;
+
+    @layer theme {
+      :root {
+        --tcell-navy: #002855;
+        --tcell-navy-light: #003e80;
+        --tcell-navy-dark: #001836;
+        --tcell-yellow: #ffc900;
+        --tcell-yellow-soft: #fffbeb;
+        --tcell-yellow-border: #f59e0b;
+
+        --bg-page: #f4f7fb;
+        --bg-surface: #ffffff;
+        --bg-subtle: #eef2f8;
+        --bg-code: #0f172a;
+        --text-main: #1e293b;
+        --text-muted: #475569;
+        --text-on-navy: #ffffff;
+        --border-subtle: #cbd5e1;
+
+        --color-success: #15803d;
+        --color-success-bg: #dcfce7;
+        --color-info: #0369a1;
+        --color-info-bg: #e0f2fe;
+
+        --radius-md: 10px;
+        --radius-lg: 16px;
+        --shadow-sm: 0 2px 8px rgba(0, 40, 85, 0.06);
+        --font-sans: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+        --font-mono: "JetBrains Mono", "Fira Code", Consolas, monospace;
+      }
+    }
+
+    @layer base {
+      html {
+        scroll-behavior: smooth;
+        font-family: var(--font-sans);
+        color: var(--text-main);
+        background-color: var(--bg-page);
+        line-height: 1.6;
+      }
+
+      body {
+        margin: 0;
+        padding: 0;
+      }
+
+      h1, h2, h3, h4 {
+        color: var(--tcell-navy);
+        margin-block-start: 0;
+        line-height: 1.25;
+      }
+
+      code, pre {
+        font-family: var(--font-mono);
+      }
+
+      a {
+        color: var(--tcell-navy-light);
+        text-decoration: underline;
+        text-underline-offset: 3px;
+      }
+    }
+
+    @layer components {
+      .hero-header {
+        background: linear-gradient(135deg, var(--tcell-navy-dark) 0%, var(--tcell-navy) 65%, var(--tcell-navy-light) 100%);
+        color: var(--text-on-navy);
+        padding-block: 2.25rem;
+        padding-inline: 2rem;
+        border-block-end: 6px solid var(--tcell-yellow);
+      }
+
+      .hero-inner {
+        max-inline-size: 1280px;
+        margin-inline: auto;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+        align-items: center;
+        gap: 1.5rem;
+      }
+
+      .hero-badge {
+        display: inline-block;
+        background-color: var(--tcell-yellow);
+        color: var(--tcell-navy-dark);
+        font-weight: 800;
+        font-size: 0.8rem;
+        letter-spacing: 0.05em;
+        text-transform: uppercase;
+        padding-block: 0.3rem;
+        padding-inline: 0.85rem;
+        border-radius: 999px;
+        margin-block-end: 0.75rem;
+      }
+
+      .hero-title {
+        color: var(--text-on-navy);
+        font-size: clamp(1.55rem, 2.6vw, 2.25rem);
+        margin-block-end: 0.5rem;
+      }
+
+      .hero-subtitle {
+        color: #dbeafe;
+        font-size: 1.02rem;
+        max-inline-size: 740px;
+        margin: 0;
+      }
+
+      .zero-code-pill {
+        background: rgba(255, 201, 0, 0.16);
+        border: 2px solid var(--tcell-yellow);
+        padding: 0.9rem 1.2rem;
+        border-radius: var(--radius-md);
+        max-inline-size: 340px;
+        font-size: 0.9rem;
+      }
+
+      .zero-code-pill strong {
+        color: var(--tcell-yellow);
+        display: block;
+        margin-block-end: 0.25rem;
+      }
+
+      .layout-shell {
+        max-inline-size: 1280px;
+        margin-inline: auto;
+        padding-block: 2rem;
+        padding-inline: 1.5rem;
+        display: grid;
+        grid-template-columns: 280px minmax(0, 1fr);
+        gap: 2rem;
+        align-items: start;
+      }
+
+      @media (width < 960px) {
+        .layout-shell {
+          grid-template-columns: 1fr;
+        }
+      }
+
+      .sidebar-nav {
+        position: sticky;
+        inset-block-start: 1.25rem;
+        background: var(--bg-surface);
+        border-radius: var(--radius-lg);
+        padding: 1.25rem;
+        box-shadow: var(--shadow-sm);
+        border: 1px solid var(--border-subtle);
+      }
+
+      .sidebar-title {
+        font-size: 0.82rem;
+        text-transform: uppercase;
+        letter-spacing: 0.06em;
+        color: var(--text-muted);
+        margin-block-end: 0.75rem;
+        font-weight: 700;
+      }
+
+      .nav-list {
+        list-style: none;
+        padding: 0;
+        margin: 0 0 1.5rem 0;
+      }
+
+      .nav-list li:not(:last-child) {
+        margin-block-end: 0.35rem;
+      }
+
+      .nav-link {
+        display: flex;
+        align-items: center;
+        gap: 0.5rem;
+        padding-block: 0.5rem;
+        padding-inline: 0.75rem;
+        border-radius: 8px;
+        text-decoration: none;
+        color: var(--text-main);
+        font-weight: 500;
+        font-size: 0.92rem;
+        transition: background-color 0.15s ease;
+      }
+
+      .nav-link:hover {
+        background-color: var(--bg-subtle);
+        color: var(--tcell-navy);
+      }
+
+      .checklist-box {
+        background: var(--tcell-yellow-soft);
+        border: 1px solid var(--tcell-yellow-border);
+        border-radius: var(--radius-md);
+        padding: 1rem;
+      }
+
+      .checklist-item {
+        display: flex;
+        align-items: flex-start;
+        gap: 0.5rem;
+        font-size: 0.85rem;
+        cursor: pointer;
+      }
+
+      .checklist-item:not(:last-child) {
+        margin-block-end: 0.5rem;
+      }
+
+      .checklist-item:has(:checked) {
+        text-decoration: line-through;
+        color: var(--text-muted);
+      }
+
+      .section-card {
+        background: var(--bg-surface);
+        border-radius: var(--radius-lg);
+        padding: 2rem;
+        box-shadow: var(--shadow-sm);
+        border: 1px solid var(--border-subtle);
+        margin-block-end: 2rem;
+      }
+
+      .module-header {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+        align-items: center;
+        gap: 1rem;
+        padding-block-end: 1rem;
+        margin-block-end: 1.5rem;
+        border-block-end: 2px solid var(--bg-subtle);
+      }
+
+      .module-tag {
+        background: var(--tcell-navy);
+        color: var(--tcell-yellow);
+        padding-block: 0.3rem;
+        padding-inline: 0.8rem;
+        border-radius: 6px;
+        font-weight: 700;
+        font-size: 0.82rem;
+      }
+
+      .goal-badge {
+        background: var(--color-success-bg);
+        color: var(--color-success);
+        font-weight: 700;
+        padding-block: 0.3rem;
+        padding-inline: 0.8rem;
+        border-radius: 999px;
+        font-size: 0.83rem;
+      }
+
+      .info-callout {
+        background: var(--color-info-bg);
+        border-inline-start: 5px solid var(--color-info);
+        padding: 1rem 1.25rem;
+        border-radius: 8px;
+        margin-block: 1rem;
+      }
+
+      .tip-callout {
+        background: var(--tcell-yellow-soft);
+        border-inline-start: 6px solid var(--tcell-yellow);
+        padding: 1rem 1.25rem;
+        border-radius: 8px;
+        margin-block: 1.15rem;
+      }
+
+      .prompt-card {
+        background: var(--bg-code);
+        color: #f8fafc;
+        border-radius: var(--radius-md);
+        margin-block: 1.25rem;
+        overflow: hidden;
+        border: 1px solid #334155;
+      }
+
+      .prompt-toolbar {
+        background: #1e293b;
+        padding-block: 0.55rem;
+        padding-inline: 1rem;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        border-block-end: 1px solid #334155;
+      }
+
+      .prompt-label {
+        font-size: 0.8rem;
+        font-weight: 700;
+        color: var(--tcell-yellow);
+        text-transform: uppercase;
+        letter-spacing: 0.04em;
+      }
+
+      .copy-btn {
+        background: var(--tcell-yellow);
+        color: var(--tcell-navy-dark);
+        border: none;
+        border-radius: 6px;
+        padding-block: 0.38rem;
+        padding-inline: 0.85rem;
+        font-weight: 700;
+        font-size: 0.82rem;
+        cursor: pointer;
+        transition: transform 0.1s ease, background-color 0.15s ease;
+      }
+
+      .copy-btn:hover:not(:disabled) {
+        background: #ffd633;
+        transform: translateY(-1px);
+      }
+
+      .prompt-body {
+        padding: 1.1rem 1.25rem;
+        margin: 0;
+        white-space: pre-wrap;
+        word-break: break-word;
+        font-size: 0.93rem;
+        line-height: 1.55;
+      }
+
+      .step-grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+        gap: 1rem;
+        margin-block: 1rem;
+      }
+
+      .mini-card {
+        background: var(--bg-subtle);
+        padding: 1rem;
+        border-radius: var(--radius-md);
+        border: 1px solid var(--border-subtle);
+      }
+
+      .mini-card h4 {
+        margin-block-end: 0.4rem;
+        font-size: 0.96rem;
+      }
+
+      /* Responsive Table (modern-web-guidance: responsive-table) */
+      .table-wrapper {
+        overflow: auto;
+        max-inline-size: 100%;
+        max-block-size: min(480px, 80vh);
+        container-type: inline-size;
+        border: 1px solid var(--border-subtle);
+        border-radius: var(--radius-md);
+        margin-block: 1.25rem;
+      }
+
+      table {
+        inline-size: 100%;
+        border-collapse: separate;
+        border-spacing: 0;
+        font-size: 0.92rem;
+      }
+
+      caption {
+        text-align: start;
+        font-weight: 700;
+        padding: 0.85rem 1rem;
+        background: var(--bg-subtle);
+        color: var(--tcell-navy);
+        border-block-end: 1px solid var(--border-subtle);
+      }
+
+      thead {
+        position: sticky;
+        inset-block-start: 0;
+        z-index: 1;
+        background: var(--tcell-navy);
+        color: var(--text-on-navy);
+      }
+
+      th, td {
+        padding: 0.75rem 1rem;
+        text-align: start;
+        border-block-end: 1px solid var(--border-subtle);
+      }
+
+      tbody th {
+        position: sticky;
+        inset-inline-start: 0;
+        background: var(--bg-surface);
+        color: var(--tcell-navy);
+        font-weight: 700;
+      }
+
+      @container (width < 600px) {
+        table, thead, tbody, tr, th, td {
+          display: block;
+        }
+
+        thead {
+          display: none;
+        }
+
+        tr {
+          margin-block-end: 1rem;
+          border: 1px solid var(--border-subtle);
+        }
+
+        tbody th {
+          position: sticky;
+          inset-block-start: 0;
+          z-index: 2;
+          background: var(--bg-subtle);
+        }
+
+        table.slash-table {
+          --label-2: "Ne İşe Yarar?";
+          --label-3: "Örnek Kullanım";
+        }
+
+        table.slash-table td:nth-child(2)::before {
+          content: var(--label-2) ": ";
+          font-weight: 700;
+        }
+        table.slash-table td:nth-child(3)::before {
+          content: var(--label-3) ": ";
+          font-weight: 700;
+        }
+      }
+
+      /* Searchable Accordions (<details> - modern-web-guidance: search-hidden-content) */
+      details.disclosure {
+        border: 1px solid var(--border-subtle);
+        border-radius: var(--radius-md);
+        background: var(--bg-subtle);
+        padding-block: 0.65rem;
+        padding-inline: 1rem;
+        margin-block: 0.85rem;
+      }
+
+      details.disclosure summary {
+        font-weight: 700;
+        color: var(--tcell-navy);
+        cursor: pointer;
+        padding-block: 0.25rem;
+      }
+
+      details.disclosure[open] {
+        background: var(--bg-surface);
+        border-color: var(--tcell-navy-light);
+      }
+    }
+  </style>
+</head>
+<body>
+
+  <header class="hero-header">
+    <div class="hero-inner">
+      <div>
+        <span class="hero-badge">Katılımcı Uygulama Rehberi (Trainee Handbook)</span>
+        <h1 class="hero-title">Yapay Zekâ ile Veri Okuryazarlığı & Vibe Coding</h1>
+        <p class="hero-subtitle">
+          Turkcell Pazarlama & Dijital Servisler Atölyesi — Gemini Desktop App ile Tek Satır Kod Yazmadan
+          Veri Dedektifliği ve 360° Kampanya Kokpiti İnşası.
+        </p>
+      </div>
+      <div class="zero-code-pill">
+        <strong>🚫 Siyah Ekran (Terminal) Yok!</strong>
+        Kurulum dahil her şeyi <b>Gemini Desktop App</b> sohbet penceresine aşağıdaki Türkçe komutları (Prompt) yapıştırarak yaptırıyoruz.
+      </div>
+    </div>
+  </header>
+
+  <div class="layout-shell">
+    <!-- Sol Sabit Menü & Katılımcı Görev Listesi -->
+    <aside class="sidebar-nav" aria-label="Atölye Adımları">
+      <div class="sidebar-title">🧭 Görev Adımları</div>
+      <ul class="nav-list">
+        <li><a class="nav-link" href="#adim-0">🚀 Adım 0: Tek Promptla Başlat</a></li>
+        <li><a class="nav-link" href="#gorev-1">🕵️ Görev 1: Veri Dedektifliği</a></li>
+        <li><a class="nav-link" href="#gorev-2">⚡ Görev 2: Gizli Şampiyonu Bul</a></li>
+        <li><a class="nav-link" href="#gorev-3">🎛️ Görev 3: Vibe Coding Kokpit</a></li>
+        <li><a class="nav-link" href="#gorev-4">🤖 Görev 4: Skill & Ajan Ekibi</a></li>
+        <li><a class="nav-link" href="#imdat-promptlari">🛟 İmdat Promptları (Yardım)</a></li>
+      </ul>
+
+      <div class="checklist-box">
+        <div class="sidebar-title" style="color: var(--tcell-navy-dark);">🏆 Kendi İlerleme Durumum</div>
+        <label class="checklist-item">
+          <input type="checkbox" data-trainee-step="t-1" />
+          <span>Taslak ekranı (Skeleton) açtım</span>
+        </label>
+        <label class="checklist-item">
+          <input type="checkbox" data-trainee-step="t-2" />
+          <span>Verideki 4 hatayı ve Bot saldırısını buldum</span>
+        </label>
+        <label class="checklist-item">
+          <input type="checkbox" data-trainee-step="t-3" />
+          <span>Instagram'daki gizli şampiyonu keşfettim</span>
+        </label>
+        <label class="checklist-item">
+          <input type="checkbox" data-trainee-step="t-4" />
+          <span>Turkcell tasarım kuralını (Rule) öğrettim</span>
+        </label>
+        <label class="checklist-item">
+          <input type="checkbox" data-trainee-step="t-5" />
+          <span>Bütçe Simülatörünü (Slider) kodlattım</span>
+        </label>
+        <label class="checklist-item">
+          <input type="checkbox" data-trainee-step="t-6" />
+          <span>Kendi Skill ve Subagent'ımı çalıştırdım</span>
+        </label>
+      </div>
+    </aside>
+
+    <main>
+
+      <!-- ADIM 0: GEMINI DESKTOP APP İLE KURULUM VE BAŞLATMA -->
+      <section id="adim-0" class="section-card">
+        <div class="module-header">
+          <div>
+            <span class="module-tag">ADIM 0 • BAŞLANGIÇ</span>
+            <h2 style="margin-block-start: 0.5rem; margin-block-end: 0;">Gemini Desktop App ile Projeyi Tek Komutla Ayağa Kaldırma</h2>
+          </div>
+          <span class="goal-badge">Hedef: Taslak Ekranı Tarayıcıda Görmek</span>
+        </div>
+
+        <p>
+          Hoş geldiniz! Bugün TV+, Fizy, Game+, Lifebox ve BiP servislerimizin geçen ayki dijital pazarlama kampanya verilerini inceleyeceğiz.
+          Bilgisayarınızda hiçbir teknik kurulum komutu yazmanıza gerek yok.
+        </p>
+
+        <ol>
+          <li><strong>Gemini Desktop App</strong> uygulamasını açın ve çalışma alanı (Workspace) olarak <code>oneri-2-kampanya-kokpiti</code> klasörünü seçin.</li>
+          <li>Aşağıdaki <strong>"Promptu Kopyala"</strong> butonuna tıklayın ve sohbet kutusuna yapıştırıp gönderin:</li>
+        </ol>
+
+        <div class="prompt-card">
+          <div class="prompt-toolbar">
+            <span class="prompt-label">Prompt #0 — Kurulumu Yap ve Taslak Uygulamayı Başlat</span>
+            <button class="copy-btn" type="button" data-copy-target="tp0">Promptu Kopyala</button>
+          </div>
+          <pre id="tp0" class="prompt-body">Merhaba! Ben yazılımcı değilim, bu yüzden tüm teknik kurulum adımlarını benim yerime senin yapmanı istiyorum:
+1. Bu proje klasöründe `.venv` adında bir Python sanal ortamı yoksa oluştur ve `requirements.txt` içindeki paketleri bu sanal ortama yükle.
+2. Ardından bu sanal ortamı kullanarak `app_skeleton.py` uygulamasını arka planda çalıştır ve tarayıcımda açabileceğim bağlantıyı (http://localhost:8501 gibi) bana yaz.
+3. Son olarak bu klasördeki dosyaların ne işe yaradığını bana kısaca iş birimi dilinde özetle.</pre>
+        </div>
+
+        <div class="info-callout">
+          <strong>💡 Küçük İpucu:</strong> Gemini Desktop App paketleri kurarken veya uygulamayı başlatırken sizden onay isterse
+          ekranda çıkan <strong>Allow / Run (İzin Ver)</strong> butonuna tıklamanız yeterlidir. Ardından size verdiği
+          <code>http://localhost:8501</code> bağlantısına tıklayarak taslak raporu tarayıcınızda açın!
+        </div>
+      </section>
+
+      <!-- GÖREV 1: VERİ DEDEKTİFLİĞİ -->
+      <section id="gorev-1" class="section-card">
+        <div class="module-header">
+          <div>
+            <span class="module-tag">GÖREV 1 • KEŞİFSEL VERİ ANALİZİ (EDA - 1)</span>
+            <h2 style="margin-block-start: 0.5rem; margin-block-end: 0;">Veri Dedektifliği: Raporumuz Neden Bozuk Görünüyor?</h2>
+          </div>
+          <span class="goal-badge">Hedef: Kirli Veriyi ve Bot Saldırısını Yakalamak</span>
+        </div>
+
+        <p>
+          Tarayıcıda açtığınız taslak ekrana baktığınızda bir tuhaflık fark edeceksiniz:
+          <strong>Toplam Harcanan Bütçe "HESAPLANAMIYOR"</strong> diyor ve grafikte 4 kanal olması gerekirken
+          <code>IG</code>, <code>instagram</code>, <code>bip</code> gibi bir sürü ayrı sütun var!
+          Hemen Gemini Desktop App'e "Veri Dedektifi" şapkasını taktıralım:
+        </p>
+
+        <div class="prompt-card">
+          <div class="prompt-toolbar">
+            <span class="prompt-label">Prompt #1 — Veri Kalitesi ve Şüpheli Trafik Denetimi</span>
+            <button class="copy-btn" type="button" data-copy-target="tp1">Promptu Kopyala</button>
+          </div>
+          <pre id="tp1" class="prompt-body">`data/turkcell_kampanya_ab_verisi.csv` dosyasını bir Pazarlama Veri Dedektifi gibi incelemeni istiyorum.
+Arka planda veriyi kontrol edip şu 4 sorunun cevabını bana hiç teknik terim kullanmadan, net rakamlarla raporla:
+1. Kanal isimlerinde hangi yazım hataları veya çoklamalar var?
+2. Harcanan bütçe sütunu neden toplanamıyor? İçinde farklı para birimleri ($) veya eksi (-) değerler mi var?
+3. Hangi sütunlarda boş (eksik) bırakılmış veriler var?
+4. Veride mantıksal olarak imkansız olan şüpheli bir durum (örneğin tıklama sayısı gösterim sayısından bile fazla olan bir bot saldırısı) var mı? Varsa hangi saat diliminde gerçekleşmiş ve hiç abone getirmiş mi?</pre>
+        </div>
+
+        <details class="disclosure">
+          <summary>🔍 Kendinizi Kontrol Edin: Gemini Neleri Bulmuş Olmalı? (Tıklayın)</summary>
+          <ul>
+            <li><strong>Kanal Yazım Hataları:</strong> <code>Instagram</code> ve <code>BiP</code> kanalları farklı harflerle yazıldığı için grafikte 9 ayrı kanal gibi görünüyor.</li>
+            <li><strong>Bütçe Sütunu:</strong> Bazı satırlarda Dolar (<code>$</code>), bazılarında <code>₺</code> ve <code>TL</code> harfleri, 14 satırda ise eksi (<code>-</code>) tutarlar var.</li>
+            <li><strong>Gece Bot Saldırısı:</strong> <code>Gece (22-03)</code> saatlerinde tıklama sayısının gösterimi geçtiği <strong>28 şüpheli kampanya kaydı</strong> var ve <strong>0 yeni abone</strong> getirmiş!</li>
+          </ul>
+        </details>
+      </section>
+
+      <!-- GÖREV 2: SIMPSON PARADOKSU VE KURUMSAL KURAL (RULE) -->
+      <section id="gorev-2" class="section-card">
+        <div class="module-header">
+          <div>
+            <span class="module-tag">GÖREV 2 • DERİN ANALİZ & KURALLAR (RULES)</span>
+            <h2 style="margin-block-start: 0.5rem; margin-block-end: 0;">Ortalamaların Tuzağı: Instagram'ı Kapatmalı mıyız?</h2>
+          </div>
+          <span class="goal-badge">Hedef: Gizli Şampiyonu Bulmak & Kural Öğretmek</span>
+        </div>
+
+        <p>
+          Veriyi temizlediğimizde ilk bakışta <strong>Instagram en pahalı kanal</strong> gibi görünüyor.
+          Peki gerçekten Instagram başarısız mı, yoksa bütçe yanlış saatte yanlış kitleye mi harcanmış?
+          Buna veri biliminde <strong>Simpson Paradoksu</strong> denir. Gelin Gemini ile gerçeği ortaya çıkaralım:
+        </p>
+
+        <div class="prompt-card">
+          <div class="prompt-toolbar">
+            <span class="prompt-label">Prompt #2A — Instagram Alt Kırılım Analizi (Simpson Paradoksu)</span>
+            <button class="copy-btn" type="button" data-copy-target="tp2a">Promptu Kopyala</button>
+          </div>
+          <pre id="tp2a" class="prompt-body">Verideki yazım hatalarını düzelttikten ($ kurunu 35 TL alıp negatif bütçeleri pozitif yaptıktan) ve tıklaması gösteriminden fazla olan bot trafiğini çıkardıktan sonra:
+Genel tabloda Instagram'ın birim abone maliyeti (CAC) yüksek görünüyor. Ancak alt kırılımlarda gizli bir başarı hikayesi olabilir mi?
+Instagram performansını `hedef_kitle`, `gonderim_saati` ve `kreatif_varyant` kırılımlarında incele. Bütçenin büyük kısmının nereye boşa harcandığını ve aslında hangi kitle + saat diliminde Instagram'ın rekor kırdığını bana bir karşılaştırma tablosuyla anlat.</pre>
+        </div>
+
+        <h3 style="margin-block-start: 1.75rem;">📏 Gemini'ye Turkcell Çalışma Kurallarını (Rules) Öğretelim</h3>
+        <p>
+          Her sohbetimizde tekrar tekrar <em>"Turkcell renklerini kullan, teknik terim kullanma, TL işareti koy"</em> demek yerine,
+          bunu projemize kalıcı bir <strong>Kural (Rule)</strong> olarak kaydedelim:
+        </p>
+
+        <div class="prompt-card">
+          <div class="prompt-toolbar">
+            <span class="prompt-label">Prompt #2B — Kalıcı Proje Kuralı (Rule) Oluşturma</span>
+            <button class="copy-btn" type="button" data-copy-target="tp2b">Promptu Kopyala</button>
+          </div>
+          <pre id="tp2b" class="prompt-body">Bundan sonraki tüm analizlerimizde ve ekran tasarımlarımızda otomatik uygulanması için `.gemini/rules/turkcell-pazarlama-standartlari.md` adında bir proje kuralı oluştur. İçine şu 4 kuralı yaz:
+1. Tüm görsel ve grafiklerde Turkcell kurumsal renkleri (#002855 Lacivert ve #FFC900 Sarı) kullanılmalıdır.
+2. Kullanıcılar yazılımcı değildir; teknik terimler yerine 'Müşteri Segmenti, Yatırım Getirisi (ROAS), Birim Abone Maliyeti (CAC), Abonelik Dönüşüm Oranı (CVR)' gibi pazarlama terimleri kullanılmalıdır.
+3. Her grafik veya analiz tablosunun altında mutlaka sarı renkli bir "💡 Pazarlama Aksiyon Önerisi" kutusu yer almalıdır.
+4. Tüm para birimleri ₺ sembolü ve binlik ayraçla gösterilmelidir.</pre>
+        </div>
+      </section>
+
+      <!-- GÖREV 3: VIBE CODING İLE KOKPİT İNŞASI -->
+      <section id="gorev-3" class="section-card">
+        <div class="module-header">
+          <div>
+            <span class="module-tag">GÖREV 3 • VIBE CODING UYGULAMASI</span>
+            <h2 style="margin-block-start: 0.5rem; margin-block-end: 0;">Taslak Ekranı 360° Kampanya ve Bütçe Kokpitine Dönüştürme</h2>
+          </div>
+          <span class="goal-badge">Hedef: Kendi İnteraktif Simülatörümüzü Kodlatmak</span>
+        </div>
+
+        <p>
+          Şimdi sıra <strong>Vibe Coding</strong>'de! Yani ne istediğimizi hayal edip tarif edeceğiz,
+          Gemini Desktop App ise arka planda <code>app_skeleton.py</code> dosyasını bizim için güncelleyecek.
+        </p>
+
+        <div class="prompt-card">
+          <div class="prompt-toolbar">
+            <span class="prompt-label">Prompt #3A — Veri Temizliği, Bot Filtresi ve Üst KPI Kartları</span>
+            <button class="copy-btn" type="button" data-copy-target="tp3a">Promptu Kopyala</button>
+          </div>
+          <pre id="tp3a" class="prompt-body">`app_skeleton.py` dosyasını az önce oluşturduğumuz Turkcell pazarlama kurallarına göre yenile:
+1. Veriyi yüklerken kanal yazım hatalarını (IG, instagram, bip vb.) otomatik düzelt, bütçe sütununu temiz TL sayısına çevir ($=35 TL, negatifleri pozitif yap) ve boş LTV hücrelerini kanalın ortanca değeriyle doldur.
+2. Sol menüye "🤖 Gece Bot Trafiğini (Tıklama > Gösterim) Ayıkla" adında bir aç/kapa anahtarı ekle ve sol menüdeki tüm filtrelerin grafiklerle gerçekten çalışmasını sağla.
+3. Ekranın en üstüne 5 şık özet kartı koy: Toplam Harcanan Bütçe (₺), Yeni Abone Sayısı, Tahmini LTV Geliri (₺), Genel ROAS (x) ve Birim Abone Maliyeti - CAC (₺).</pre>
+        </div>
+
+        <div class="prompt-card">
+          <div class="prompt-toolbar">
+            <span class="prompt-label">Prompt #3B — Simpson Paradoksu Sekmesi ve Bütçe Dağıtım Simülatörü</span>
+            <button class="copy-btn" type="button" data-copy-target="tp3b">Promptu Kopyala</button>
+          </div>
+          <pre id="tp3b" class="prompt-body">Harika gidiyor! Şimdi `app_skeleton.py` içindeki diğer sekmeleri de tamamlayalım:
+1. İkinci Sekme (Simpson Paradoksu Keşfi): Instagram'ın Hedef Kitle ve Gönderim Saati kırılımındaki performansını (Harcanan Bütçe, Yeni Abone, Dönüşüm Oranı %, CAC ve ROAS) gösteren bir tablo ve grafik ekle. Altına da sabah 41+ kitleye harcanan bütçenin neden akşam Genç/Gamer kuşağına kaydırılması gerektiğini özetleyen bir "💡 Pazarlama Aksiyon Önerisi" kutusu koy.
+2. Üçüncü Sekme (Bütçe & ROAS Simülatörü): Gelecek ayki bütçeyi BiP, Instagram (Sadece Akşam Genç/Gamer), Push Bildirim ve SMS kanalları arasında sürgülerle (slider) değiştirdiğimizde "Beklenen Yeni Abone Sayısını" ve "Beklenen ROAS" değerini geçmiş verideki gerçek birim maliyetlere göre anlık hesaplayan interaktif bir simülatör ekle.</pre>
+        </div>
+
+        <div class="tip-callout">
+          <strong>🎨 Kendi Yaratıcılığınızı Katın (Serbest Vibe Coding):</strong><br />
+          Yukarıdaki iki adımı tamamladıktan sonra tarayıcınızda sayfayı yenileyin. Ardından kendi cümlelerinizle
+          ekrana yeni bir özellik ekletin! Örneğin:
+          <ul>
+            <li><em>"En yüksek dönüşüm getiren kreatif mesajı ekranın üstünde altın sarısı bir '🏆 Ayın Şampiyon Kreatifi' rozetiyle göster."</em></li>
+            <li><em>"Filtrelenmiş temiz tabloyu tek tıkla indirebilmem için bir '📥 Temiz Raporu İndir (CSV)' butonu ekle."</em></li>
+          </ul>
+        </div>
+      </section>
+
+      <!-- GÖREV 4: SKILL, SUBAGENT VE ARTIFACT -->
+      <section id="gorev-4" class="section-card">
+        <div class="module-header">
+          <div>
+            <span class="module-tag">GÖREV 4 • KENDİ YAPAY ZEKÂ EKİBİNİ KUR</span>
+            <h2 style="margin-block-start: 0.5rem; margin-block-end: 0;">Skill Oluşturma, Çoklu Ajan (Subagent) ve Yönetici Sunumu</h2>
+          </div>
+          <span class="goal-badge">Hedef: Haftalık İşleri Otomatikleştirmek</span>
+        </div>
+
+        <h3>1. Kendi "Skill" (Yetenek) Paketimizi Oluşturalım</h3>
+        <p>
+          Her Pazartesi sabahı yeni kampanya verisi geldiğinde aynı soruları baştan yazmak yerine,
+          Gemini'ye <strong>"Kampanya Karnesi"</strong> adında özel bir yetenek (Skill) tanımlıyoruz:
+        </p>
+
+        <div class="prompt-card">
+          <div class="prompt-toolbar">
+            <span class="prompt-label">Prompt #4A — Haftalık Kampanya Karnesi Skill'i Oluşturma</span>
+            <button class="copy-btn" type="button" data-copy-target="tp4a">Promptu Kopyala</button>
+          </div>
+          <pre id="tp4a" class="prompt-body">Ekibimizin her hafta yeni bir kampanya CSV dosyası geldiğinde tek komutla standart rapor alabilmesi için `.gemini/skills/kampanya-karnesi/SKILL.md` adında yeni bir Skill (Yetenek) oluştur.
+Bu skill çalıştırıldığında otomatik olarak:
+1. Verideki bot trafiğini ve veri kirliliğini kontrol etsin,
+2. En yüksek ROAS getiren ilk 3 "Kanal + Hedef Kitle + Kreatif" kombinasyonunu ödüllendirsin,
+3. En çok bütçe yakan (en yüksek CAC) 2 kombinasyonu kırmızı alarmla listelesin,
+4. Gelecek hafta için 3 maddelik net bütçe kaydırma aksiyonu yazsın.
+Skill'i oluşturduktan sonra mevcut kampanya verimiz için bu Skill'i hemen çalıştırıp raporu göster!</pre>
+        </div>
+
+        <h3>2. İki Farklı Uzman Ajanı (Subagent) Tartıştıralım</h3>
+        <p>
+          Pazarlama toplantılarında <strong>Finans (CFO)</strong> ekibi maliyetleri kesmek isterken,
+          <strong>Büyüme (CMO)</strong> ekibi yeni abone ve LTV peşindedir. Gemini'den iki ayrı uzman ajan (Subagent)
+          başlatıp verimizi iki farklı gözle incelemesini ve ortak bir Yönetim Kurulu sunumu (Artifact) hazırlamasını isteyelim:
+        </p>
+
+        <div class="prompt-card">
+          <div class="prompt-toolbar">
+            <span class="prompt-label">Prompt #4B — CFO vs. CMO Subagent Çalıştırma ve Yönetici Artifact'i</span>
+            <button class="copy-btn" type="button" data-copy-target="tp4b">Promptu Kopyala</button>
+          </div>
+          <pre id="tp4b" class="prompt-body">Kampanya verimizi iki farklı bakış açısıyla değerlendirmek için iki ayrı alt ajan (subagent) başlatmanı istiyorum:
+1. Birinci ajan "Finans ve Bütçe Denetçisi (CFO Gözü)" olsun: Bot kaynaklı kayıplara, gereksiz harcamalara ve birim maliyeti (CAC) düşürmeye odaklansın.
+2. İkinci ajan "Dijital Servisler Büyüme Lideri (CMO Gözü)" olsun: Genç/Gamer kitle kazanımına, LTV (Yaşam Boyu Değer) artışına ve çapraz satış fırsatlarına odaklansın.
+İki ajanın görüşlerini aldıktan sonra, ikisinin uzlaştığı ortak bir "Yönetim Kurulu Kampanya Strateji Raporu" Artifact dokümanı (içinde görsel akış şeması ve aksiyon tablosu olan) oluştur.</pre>
+        </div>
+
+        <!-- Responsive Table: Faydalı Slash Komutları -->
+        <div tabindex="0" role="region" aria-labelledby="slash-tablo-baslik" class="table-wrapper">
+          <table class="slash-table">
+            <caption id="slash-tablo-baslik">
+              ⌨️ Gemini Desktop App İçinde Kullanabileceğiniz Pratik Kısa Komutlar (Slash Commands)
+            </caption>
+            <thead>
+              <tr>
+                <th>Komut</th>
+                <th>Ne İşe Yarar?</th>
+                <th>Örnek Kullanım</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <th><code>/plan</code></th>
+                <td>Büyük bir özellik eklemeden önce adım adım onaylayabileceğiniz bir çalışma planı çıkarır.</td>
+                <td><code>/plan</code> Kokpite müşterilerin yıllık terk (churn) riskini tahmin eden yeni bir sekme ekleyelim.</td>
+              </tr>
+              <tr>
+                <th><code>/grill-me</code></th>
+                <td>Ne istediğinizden tam emin değilseniz Gemini size sorular sorarak fikrinizi netleştirir.</td>
+                <td><code>/grill-me</code> TV+ için yeni bir kampanya simülatörü tasarlamak istiyorum, bana sorular sor.</td>
+              </tr>
+              <tr>
+                <th><code>/boost</code></th>
+                <td>Karmaşık strateji ve çok boyutlu veri problemlerinde derin düşünme ve doğrulama modunu açar.</td>
+                <td><code>/boost</code> Tüm servislerin bütçe dağılımını maksimum LTV getirecek şekilde optimize et.</td>
+              </tr>
+              <tr>
+                <th><code>/learn</code></th>
+                <td>Gemini'ye öğrettiğiniz bir iş kuralını veya tercihi gelecekteki görevler için kalıcı hale getirir.</td>
+                <td><code>/learn</code> Raporlarımızda her zaman BiP ve TV+ metriklerini en üst sırada göster.</td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+      </section>
+
+      <!-- İMDAT PROMPTLARI (SORUN GİDERME) -->
+      <section id="imdat-promptlari" class="section-card">
+        <div class="module-header">
+          <div>
+            <span class="module-tag">YARDIM KİTİ • İMDAT PROMPTLARI</span>
+            <h2 style="margin-block-start: 0.5rem; margin-block-end: 0;">Bir Şey Ters Giderse Ne Yapmalıyım?</h2>
+          </div>
+          <span class="goal-badge">Sıfır Stres: Hatayı da Gemini'ye Çözdürün!</span>
+        </div>
+
+        <p>
+          Vibe Coding yaparken ekranda kırmızı bir hata çıkması veya uygulamanın durması çok normaldir.
+          Böyle bir durumda <strong>kodu kendiniz düzeltmeye çalışmayın</strong>; aşağıdaki hazır "İmdat Promptlarından"
+          uygun olanı kopyalayıp Gemini'ye gönderin:
+        </p>
+
+        <div class="accordion-group">
+          <details class="disclosure" name="imdat-akordeon" open>
+            <summary>🚨 Durum 1: Tarayıcıdaki dashboard ekranında kırmızı bir hata kutusu çıktı</summary>
+            <div class="prompt-card">
+              <div class="prompt-toolbar">
+                <span class="prompt-label">İmdat Promptu — Kırmızı Ekran Hatasını Otomatik Düzelt</span>
+                <button class="copy-btn" type="button" data-copy-target="help1">Promptu Kopyala</button>
+              </div>
+              <pre id="help1" class="prompt-body">Tarayıcıdaki Streamlit ekranında bir hata oluştu. Lütfen `app_skeleton.py` dosyasını kontrol edip hatanın nedenini bul, kendi kendine test ederek düzelt ve ekranın sorunsuz çalıştığından emin ol.</pre>
+            </div>
+          </details>
+
+          <details class="disclosure" name="imdat-akordeon">
+            <summary>🔌 Durum 2: Tarayıcıda "Siteye ulaşılamıyor (localhost bağlanmayı reddetti)" diyor</summary>
+            <div class="prompt-card">
+              <div class="prompt-toolbar">
+                <span class="prompt-label">İmdat Promptu — Uygulamayı Yeniden Başlat</span>
+                <button class="copy-btn" type="button" data-copy-target="help2">Promptu Kopyala</button>
+              </div>
+              <pre id="help2" class="prompt-body">Tarayıcıda uygulama sayfası açılmıyor, sanırım arka planda çalışan Streamlit kapandı. Sanal ortamı (`.venv`) kullanarak `app_skeleton.py` uygulamasını tekrar başlatıp bana açık olduğu adresi verir misin?</pre>
+            </div>
+          </details>
+
+          <details class="disclosure" name="imdat-akordeon">
+            <summary>⏪ Durum 3: Ekran çok karıştı, temiz ve bitmiş kokpit üzerinden devam etmek istiyorum</summary>
+            <div class="prompt-card">
+              <div class="prompt-toolbar">
+                <span class="prompt-label">İmdat Promptu — Hazır Referans Kokpite Geç</span>
+                <button class="copy-btn" type="button" data-copy-target="help3">Promptu Kopyala</button>
+              </div>
+              <pre id="help3" class="prompt-body">Klasördeki tamamlanmış örnek olan `app_cozum_referans.py` dosyasının içeriğini `app_skeleton.py` dosyasına kopyala ve uygulamayı yenile ki temiz kokpit üzerinden devam edebileyim.</pre>
+            </div>
+          </details>
+        </div>
+      </section>
+
+    </main>
+  </div>
+
+  <script>
+    // 1. Tek Tıkla Prompt Kopyalama
+    document.querySelectorAll('.copy-btn').forEach((btn) => {
+      btn.addEventListener('click', async () => {
+        const targetId = btn.getAttribute('data-copy-target');
+        const targetEl = document.getElementById(targetId);
+        if (!targetEl) return;
+
+        try {
+          await navigator.clipboard.writeText(targetEl.textContent.trim());
+          const originalText = btn.textContent;
+          btn.textContent = '✓ Kopyalandı!';
+          setTimeout(() => {
+            btn.textContent = originalText;
+          }, 1800);
+        } catch (err) {
+          console.error('Kopyalama başarısız:', err);
+        }
+      });
+    });
+
+    // 2. Katılımcı İlerleme Durumunu localStorage'da Saklama
+    const TRAINEE_STORAGE_KEY = 'turkcell_trainee_handbook_progress_v1';
+    const savedTraineeState = JSON.parse(localStorage.getItem(TRAINEE_STORAGE_KEY) || '{}');
+
+    document.querySelectorAll('input[data-trainee-step]').forEach((checkbox) => {
+      const key = checkbox.getAttribute('data-trainee-step');
+      if (savedTraineeState[key]) {
+        checkbox.checked = true;
+      }
+      checkbox.addEventListener('change', () => {
+        savedTraineeState[key] = checkbox.checked;
+        localStorage.setItem(TRAINEE_STORAGE_KEY, JSON.stringify(savedTraineeState));
+      });
+    });
+  </script>
+</body>
+</html>
